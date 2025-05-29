@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <logflag>0</logflag>
+    <advanced_ppc_logging>false</advanced_ppc_logging>
+    <mlc_path></mlc_path>
+    <permanent_storage>true</permanent_storage>
+    <language>129</language>
+    <use_discord_presence>true</use_discord_presence>
+    <fullscreen_menubar>false</fullscreen_menubar>
+    <feral_gamemode>false</feral_gamemode>
+    <check_update>false</check_update>
+    <receive_untested_updates>true</receive_untested_updates>
+    <save_screenshot>false</save_screenshot>
+    <vk_warning>false</vk_warning>
+    <gp_download>true</gp_download>
+    <macos_disclaimer>false</macos_disclaimer>
+    <fullscreen>false</fullscreen>
+    <proxy_server></proxy_server>
+    <disable_screensaver>true</disable_screensaver>
+    <play_boot_sound>false</play_boot_sound>
+    <console_language>1</console_language>
+    <window_position>
+        <x>-1</x>
+        <y>-1</y>
+    </window_position>
+    <window_size>
+        <x>-1</x>
+        <y>-1</y>
+    </window_size>
+    <window_maximized>false</window_maximized>
+    <open_pad>false</open_pad>
+    <pad_position>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_position>
+    <pad_size>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_size>
+    <pad_maximized>false</pad_maximized>
+    <show_icon_column>true</show_icon_column>
+    <GameList>
+        <style>0</style>
+        <order>[0, 1, 2, 3, 4, 5, 6, 7, 8]</order>
+        <name_width>500</name_width>
+        <version_width>60</version_width>
+        <dlc_width>50</dlc_width>
+        <game_time_width>0</game_time_width>
+        <game_started_width>0</game_started_width>
+        <region_width>602</region_width>
+        <title_id>0</title_id>
+    </GameList>
+    <RecentLaunchFiles>
+        <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/耀西的毛线世界[简体汉化][v48][四人][91WII汉化组]</Entry>
+        <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 风之杖 HD[日版][简体汉化v1.02][91WII汉化组]</Entry>
+        <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 黄昏公主 HD[日版][简体汉化][v82][ACG汉化组]</Entry>
+    </RecentLaunchFiles>
+    <RecentNFCFiles/>
+    <GamePaths>
+        <Entry>E:\Tools\ROMs\Nintendo - Nintendo Wii U</Entry>
+    </GamePaths>
+    <GameCache/>
+    <GraphicPack>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_GreenCharactersTint/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_ImprovePerformance/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/SkylandersSwapForce/Workarounds/PortalStabilityFix/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_InvisibleCharactersCutoutMode/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_Resolution/rules.txt">
+            <Preset>
+                <preset>2560x1440</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/YoshisWoollyWorld_Shadows/rules.txt">
+            <Preset>
+                <preset>Medium (100%, Default)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/KirbyRainbow_InvisibleLineFix/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/TwilightPrincessHD_Performance_Resolution/rules.txt">
+            <Preset>
+                <preset>1600x900</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/TwilightPrincessHD_Resolution/rules.txt">
+            <Preset>
+                <preset>2560x1440</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/WindWakerHD_Resolution/rules.txt">
+            <Preset>
+                <preset>2560x1440</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/YoshisWoollyWorld_60fpsMap/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/WindWakerHD_Shadows/rules.txt">
+            <Preset>
+                <preset>Medium (100%, Default)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/YoshisWoollyWorld_Resolution/rules.txt">
+            <Preset>
+                <preset>2560x1440</preset>
+            </Preset>
+        </Entry>
+    </GraphicPack>
+    <Graphic>
+        <api>1</api>
+        <device>a091340541a11cf05d649c967f150a22</device>
+        <VSync>2</VSync>
+        <GX2DrawdoneSync>true</GX2DrawdoneSync>
+        <UpscaleFilter>1</UpscaleFilter>
+        <DownscaleFilter>0</DownscaleFilter>
+        <FullscreenScaling>0</FullscreenScaling>
+        <AsyncCompile>true</AsyncCompile>
+        <vkAccurateBarriers>true</vkAccurateBarriers>
+        <Overlay>
+            <Position>0</Position>
+            <TextColor>4294967295</TextColor>
+            <TextScale>100</TextScale>
+            <FPS>true</FPS>
+            <DrawCalls>false</DrawCalls>
+            <CPUUsage>false</CPUUsage>
+            <CPUPerCoreUsage>false</CPUPerCoreUsage>
+            <RAMUsage>false</RAMUsage>
+            <VRAMUsage>false</VRAMUsage>
+            <Debug>false</Debug>
+        </Overlay>
+        <Notification>
+            <Position>1</Position>
+            <TextColor>4294967295</TextColor>
+            <TextScale>100</TextScale>
+            <ControllerProfiles>true</ControllerProfiles>
+            <ControllerBattery>false</ControllerBattery>
+            <ShaderCompiling>true</ShaderCompiling>
+            <FriendService>true</FriendService>
+        </Notification>
+    </Graphic>
+    <Audio>
+        <api>0</api>
+        <delay>2</delay>
+        <TVChannels>1</TVChannels>
+        <PadChannels>1</PadChannels>
+        <InputChannels>0</InputChannels>
+        <TVVolume>100</TVVolume>
+        <PadVolume>0</PadVolume>
+        <InputVolume>50</InputVolume>
+        <TVDevice>default</TVDevice>
+        <PadDevice></PadDevice>
+        <InputDevice></InputDevice>
+    </Audio>
+    <Account>
+        <PersistentId>2147483650</PersistentId>
+        <OnlineEnabled>false</OnlineEnabled>
+        <ActiveService>0</ActiveService>
+    </Account>
+    <AccountService/>
+    <Debug>
+        <CrashDumpWindows>0</CrashDumpWindows>
+        <GDBPort>1337</GDBPort>
+    </Debug>
+    <Input>
+        <DSUC host="127.0.0.1" port="26760"/>
+    </Input>
+    <EmulatedUsbDevices>
+        <EmulateSkylanderPortal>false</EmulateSkylanderPortal>
+        <EmulateInfinityBase>false</EmulateInfinityBase>
+        <EmulateDimensionsToypad>false</EmulateDimensionsToypad>
+    </EmulatedUsbDevices>
+</content>
