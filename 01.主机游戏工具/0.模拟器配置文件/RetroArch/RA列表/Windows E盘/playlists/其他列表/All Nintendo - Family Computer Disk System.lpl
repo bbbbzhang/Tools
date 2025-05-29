@@ -1,0 +1,1307 @@
+{
+  "version": "1.5",
+  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mesen_libretro.dll",
+  "default_core_name": "Nintendo - NES / Famicom (Mesen)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Adian no Tsue (Japan).fds",
+      "label": "Adian no Tsue (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Ai Senshi Nicol (Japan) [b].fds",
+      "label": "Ai Senshi Nicol (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl).fds",
+      "label": "Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Akumajou Dracula (Japan) (v1.0) [b].fds",
+      "label": "Akumajou Dracula (Japan) (v1.0) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Akumajou Dracula (Japan) (v1.1) [b].fds",
+      "label": "Akumajou Dracula (Japan) (v1.1) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Akumajou Dracula (Japan) (v1.2) [b].fds",
+      "label": "Akumajou Dracula (Japan) (v1.2) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Aliens - Alien 2 (Japan) (Proto) [b].fds",
+      "label": "Aliens - Alien 2 (Japan) (Proto) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\All Night Nippon Super Mario Brothers (Japan) (Promotion Card).fds",
+      "label": "All Night Nippon Super Mario Brothers (Japan) (Promotion Card)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Apple Town Monogatari - Little Computer People (Japan).fds",
+      "label": "Apple Town Monogatari - Little Computer People (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Armana no Kiseki (Japan).fds",
+      "label": "Armana no Kiseki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Aspic - Majaou no Noroi (Japan).fds",
+      "label": "Aspic - Majaou no Noroi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Big Challenge! Go! Go! Bowling (Japan).fds",
+      "label": "Big Challenge! Go! Go! Bowling (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Big Challenge! Gun Fighter (Japan).fds",
+      "label": "Big Challenge! Gun Fighter (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Big Challenge! Juudou Senshuken (Japan).fds",
+      "label": "Big Challenge! Juudou Senshuken (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bio Miracle Bokutte Upa (Japan).fds",
+      "label": "Bio Miracle Bokutte Upa (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Control (Japan) (Unl).fds",
+      "label": "Bishoujo Control (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan) (Unl).fds",
+      "label": "Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl).fds",
+      "label": "Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Kachinuki Renju - Gomoku Narabe (Japan) (Unl).fds",
+      "label": "Bishoujo Kachinuki Renju - Gomoku Narabe (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Mahjong Club (Japan) (Unl).fds",
+      "label": "Bishoujo Mahjong Club (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Sexy Derby (Japan) (Unl).fds",
+      "label": "Bishoujo Sexy Derby (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Sexy Puzzle (Japan) (Unl).fds",
+      "label": "Bishoujo Sexy Puzzle (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Sexy Slot (Japan) (Unl).fds",
+      "label": "Bishoujo Sexy Slot (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo SF Alien Battle (Japan) (Unl).fds",
+      "label": "Bishoujo SF Alien Battle (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Shashinkan - Moving School (Japan) (Unl).fds",
+      "label": "Bishoujo Shashinkan - Moving School (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bishoujo Shashinkan - Studio Cut (Japan) (Unl).fds",
+      "label": "Bishoujo Shashinkan - Studio Cut (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Bodycon Quest I - Abakareshi Musume Tachi (Japan) (Unl).fds",
+      "label": "Bodycon Quest I - Abakareshi Musume Tachi (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Chitei Tairiku Orudoora (Japan).fds",
+      "label": "Chitei Tairiku Orudoora (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Cocona World (Japan).fds",
+      "label": "Cocona World (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl).fds",
+      "label": "Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Date de Blackjack (Japan) (Unl).fds",
+      "label": "Date de Blackjack (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Deep Dungeon - Madou Senki (Japan) [b].fds",
+      "label": "Deep Dungeon - Madou Senki (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Deep Dungeon II - Yuushi no Monshou (Japan) (v1.0).fds",
+      "label": "Deep Dungeon II - Yuushi no Monshou (Japan) (v1.0)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Deep Dungeon II - Yuushi no Monshou (Japan) (v1.1) [b].fds",
+      "label": "Deep Dungeon II - Yuushi no Monshou (Japan) (v1.1) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Dirty Pair - Project Eden (Japan) [b].fds",
+      "label": "Dirty Pair - Project Eden (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Disk Hacker - Version 1.0 (Japan) (Unl).fds",
+      "label": "Disk Hacker - Version 1.0 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Disk Hacker - Version 1.2 (Japan) (Unl).fds",
+      "label": "Disk Hacker - Version 1.2 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Disk Hacker - Version 1.3 (Japan) (Unl).fds",
+      "label": "Disk Hacker - Version 1.3 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Disk Hacker II - Copy Plus 3 (Japan) (Unl).fds",
+      "label": "Disk Hacker II - Copy Plus 3 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Disk Keeper (Japan) (Unl).fds",
+      "label": "Disk Keeper (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Donkey Kong (Japan) (Disk Writer).fds",
+      "label": "Donkey Kong (Japan) (Disk Writer)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Donkey Kong Jr. (Japan) (Disk Writer).fds",
+      "label": "Donkey Kong Jr. (Japan) (Disk Writer)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Dr. Chaos - Jigoku no Tobira (Japan) [b].fds",
+      "label": "Dr. Chaos - Jigoku no Tobira (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Dracula II - Noroi no Fuuin (Japan).fds",
+      "label": "Dracula II - Noroi no Fuuin (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Druid - Kyoufu no Tobira (Japan).fds",
+      "label": "Druid - Kyoufu no Tobira (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Egger Land (Japan) [b].fds",
+      "label": "Egger Land (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Electrician (Japan).fds",
+      "label": "Electrician (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Emi-chan no Moero Yakyuuken! (Japan) (Unl).fds",
+      "label": "Emi-chan no Moero Yakyuuken! (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Esper Dream (Japan) (v1.0) [b].fds",
+      "label": "Esper Dream (Japan) (v1.0) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Esper Dream (Japan) (v1.1) [b].fds",
+      "label": "Esper Dream (Japan) (v1.1) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Exciting Baseball (Japan).fds",
+      "label": "Exciting Baseball (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Exciting Basket (Japan).fds",
+      "label": "Exciting Basket (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Exciting Billiard (Japan).fds",
+      "label": "Exciting Billiard (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Exciting Soccer - Konami Cup (Japan) [b].fds",
+      "label": "Exciting Soccer - Konami Cup (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl).fds",
+      "label": "Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Falsion (Japan).fds",
+      "label": "Falsion (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Famicom Grand Prix II - 3D Hot Rally (Japan).fds",
+      "label": "Famicom Grand Prix II - 3D Hot Rally (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Family Computer Golf Japan Course (Japan).fds",
+      "label": "Family Computer Golf Japan Course (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Family Computer Golf Special Course (Japan) (Prize Card).fds",
+      "label": "Family Computer Golf Special Course (Japan) (Prize Card)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Family Computer Golf Tournament - Japan Course (Japan) (Prize Card).fds",
+      "label": "Family Computer Golf Tournament - Japan Course (Japan) (Prize Card)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Family Computer Golf U.S. Course (Japan).fds",
+      "label": "Family Computer Golf U.S. Course (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Family Computer Othello (Japan).fds",
+      "label": "Family Computer Othello (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Final Commando - Akai Yousai (Japan).fds",
+      "label": "Final Commando - Akai Yousai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Fire Rock (Japan).fds",
+      "label": "Fire Rock (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\FMC Disk Card Checker Ver 1.3 (Japan) (v1.2) (Developer Card).fds",
+      "label": "FMC Disk Card Checker Ver 1.3 (Japan) (v1.2) (Developer Card)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Fruits Mahjong 1 Disk #1 - Dai H Taikai (Japan) (Unl).fds",
+      "label": "Fruits Mahjong 1 Disk #1 - Dai H Taikai (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Fruits Mahjong 2 Disk #2 - Tokimeki Gals (Japan) (Unl).fds",
+      "label": "Fruits Mahjong 2 Disk #2 - Tokimeki Gals (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Fruits Mahjong 3 Disk #4 - Yonin no Tenshi Tachi (Japan) (Unl).fds",
+      "label": "Fruits Mahjong 3 Disk #4 - Yonin no Tenshi Tachi (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Fruits Mahjong 4 Disk #6 - Bishoujo Connection (Japan) (Unl).fds",
+      "label": "Fruits Mahjong 4 Disk #6 - Bishoujo Connection (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Game no Tatsujin - Money Wars (Japan) (Unl).fds",
+      "label": "Game no Tatsujin - Money Wars (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Ginga Denshou - Galaxy Odyssey (Japan).fds",
+      "label": "Ginga Denshou - Galaxy Odyssey (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Golf (Japan) (v1.0).fds",
+      "label": "Golf (Japan) (v1.0)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Golf (Japan) (v1.1).fds",
+      "label": "Golf (Japan) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Golf, The - Bishoujo Classic (Japan) (Unl).fds",
+      "label": "Golf, The - Bishoujo Classic (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Hao-kun no Fushigi na Tabi (Japan) [b].fds",
+      "label": "Hao-kun no Fushigi na Tabi (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Hayama Reiko no Date de Blackjack (Japan) (Unl).fds",
+      "label": "Hayama Reiko no Date de Blackjack (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Hikari Shinwa - Palthena no Kagami (Japan) (v1.1) [b].fds",
+      "label": "Hikari Shinwa - Palthena no Kagami (Japan) (v1.1) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Ice Hockey (Japan).fds",
+      "label": "Ice Hockey (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Idol Hotline - Nakayama Miho no Tokimeki High School (Japan).fds",
+      "label": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Jingorou (Japan) (Unl).fds",
+      "label": "Jingorou (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Kalin no Tsurugi (Japan) [b].fds",
+      "label": "Kalin no Tsurugi (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Kamen Rider Black - Taiketsu Shadow Moon (Japan).fds",
+      "label": "Kamen Rider Black - Taiketsu Shadow Moon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Karate Champ (Japan).fds",
+      "label": "Karate Champ (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Kick Challenger Air Foot - Yasai no Kuni no Ashi Senshi (Japan).fds",
+      "label": "Kick Challenger Air Foot - Yasai no Kuni no Ashi Senshi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Kieta Princess (Japan).fds",
+      "label": "Kieta Princess (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Kind Gal's (Japan) (Unl).fds",
+      "label": "Kind Gal's (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Knight Move (Japan).fds",
+      "label": "Knight Move (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Kobayashi Hitomi no Hold Up (Japan) (Unl).fds",
+      "label": "Kobayashi Hitomi no Hold Up (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Kobayashi Hitomi Shocking Tennis (Japan) (Unl).fds",
+      "label": "Kobayashi Hitomi Shocking Tennis (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Konamic Ice Hockey (Japan).fds",
+      "label": "Konamic Ice Hockey (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Koneko Monogatari - The Adventures of Chatran (Japan).fds",
+      "label": "Koneko Monogatari - The Adventures of Chatran (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Koneko Monogatari - The Adventures of Chatran (Japan) (Sample).fds",
+      "label": "Koneko Monogatari - The Adventures of Chatran (Japan) (Sample)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Kosodate Gokko (Japan) (Unl).fds",
+      "label": "Kosodate Gokko (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Link no Bouken - The Legend of Zelda 2 (Japan) (v1.0).fds",
+      "label": "Link no Bouken - The Legend of Zelda 2 (Japan) (v1.0)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Link no Bouken - The Legend of Zelda 2 (Japan) (v1.1).fds",
+      "label": "Link no Bouken - The Legend of Zelda 2 (Japan) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Lipstick #.1 - Lolita Hen (Japan) (Unl).fds",
+      "label": "Lipstick #.1 - Lolita Hen (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl).fds",
+      "label": "Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Meikyuu Jiin Dababa (Japan).fds",
+      "label": "Meikyuu Jiin Dababa (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Metroid (Japan) (v1.1) [b].fds",
+      "label": "Metroid (Japan) (v1.1) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Metroid (Japan) (v1.2) [b].fds",
+      "label": "Metroid (Japan) (v1.2) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Michael English Daibouken (Japan) (Sample).fds",
+      "label": "Michael English Daibouken (Japan) (Sample)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan).fds",
+      "label": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Monitor Puzzle Kineko, The - Kinetic Connection (Japan).fds",
+      "label": "Monitor Puzzle Kineko, The - Kinetic Connection (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [b].fds",
+      "label": "Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Namida no Soukoban Special (Japan).fds",
+      "label": "Namida no Soukoban Special (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Nazo no Kabe - Block Kuzushi (Japan) [b].fds",
+      "label": "Nazo no Kabe - Block Kuzushi (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Nazo no Murasamejou (Japan).fds",
+      "label": "Nazo no Murasamejou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Nazoraa Land Dai 2 Gou (Japan) (Nazo Magazine Disk).fds",
+      "label": "Nazoraa Land Dai 2 Gou (Japan) (Nazo Magazine Disk)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Nazoraa Land Dai 3 Gou (Japan) (Nazo Magazine Disk) [b].fds",
+      "label": "Nazoraa Land Dai 3 Gou (Japan) (Nazo Magazine Disk) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Nazoraa Land Soukan Gou (Japan) (Nazo Magazine Disk) [b].fds",
+      "label": "Nazoraa Land Soukan Gou (Japan) (Nazo Magazine Disk) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Nazoraa Land Zoukan Gou - Quiz Ou wo Sagase! (Japan) (Nazo Magazine Disk) [b].fds",
+      "label": "Nazoraa Land Zoukan Gou - Quiz Ou wo Sagase! (Japan) (Nazo Magazine Disk) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Neunzehn (Japan) [b].fds",
+      "label": "Neunzehn (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Nintendo - Famicom Disk System (20140803-044742_CM).dat",
+      "label": "Nintendo - Famicom Disk System (20140803-044742_CM)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (Japan).fds",
+      "label": "Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Patlabor The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [b].fds",
+      "label": "Patlabor The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Professional Mahjong Gokuu (Japan).fds",
+      "label": "Professional Mahjong Gokuu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\ProWres - Famicom Wrestling Association (Japan) [b].fds",
+      "label": "ProWres - Famicom Wrestling Association (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Pulsar no Hikari - Space Wars Simulation (Japan).fds",
+      "label": "Pulsar no Hikari - Space Wars Simulation (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Quick Hunter (Japan) (Unl).fds",
+      "label": "Quick Hunter (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Quick Hunter - Parameter Disk Vol.1 (Japan) (Unl).fds",
+      "label": "Quick Hunter - Parameter Disk Vol.1 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Risa no Yousei Densetsu (Japan).fds",
+      "label": "Risa no Yousei Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl).fds",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl).fds",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl).fds",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl).fds",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl).fds",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl).fds",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Samurai Sword (Japan) [b].fds",
+      "label": "Samurai Sword (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Santa Claus no Takarabako (Japan).fds",
+      "label": "Santa Claus no Takarabako (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Seiken Psychocalibur - Majuu no Mori Densetsu (Japan).fds",
+      "label": "Seiken Psychocalibur - Majuu no Mori Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Sexy Invaders (Japan) (Unl).fds",
+      "label": "Sexy Invaders (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan) (Unl).fds",
+      "label": "Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Silviana - Ai Ippai no Boukensya (Japan) [b].fds",
+      "label": "Silviana - Ai Ippai no Boukensya (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Smash Ping Pong (Japan) [b].fds",
+      "label": "Smash Ping Pong (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Soccer (Japan).fds",
+      "label": "Soccer (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Souseiki Fammy - ROM-QD for 256K+64K (Japan) (Unl).fds",
+      "label": "Souseiki Fammy - ROM-QD for 256K+64K (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Super Boy Allan (Japan).fds",
+      "label": "Super Boy Allan (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Super Lode Runner (Japan) [b].fds",
+      "label": "Super Lode Runner (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Super Lode Runner II (Japan) (Disk Writer) [b].fds",
+      "label": "Super Lode Runner II (Japan) (Disk Writer) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Super Mario Brothers (Japan).fds",
+      "label": "Super Mario Brothers (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Super Mario Brothers 2 (Japan).fds",
+      "label": "Super Mario Brothers 2 (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Tanigawa Kouji no Shougi Shinan II - Meijin heno Michi (Japan).fds",
+      "label": "Tanigawa Kouji no Shougi Shinan II - Meijin heno Michi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Tennis (Japan).fds",
+      "label": "Tennis (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Tenshi Tachi no Houkago (Japan) (Unl).fds",
+      "label": "Tenshi Tachi no Houkago (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Time Twist - Rekishi no Katasumi de (Japan).fds",
+      "label": "Time Twist - Rekishi no Katasumi de (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Tonkachi Editor (Japan) (Unl).fds",
+      "label": "Tonkachi Editor (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Tooyama no Kinsan Space Chou - Mr. Gold (Japan).fds",
+      "label": "Tooyama no Kinsan Space Chou - Mr. Gold (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Transformers - The Headmasters (Japan) [b].fds",
+      "label": "Transformers - The Headmasters (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\TwinBee (Japan) (Disk Writer).fds",
+      "label": "TwinBee (Japan) (Disk Writer)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Ultraman 2 - Shutsugeki Katoku Tai (Japan).fds",
+      "label": "Ultraman 2 - Shutsugeki Katoku Tai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (v1.0).fds",
+      "label": "Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (v1.0)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (v1.1).fds",
+      "label": "Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Vs. Excitebike (Japan).fds",
+      "label": "Vs. Excitebike (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Wakusei Aton Gaiden (Japan) (National Tax Agency Demo).fds",
+      "label": "Wakusei Aton Gaiden (Japan) (National Tax Agency Demo)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Yakyuuken Part II - Gal's Dungeon (Japan) (Unl).fds",
+      "label": "Yakyuuken Part II - Gal's Dungeon (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Yume Koujou Doki Doki Panic (Japan) [b].fds",
+      "label": "Yume Koujou Doki Doki Panic (Japan) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Yuu Maze (Japan).fds",
+      "label": "Yuu Maze (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl).fds",
+      "label": "Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Zatsugaku Olympic Quiz Part II (Japan) (Unl).fds",
+      "label": "Zatsugaku Olympic Quiz Part II (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) [b].fds",
+      "label": "Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) [b]",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Zelda no Densetsu - The Hyrule Fantasy (Japan) (v1.0).fds",
+      "label": "Zelda no Densetsu - The Hyrule Fantasy (Japan) (v1.0)",
+      "core_path": "DETECT",
+      "core_name": "Mesen",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Nintendo - Famicom Disk System\\ROMs\\Zelda no Densetsu - The Hyrule Fantasy (Japan) (v1.1).fds",
+      "label": "Zelda no Densetsu - The Hyrule Fantasy (Japan) (v1.1)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mesen_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Famicom Disk System.lpl"
+    }
+  ]
+}

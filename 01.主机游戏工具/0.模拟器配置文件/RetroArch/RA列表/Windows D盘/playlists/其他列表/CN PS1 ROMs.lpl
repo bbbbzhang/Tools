@@ -1,0 +1,187 @@
+{
+  "version": "1.5",
+  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+  "default_core_name": "Sony - PlayStation (SwanStation)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\北欧女神[简][V1.04]Disc A\\Valkyrie Profile (Japan) (Disc 1).cue",
+      "label": "北欧女神[简][V1.04]Disc A",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\北欧女神[简][V1.04]Disc B\\Valkyrie Profile (Japan) (Disc 2).cue",
+      "label": "北欧女神[简][V1.04]Disc B",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\合金装备 索利德 完全版[简][v20220810][凤凰+killllme]Disc 1\\Metal Gear Solid - Integral (Japan) (En,Ja) (Disc 1).cue",
+      "label": "合金装备 索利德 完全版[简][v20220810][凤凰+killllme]Disc 1",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\合金装备 索利德 完全版[简][v20220810][凤凰+killllme]Disc 2\\Metal Gear Solid - Integral (Japan) (En,Ja) (Disc 2).cue",
+      "label": "合金装备 索利德 完全版[简][v20220810][凤凰+killllme]Disc 2",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\合金装备 索利德 完全版[简][v20220810][凤凰+killllme]Disc 3\\Metal Gear Solid - Integral (Japan, Asia) (Disc 3) (VR-Disc).cue",
+      "label": "合金装备 索利德 完全版[简][v20220810][凤凰+killllme]Disc 3",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\异度装甲[简][v1.21][Agemo](模拟器推荐)Disc A\\Xenogears (Japan) (Disc 1).cue",
+      "label": "异度装甲[简][v1.21][Agemo](模拟器推荐)Disc A",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\异度装甲[简][v1.21][Agemo](模拟器推荐)Disc B\\Xenogears (Japan) (Disc 2).cue",
+      "label": "异度装甲[简][v1.21][Agemo](模拟器推荐)Disc B",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想7[简][V1.0]Disc A\\Final Fantasy VII International (Japan) (Disc 1).cue",
+      "label": "最终幻想7[简][V1.0]Disc A",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想7[简][V1.0]Disc B\\Final Fantasy VII International (Japan) (Disc 2).cue",
+      "label": "最终幻想7[简][V1.0]Disc B",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想7[简][V1.0]Disc C\\Final Fantasy VII International (Japan) (Disc 3).cue",
+      "label": "最终幻想7[简][V1.0]Disc C",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想7[简][V1.0]Disc D\\Final Fantasy VII International (Japan) (Disc 4) (Perfect Guide).cue",
+      "label": "最终幻想7[简][V1.0]Disc D",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想8[简][v1.0修正第三版]Disc A(去除RHP，不死机，不乱码)\\Final Fantasy VIII (Japan) (Disc 1).cue",
+      "label": "最终幻想8[简][v1.0修正第三版]Disc A(去除RHP，不死机，不乱码)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想8[简][v1.0修正第三版]Disc B(去除RHP，不死机，不乱码)\\Final Fantasy VIII (Japan) (Disc 2).cue",
+      "label": "最终幻想8[简][v1.0修正第三版]Disc B(去除RHP，不死机，不乱码)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想8[简][v1.0修正第三版]Disc C(去除RHP，不死机，不乱码)\\Final Fantasy VIII (Japan) (Disc 3).cue",
+      "label": "最终幻想8[简][v1.0修正第三版]Disc C(去除RHP，不死机，不乱码)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想8[简][v1.0修正第三版]Disc D(去除RHP，不死机，不乱码)\\Final Fantasy VIII (Japan) (Disc 4).cue",
+      "label": "最终幻想8[简][v1.0修正第三版]Disc D(去除RHP，不死机，不乱码)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想9[简][V2.0]Disc A\\Final Fantasy IX (Japan, Asia) (Disc 1).cue",
+      "label": "最终幻想9[简][V2.0]Disc A",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想9[简][V2.0]Disc B\\Final Fantasy IX (Japan, Asia) (Disc 2).cue",
+      "label": "最终幻想9[简][V2.0]Disc B",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想9[简][V2.0]Disc C\\Final Fantasy IX (Japan, Asia) (Disc 3).cue",
+      "label": "最终幻想9[简][V2.0]Disc C",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想9[简][V2.0]Disc D\\Final Fantasy IX (Japan, Asia) (Disc 4).cue",
+      "label": "最终幻想9[简][V2.0]Disc D",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\最终幻想战略版[简]\\Final Fantasy Tactics (Japan).cue",
+      "label": "最终幻想战略版[简]",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\穿越时空2[简][V1.0]Disc A\\Chrono Cross (Japan) (Disc 1).cue",
+      "label": "穿越时空2[简][V1.0]Disc A",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\CN PS1 ROMs\\穿越时空2[简][V1.0]Disc B\\Chrono Cross (Japan) (Disc 2).cue",
+      "label": "穿越时空2[简][V1.0]Disc B",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "DETECT",
+      "db_name": "CN PS1 ROMs.lpl"
+    }
+  ]
+}

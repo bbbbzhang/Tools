@@ -1,0 +1,100 @@
+{
+  "version": "1.5",
+  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+  "default_core_name": "Sony - PlayStation Portable (PPSSPP)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\侠盗猎车手 罪恶都市传奇 V2.0 [简][PLAY汉化组].iso",
+      "label": "侠盗猎车手 罪恶都市传奇 V2.0 [简][PLAY汉化组]",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\侠盗猎车手 自由城的故事 [简][PLAY汉化组].iso",
+      "label": "侠盗猎车手 自由城的故事 [简][PLAY汉化组]",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\侠盗猎车手 血战唐人街 汉化测试[简].iso",
+      "label": "侠盗猎车手 血战唐人街 汉化测试[简]",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\寂静岭 破碎的记忆 [简][ACG汉化组].iso",
+      "label": "寂静岭 破碎的记忆 [简][ACG汉化组]",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\寂静岭 起源 [简][巴士汉化组].iso",
+      "label": "寂静岭 起源 [简][巴士汉化组]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\最终幻想 战略版 狮子战争 [简][CG汉化组&天幻网](修复释放技能拖慢BUG).iso",
+      "label": "最终幻想 战略版 狮子战争 [简][CG汉化组&天幻网](修复释放技能拖慢BUG)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\最终幻想 零式 合盘版 [简] [Play汉化组&天幻网].iso",
+      "label": "最终幻想 零式 合盘版 [简] [Play汉化组&天幻网]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\最终幻想2 20周年纪念版[V2汉化版][ACG汉化组].iso",
+      "label": "最终幻想2 20周年纪念版[V2汉化版][ACG汉化组]",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\最终幻想3[繁][官方中文版].iso",
+      "label": "最终幻想3[繁][官方中文版]",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\最终幻想4 完全版 [v2][ACG汉化组](系统语言设置成日语).iso",
+      "label": "最终幻想4 完全版 [v2][ACG汉化组](系统语言设置成日语)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Sony - Playstation Portable\\CN PSP ROMs\\最终幻想7 核心危机(危机之源)v1.04][简][CG汉化组].iso",
+      "label": "最终幻想7 核心危机(危机之源)v1.04][简][CG汉化组]",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    }
+  ]
+}

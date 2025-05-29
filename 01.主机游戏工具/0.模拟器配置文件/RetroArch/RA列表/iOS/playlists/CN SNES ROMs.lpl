@@ -1,0 +1,44 @@
+{
+  "version": "1.5",
+  "default_core_path": ":/Frameworks/mesen-s.libretro.framework",
+  "default_core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/天地创造 MSU-1版(简)(v2.00花屏文字修正)(Necrosaro+hlken)(32Mb).sfc",
+      "label": "天地创造 MSU-1版(简)(v2.00花屏文字修正)(Necrosaro+hlken)(32Mb)",
+      "core_path": ":/Frameworks/mesen-s.libretro.framework",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/天外魔境 (简) (v1.0)(ACG & 星组)(40Mb).sfc",
+      "label": "天外魔境 (简) (v1.0)(ACG & 星组)(40Mb)",
+      "core_path": ":/Frameworks/mesen-s.libretro.framework",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/旅梦人 盗不走的宝石 (简)(32Mb).smc",
+      "label": "旅梦人 盗不走的宝石 (简)(32Mb)",
+      "core_path": ":/Frameworks/mesen-s.libretro.framework",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/重装机兵Returns (简) (v0.96) (狼组+willzyj+hlken)(32Mb).smc",
+      "label": "重装机兵Returns (简) (v0.96) (狼组+willzyj+hlken)(32Mb)",
+      "core_path": ":/Frameworks/mesen-s.libretro.framework",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    }
+  ]
+}

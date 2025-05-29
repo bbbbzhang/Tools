@@ -1,0 +1,84 @@
+{
+  "version": "1.5",
+  "default_core_path": ":/Frameworks/vbam.libretro.framework",
+  "default_core_name": "Nintendo - Game Boy Advance (VBA-M)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Kirby - Tilt 'n' Tumble (USA).gbc",
+      "label": "Kirby - Tilt 'n' Tumble (USA)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Legend of Zelda, The - Oracle of Ages (USA, Australia).gbc",
+      "label": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Legend of Zelda, The - Oracle of Seasons (USA, Australia).gbc",
+      "label": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Rockman X - Cyber Mission (Japan) (GB Compatible).gbc",
+      "label": "Rockman X - Cyber Mission (Japan) (GB Compatible)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Rockman X2 - Soul Eraser (Japan).gbc",
+      "label": "Rockman X2 - Soul Eraser (Japan)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Super Mario Bros. Deluxe (USA, Europe) (Rev 2).gbc",
+      "label": "Super Mario Bros. Deluxe (USA, Europe) (Rev 2)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Wario Land 3 (World) (En,Ja).gbc",
+      "label": "Wario Land 3 (World) (En,Ja)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Color/Likes GBC ROMs/Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    }
+  ]
+}
