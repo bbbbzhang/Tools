@@ -13,6 +13,7 @@ Core:
   SPU Decoder: Recompiler (LLVM)
   SPU Reservation Busy Waiting Percentage: 0
   SPU GETLLAR Busy Waiting Percentage: 100
+  Disable SPU GETLLAR Spin Optimization: false
   SPU Debug: false
   MFC Debug: false
   Preferred SPU Threads: 0
@@ -35,7 +36,7 @@ Core:
   XFloat Accuracy: Approximate
   Accurate PPU 128-byte Reservation Op Max Length: 0
   Stub PPU Traps: 0
-  Full Width AVX-512: true
+  Precise SPU Verification: false
   PPU LLVM Java Mode Handling: true
   Use Accurate DFMA: true
   PPU Set Saturation Bit: false
@@ -62,6 +63,7 @@ Core:
   Performance Report Threshold: 500
   Enable Performance Report: false
   Assume External Debugger: false
+  Full Width AVX-512: true
 VFS:
   Enable /host_root/: false
   Initialize Directories: true
@@ -72,7 +74,7 @@ Video:
   Renderer: Vulkan
   Resolution: 1280x720
   Aspect ratio: 16:9
-  Frame limit: Auto
+  Frame limit: PS3 Native
   Second Frame Limit: 0
   MSAA: Auto
   Shader Mode: Async Shader Recompiler
@@ -121,6 +123,7 @@ Video:
   DECR memory layout: false
   Allow Host GPU Labels: false
   Disable MSL Fast Math: false
+  Disable Asynchronous Memory Manager: false
   Output Scaling Mode: Bilinear
   Vulkan:
     Adapter: NVIDIA GeForce RTX 3070 Laptop GPU
@@ -192,10 +195,14 @@ Input/Output:
   Pad handler sleep (microseconds): 1000
   Background input enabled: true
   Show move cursor: false
+  Paint move spheres: false
+  Allow move hue set by game: false
   Lock overlay input to player one: false
   Emulated Midi devices: Keyboardßßß@@@Keyboardßßß@@@Keyboardßßß@@@
   Load SDL GameController Mappings: true
   IO Debug overlay: false
+  Fake Move Rotation Cone: 10
+  Fake Move Rotation Cone (Vertical): 10
   GameTablet emulated controller: Disabled
 System:
   License Area: SCH
@@ -208,6 +215,7 @@ System:
   PSID low: 0
   HDD Model Name: ""
   HDD Serial Number: ""
+  Process ARGV: {}
 Net:
   Internet enabled: Disconnected
   IP address: 0.0.0.0
@@ -233,6 +241,7 @@ Miscellaneous:
   Show RPCN popups: true
   Show shader compilation hint: true
   Show PPU compilation hint: true
+  Show autosave/autoload hint: false
   Show pressure intensity toggle hint: true
   Show analog limiter toggle hint: true
   Show mouse and keyboard toggle hint: true

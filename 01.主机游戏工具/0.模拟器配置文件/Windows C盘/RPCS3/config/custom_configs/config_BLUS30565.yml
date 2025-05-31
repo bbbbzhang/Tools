@@ -46,8 +46,7 @@ Core:
   PPU Set FPCC Bits: false
   Debug Console Mode: false
   Hook static functions: false
-  Libraries Control:
-    []
+  Libraries Control: []
   HLE lwmutex: false
   SPU LLVM Lower Bound: 0
   SPU LLVM Upper Bound: 18446744073709551615
@@ -73,7 +72,7 @@ Video:
   Renderer: Vulkan
   Resolution: 1280x720
   Aspect ratio: 16:9
-  Frame limit: Auto
+  Frame limit: PS3 Native
   Second Frame Limit: 0
   MSAA: Auto
   Shader Mode: Async Shader Recompiler
