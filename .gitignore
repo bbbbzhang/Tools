@@ -106,3 +106,89 @@ Emulators/RetroArch/states/YabaSanshiro
 /Z Other
 /临时
 /微信备份
+
+
+/A 快捷方式
+/Apks
+/Comics
+/DEVs
+/Emulators/Cemu
+/Emulators/Citra
+/Emulators/Dolphin
+/Emulators/DuckStation
+/Emulators/PCSX2
+/Emulators/PPSSPP
+Emulators/RetroArch/**
+# RA saves存档
+!Emulators/RetroArch/saves/
+!Emulators/RetroArch/saves/**
+Emulators/RetroArch/saves/Beetle PCE
+Emulators/RetroArch/saves/Beetle PCE Fast
+Emulators/RetroArch/saves/Beetle SuperGrafx
+Emulators/RetroArch/saves/Citra
+# NDS存档
+!Emulators/RetroArch/saves/DeSmuME
+Emulators/RetroArch/saves/dolphin-emu
+Emulators/RetroArch/saves/FB Alpha
+Emulators/RetroArch/saves/FB Alpha 2012
+Emulators/RetroArch/saves/FinalBurn Neo
+Emulators/RetroArch/saves/Flycast
+Emulators/RetroArch/saves/Genesis Plus GX
+Emulators/RetroArch/saves/LRPS2 (alpha)
+# NDS存档
+!Emulators/RetroArch/saves/melonDS
+Emulators/RetroArch/saves/Mesen
+Emulators/RetroArch/saves/Mesen-S
+Emulators/RetroArch/saves/Mupen64Plus-Next
+Emulators/RetroArch/saves/ParaLLEl N64
+Emulators/RetroArch/saves/PPSSPP
+# PS1存档
+!Emulators/RetroArch/saves/SwanStation
+# GBA存档
+!Emulators/RetroArch/saves/VBA-M
+Emulators/RetroArch/saves/YabaSanshiro
+# RA states存档
+!Emulators/RetroArch/states/
+!Emulators/RetroArch/states/**
+Emulators/RetroArch/states/Beetle PCE
+Emulators/RetroArch/states/Beetle PCE Fast
+Emulators/RetroArch/states/Beetle SuperGrafx
+Emulators/RetroArch/states/Citra
+# NDS即时存档
+!Emulators/RetroArch/states/DeSmuME
+Emulators/RetroArch/states/dolphin-emu
+Emulators/RetroArch/states/FB Alpha
+Emulators/RetroArch/states/FB Alpha 2012
+Emulators/RetroArch/states/FinalBurn Neo
+Emulators/RetroArch/states/Flycast
+Emulators/RetroArch/states/Genesis Plus GX
+Emulators/RetroArch/states/LRPS2 (alpha)
+# NDS即时存档
+!Emulators/RetroArch/states/melonDS
+Emulators/RetroArch/states/Mesen
+Emulators/RetroArch/states/Mesen-S
+Emulators/RetroArch/states/Mupen64Plus-Next
+Emulators/RetroArch/states/ParaLLEl N64
+Emulators/RetroArch/states/PPSSPP
+# PS1即时存档
+!Emulators/RetroArch/states/SwanStation
+# GBA即时存档
+!Emulators/RetroArch/states/VBA-M
+Emulators/RetroArch/states/YabaSanshiro
+
+/Emulators/RPCS3
+/Emulators/YUZU 
+/Emulators/Z Other EMU
+/Musics
+/OS
+/Packages
+/Pictures
+/ProgramFiles
+/ROMs
+/Txts
+/Videos
+/Widgets
+/Works
+/Z Other
+/临时
+/微信备份
