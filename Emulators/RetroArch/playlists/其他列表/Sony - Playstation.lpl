@@ -8,7 +8,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Capcom vs. SNK Pro (USA)\\Capcom vs. SNK Pro (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Capcom vs. SNK Pro (USA)\\Capcom vs. SNK Pro (USA).cue",
       "label": "Capcom vs. SNK Pro (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -16,7 +16,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Castlevania - Symphony of the Night (USA)\\Castlevania - Symphony of the Night (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Castlevania - Symphony of the Night (USA)\\Castlevania - Symphony of the Night (USA).cue",
       "label": "Castlevania - Symphony of the Night (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -24,7 +24,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Castlevania Chronicles (USA)\\Castlevania Chronicles (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Castlevania Chronicles (USA)\\Castlevania Chronicles (USA).cue",
       "label": "Castlevania Chronicles (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -32,7 +32,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Chrono Cross (USA) (Disc 1)\\Chrono Cross (USA) (Disc 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Chrono Cross (USA) (Disc 1)\\Chrono Cross (USA) (Disc 1).cue",
       "label": "Chrono Cross (USA) (Disc 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -40,7 +40,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Chrono Cross (USA) (Disc 2)\\Chrono Cross (USA) (Disc 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Chrono Cross (USA) (Disc 2)\\Chrono Cross (USA) (Disc 2).cue",
       "label": "Chrono Cross (USA) (Disc 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -48,7 +48,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Crash Bandicoot (USA)\\Crash Bandicoot (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Crash Bandicoot (USA)\\Crash Bandicoot (USA).cue",
       "label": "Crash Bandicoot (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -56,7 +56,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Crash Bandicoot 2 - Cortex Strikes Back (USA)\\Crash Bandicoot 2 - Cortex Strikes Back (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Crash Bandicoot 2 - Cortex Strikes Back (USA)\\Crash Bandicoot 2 - Cortex Strikes Back (USA).cue",
       "label": "Crash Bandicoot 2 - Cortex Strikes Back (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -64,7 +64,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Crash Bandicoot - Warped (USA)\\Crash Bandicoot - Warped (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Crash Bandicoot - Warped (USA)\\Crash Bandicoot - Warped (USA).cue",
       "label": "Crash Bandicoot - Warped (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -72,7 +72,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Crash Bash (USA)\\Crash Bash (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Crash Bash (USA)\\Crash Bash (USA).cue",
       "label": "Crash Bash (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -80,7 +80,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\CTR - Crash Team Racing (USA)\\CTR - Crash Team Racing (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\CTR - Crash Team Racing (USA)\\CTR - Crash Team Racing (USA).cue",
       "label": "CTR - Crash Team Racing (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -88,7 +88,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Detana Twinbee Yahoo! Deluxe Pack (Japan)\\Detana Twinbee Yahoo! Deluxe Pack (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Detana Twinbee Yahoo! Deluxe Pack (Japan)\\Detana Twinbee Yahoo! Deluxe Pack (Japan).cue",
       "label": "Detana Twinbee Yahoo! Deluxe Pack (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -96,7 +96,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Anthology - Final Fantasy V (USA) (Rev 1)\\Final Fantasy Anthology - Final Fantasy V (USA) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Anthology - Final Fantasy V (USA) (Rev 1)\\Final Fantasy Anthology - Final Fantasy V (USA) (Rev 1).cue",
       "label": "Final Fantasy Anthology - Final Fantasy V (USA) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -104,7 +104,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Anthology - Final Fantasy VI (USA) (Rev 1)\\Final Fantasy Anthology - Final Fantasy VI (USA) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Anthology - Final Fantasy VI (USA) (Rev 1)\\Final Fantasy Anthology - Final Fantasy VI (USA) (Rev 1).cue",
       "label": "Final Fantasy Anthology - Final Fantasy VI (USA) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -112,7 +112,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)\\Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)\\Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1).cue",
       "label": "Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -120,7 +120,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1)\\Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1)\\Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1).cue",
       "label": "Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -128,7 +128,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy IX (USA) (Disc 1) (Rev 1)\\Final Fantasy IX (USA) (Disc 1) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy IX (USA) (Disc 1) (Rev 1)\\Final Fantasy IX (USA) (Disc 1) (Rev 1).cue",
       "label": "Final Fantasy IX (USA) (Disc 1) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -136,7 +136,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy IX (USA) (Disc 2) (Rev 1)\\Final Fantasy IX (USA) (Disc 2) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy IX (USA) (Disc 2) (Rev 1)\\Final Fantasy IX (USA) (Disc 2) (Rev 1).cue",
       "label": "Final Fantasy IX (USA) (Disc 2) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -144,7 +144,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy IX (USA) (Disc 3) (Rev 1)\\Final Fantasy IX (USA) (Disc 3) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy IX (USA) (Disc 3) (Rev 1)\\Final Fantasy IX (USA) (Disc 3) (Rev 1).cue",
       "label": "Final Fantasy IX (USA) (Disc 3) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -152,7 +152,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy IX (USA) (Disc 4) (Rev 1)\\Final Fantasy IX (USA) (Disc 4) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy IX (USA) (Disc 4) (Rev 1)\\Final Fantasy IX (USA) (Disc 4) (Rev 1).cue",
       "label": "Final Fantasy IX (USA) (Disc 4) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -160,7 +160,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Origins (USA) (Rev 1)\\Final Fantasy Origins (USA) (Rev 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Origins (USA) (Rev 1)\\Final Fantasy Origins (USA) (Rev 1).cue",
       "label": "Final Fantasy Origins (USA) (Rev 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -168,7 +168,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Tactics (USA)\\Final Fantasy Tactics (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy Tactics (USA)\\Final Fantasy Tactics (USA).cue",
       "label": "Final Fantasy Tactics (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -176,7 +176,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Disc 1)\\Final Fantasy VII (USA) (Disc 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Disc 1)\\Final Fantasy VII (USA) (Disc 1).cue",
       "label": "Final Fantasy VII (USA) (Disc 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -184,7 +184,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Disc 2)\\Final Fantasy VII (USA) (Disc 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Disc 2)\\Final Fantasy VII (USA) (Disc 2).cue",
       "label": "Final Fantasy VII (USA) (Disc 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -192,7 +192,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Disc 3)\\Final Fantasy VII (USA) (Disc 3).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Disc 3)\\Final Fantasy VII (USA) (Disc 3).cue",
       "label": "Final Fantasy VII (USA) (Disc 3)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -200,7 +200,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Interactive Sampler CD)\\Final Fantasy VII (USA) (Interactive Sampler CD).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Interactive Sampler CD)\\Final Fantasy VII (USA) (Interactive Sampler CD).cue",
       "label": "Final Fantasy VII (USA) (Interactive Sampler CD)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -208,7 +208,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Square Soft on PlayStation Previews)\\Final Fantasy VII (USA) (Square Soft on PlayStation Previews).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII (USA) (Square Soft on PlayStation Previews)\\Final Fantasy VII (USA) (Square Soft on PlayStation Previews).cue",
       "label": "Final Fantasy VII (USA) (Square Soft on PlayStation Previews)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -216,7 +216,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII International (Japan) (Disc 1)\\Final Fantasy VII International (Japan) (Disc 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII International (Japan) (Disc 1)\\Final Fantasy VII International (Japan) (Disc 1).cue",
       "label": "Final Fantasy VII International (Japan) (Disc 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -224,7 +224,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII International (Japan) (Disc 2)\\Final Fantasy VII International (Japan) (Disc 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII International (Japan) (Disc 2)\\Final Fantasy VII International (Japan) (Disc 2).cue",
       "label": "Final Fantasy VII International (Japan) (Disc 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -232,7 +232,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII International (Japan) (Disc 3)\\Final Fantasy VII International (Japan) (Disc 3).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII International (Japan) (Disc 3)\\Final Fantasy VII International (Japan) (Disc 3).cue",
       "label": "Final Fantasy VII International (Japan) (Disc 3)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -240,7 +240,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII International (Japan) (Disc 4) (Perfect Guide)\\Final Fantasy VII International (Japan) (Disc 4) (Perfect Guide).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VII International (Japan) (Disc 4) (Perfect Guide)\\Final Fantasy VII International (Japan) (Disc 4) (Perfect Guide).cue",
       "label": "Final Fantasy VII International (Japan) (Disc 4) (Perfect Guide)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -248,7 +248,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VIII (USA) (Disc 1)\\Final Fantasy VIII (USA) (Disc 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VIII (USA) (Disc 1)\\Final Fantasy VIII (USA) (Disc 1).cue",
       "label": "Final Fantasy VIII (USA) (Disc 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -256,7 +256,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VIII (USA) (Disc 2)\\Final Fantasy VIII (USA) (Disc 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VIII (USA) (Disc 2)\\Final Fantasy VIII (USA) (Disc 2).cue",
       "label": "Final Fantasy VIII (USA) (Disc 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -264,7 +264,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VIII (USA) (Disc 3)\\Final Fantasy VIII (USA) (Disc 3).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VIII (USA) (Disc 3)\\Final Fantasy VIII (USA) (Disc 3).cue",
       "label": "Final Fantasy VIII (USA) (Disc 3)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -272,7 +272,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VIII (USA) (Disc 4)\\Final Fantasy VIII (USA) (Disc 4).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Final Fantasy VIII (USA) (Disc 4)\\Final Fantasy VIII (USA) (Disc 4).cue",
       "label": "Final Fantasy VIII (USA) (Disc 4)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -280,7 +280,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Gokujou Parodius Da! Deluxe Pack (Japan)\\Gokujou Parodius Da! Deluxe Pack (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Gokujou Parodius Da! Deluxe Pack (Japan)\\Gokujou Parodius Da! Deluxe Pack (Japan).cue",
       "label": "Gokujou Parodius Da! Deluxe Pack (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -288,7 +288,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Gradius Deluxe Pack (Japan)\\Gradius Deluxe Pack (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Gradius Deluxe Pack (Japan)\\Gradius Deluxe Pack (Japan).cue",
       "label": "Gradius Deluxe Pack (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -296,7 +296,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Gradius Gaiden (Japan)\\Gradius Gaiden (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Gradius Gaiden (Japan)\\Gradius Gaiden (Japan).cue",
       "label": "Gradius Gaiden (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -304,7 +304,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Grand Theft Auto (USA)\\Grand Theft Auto (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Grand Theft Auto (USA)\\Grand Theft Auto (USA).cue",
       "label": "Grand Theft Auto (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -312,7 +312,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Grand Theft Auto 2 (USA)\\Grand Theft Auto 2 (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Grand Theft Auto 2 (USA)\\Grand Theft Auto 2 (USA).cue",
       "label": "Grand Theft Auto 2 (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -320,7 +320,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Jikkyou Oshaberi Parodius - Forever with Me (Japan)\\Jikkyou Oshaberi Parodius - Forever with Me (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Jikkyou Oshaberi Parodius - Forever with Me (Japan)\\Jikkyou Oshaberi Parodius - Forever with Me (Japan).cue",
       "label": "Jikkyou Oshaberi Parodius - Forever with Me (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -328,7 +328,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Klonoa - Door to Phantomile (USA)\\Klonoa - Door to Phantomile (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Klonoa - Door to Phantomile (USA)\\Klonoa - Door to Phantomile (USA).cue",
       "label": "Klonoa - Door to Phantomile (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -336,7 +336,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Metal Gear Solid (USA) (Disc 1)\\Metal Gear Solid (USA) (Disc 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Metal Gear Solid (USA) (Disc 1)\\Metal Gear Solid (USA) (Disc 1).cue",
       "label": "Metal Gear Solid (USA) (Disc 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -344,7 +344,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Metal Gear Solid (USA) (Disc 2)\\Metal Gear Solid (USA) (Disc 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Metal Gear Solid (USA) (Disc 2)\\Metal Gear Solid (USA) (Disc 2).cue",
       "label": "Metal Gear Solid (USA) (Disc 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -352,7 +352,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Resident Evil - Director's Cut - Dual Shock Ver. (USA)\\Resident Evil - Director's Cut - Dual Shock Ver. (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Resident Evil - Director's Cut - Dual Shock Ver. (USA)\\Resident Evil - Director's Cut - Dual Shock Ver. (USA).cue",
       "label": "Resident Evil - Director's Cut - Dual Shock Ver. (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -360,7 +360,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1)\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1)\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1).cue",
       "label": "Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -368,7 +368,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2)\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2)\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2).cue",
       "label": "Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -376,7 +376,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Resident Evil 3 - Nemesis (USA)\\Resident Evil 3 - Nemesis (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Resident Evil 3 - Nemesis (USA)\\Resident Evil 3 - Nemesis (USA).cue",
       "label": "Resident Evil 3 - Nemesis (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -384,7 +384,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Metal Gear Solid - VR Missions (USA)\\Metal Gear Solid - VR Missions (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Metal Gear Solid - VR Missions (USA)\\Metal Gear Solid - VR Missions (USA).cue",
       "label": "Metal Gear Solid - VR Missions (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -392,7 +392,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\R-Type Delta (USA)\\R-Type Delta (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\R-Type Delta (USA)\\R-Type Delta (USA).cue",
       "label": "R-Type Delta (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -400,7 +400,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rittai Ninja Katsugeki - Tenchu (Japan)\\Rittai Ninja Katsugeki - Tenchu (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rittai Ninja Katsugeki - Tenchu (Japan)\\Rittai Ninja Katsugeki - Tenchu (Japan).cue",
       "label": "Rittai Ninja Katsugeki - Tenchu (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -408,7 +408,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It)\\Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It)\\Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It).cue",
       "label": "Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -416,7 +416,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rittai Ninja Katsugeki - Tenchu - Shinobi Hyakusen (Japan)\\Rittai Ninja Katsugeki - Tenchu - Shinobi Hyakusen (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rittai Ninja Katsugeki - Tenchu - Shinobi Hyakusen (Japan)\\Rittai Ninja Katsugeki - Tenchu - Shinobi Hyakusen (Japan).cue",
       "label": "Rittai Ninja Katsugeki - Tenchu - Shinobi Hyakusen (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -424,7 +424,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rittai Ninja Katsugeki - Tenchu 2 (Japan)\\Rittai Ninja Katsugeki - Tenchu 2 (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rittai Ninja Katsugeki - Tenchu 2 (Japan)\\Rittai Ninja Katsugeki - Tenchu 2 (Japan).cue",
       "label": "Rittai Ninja Katsugeki - Tenchu 2 (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -432,7 +432,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman (Japan)\\Rockman (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman (Japan)\\Rockman (Japan).cue",
       "label": "Rockman (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -440,7 +440,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 2 - Dr. Wily no Nazo (Japan)\\Rockman 2 - Dr. Wily no Nazo (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 2 - Dr. Wily no Nazo (Japan)\\Rockman 2 - Dr. Wily no Nazo (Japan).cue",
       "label": "Rockman 2 - Dr. Wily no Nazo (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -448,7 +448,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 3 - Dr. Wily no Saigo! (Japan)\\Rockman 3 - Dr. Wily no Saigo! (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 3 - Dr. Wily no Saigo! (Japan)\\Rockman 3 - Dr. Wily no Saigo! (Japan).cue",
       "label": "Rockman 3 - Dr. Wily no Saigo! (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -456,7 +456,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 4 - Aratanaru Yabou!! (Japan)\\Rockman 4 - Aratanaru Yabou!! (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 4 - Aratanaru Yabou!! (Japan)\\Rockman 4 - Aratanaru Yabou!! (Japan).cue",
       "label": "Rockman 4 - Aratanaru Yabou!! (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -464,7 +464,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 5 - Blues no Wana! (Japan)\\Rockman 5 - Blues no Wana! (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 5 - Blues no Wana! (Japan)\\Rockman 5 - Blues no Wana! (Japan).cue",
       "label": "Rockman 5 - Blues no Wana! (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -472,7 +472,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 6 - Shijou Saidai no Tatakai!! (Japan)\\Rockman 6 - Shijou Saidai no Tatakai!! (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 6 - Shijou Saidai no Tatakai!! (Japan)\\Rockman 6 - Shijou Saidai no Tatakai!! (Japan).cue",
       "label": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -480,7 +480,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 8 - Metal Heroes (Japan)\\Rockman 8 - Metal Heroes (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman 8 - Metal Heroes (Japan)\\Rockman 8 - Metal Heroes (Japan).cue",
       "label": "Rockman 8 - Metal Heroes (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -488,7 +488,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman X3 (Japan)\\Rockman X3 (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman X3 (Japan)\\Rockman X3 (Japan).cue",
       "label": "Rockman X3 (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -496,7 +496,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman X4 (Japan)\\Rockman X4 (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman X4 (Japan)\\Rockman X4 (Japan).cue",
       "label": "Rockman X4 (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -504,7 +504,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman X5 (Japan)\\Rockman X5 (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman X5 (Japan)\\Rockman X5 (Japan).cue",
       "label": "Rockman X5 (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -512,7 +512,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman X6 (Japan)\\Rockman X6 (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Rockman X6 (Japan)\\Rockman X6 (Japan).cue",
       "label": "Rockman X6 (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -520,7 +520,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Salamander Deluxe Pack Plus (Japan)\\Salamander Deluxe Pack Plus (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Salamander Deluxe Pack Plus (Japan)\\Salamander Deluxe Pack Plus (Japan).cue",
       "label": "Salamander Deluxe Pack Plus (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -528,7 +528,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Sexy Parodius (Japan)\\Sexy Parodius (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Sexy Parodius (Japan)\\Sexy Parodius (Japan).cue",
       "label": "Sexy Parodius (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -536,7 +536,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Silent Hill (USA)\\Silent Hill (USA).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Silent Hill (USA)\\Silent Hill (USA).cue",
       "label": "Silent Hill (USA)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -544,7 +544,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Strider Hiryuu 1 & 2 (Japan) (Disc 1) (Strider Hiryuu)\\Strider Hiryuu 1 & 2 (Japan) (Disc 1) (Strider Hiryuu).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Strider Hiryuu 1 & 2 (Japan) (Disc 1) (Strider Hiryuu)\\Strider Hiryuu 1 & 2 (Japan) (Disc 1) (Strider Hiryuu).cue",
       "label": "Strider Hiryuu 1 & 2 (Japan) (Disc 1) (Strider Hiryuu)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -552,7 +552,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2)\\Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2)\\Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2).cue",
       "label": "Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -560,7 +560,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Valkyrie Profile (USA) (Disc 1)\\Valkyrie Profile (USA) (Disc 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Valkyrie Profile (USA) (Disc 1)\\Valkyrie Profile (USA) (Disc 1).cue",
       "label": "Valkyrie Profile (USA) (Disc 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -568,7 +568,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Valkyrie Profile (USA) (Disc 2)\\Valkyrie Profile (USA) (Disc 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Valkyrie Profile (USA) (Disc 2)\\Valkyrie Profile (USA) (Disc 2).cue",
       "label": "Valkyrie Profile (USA) (Disc 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -576,7 +576,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Xenogears (USA) (Disc 1)\\Xenogears (USA) (Disc 1).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Xenogears (USA) (Disc 1)\\Xenogears (USA) (Disc 1).cue",
       "label": "Xenogears (USA) (Disc 1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
@@ -584,7 +584,7 @@
       "db_name": "Sony - Playstation.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Xenogears (USA) (Disc 2)\\Xenogears (USA) (Disc 2).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation\\Likes PS1 ROMs\\Xenogears (USA) (Disc 2)\\Xenogears (USA) (Disc 2).cue",
       "label": "Xenogears (USA) (Disc 2)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\swanstation_libretro.dll",
       "core_name": "Sony - PlayStation (SwanStation)",
