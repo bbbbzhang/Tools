@@ -33,6 +33,10 @@
 /Emulators/PCSX2
 /Emulators/PPSSPP
 Emulators/RetroArch/**
+# RA 列表 不知为何不生效
+!Emulators/RetroArch/playlists
+!Emulators/RetroArch/playlists/**
+Emulators/RetroArch/playlists/logs
 # RA saves存档
 !Emulators/RetroArch/saves/
 !Emulators/RetroArch/saves/**
@@ -89,9 +93,7 @@ Emulators/RetroArch/states/PPSSPP
 # GBA即时存档
 !Emulators/RetroArch/states/VBA-M
 Emulators/RetroArch/states/YabaSanshiro
-# RA 列表
-!Emulators/RetroArch/playlists
-!Emulators/RetroArch/playlists/**
+
 
 /Emulators/RPCS3
 /Emulators/YUZU 
