@@ -89,6 +89,9 @@ Emulators/RetroArch/states/PPSSPP
 # GBA即时存档
 !Emulators/RetroArch/states/VBA-M
 Emulators/RetroArch/states/YabaSanshiro
+# RA 列表
+!Emulators/RetroArch/playlists
+!Emulators/RetroArch/playlists/**
 
 /Emulators/RPCS3
 /Emulators/YUZU 
