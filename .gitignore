@@ -1,16 +1,20 @@
 
-/A 快捷方式
-/Apks
-/Comics
-/DEVs
-/Emulators/Cemu
-/Emulators/Citra
-/Emulators/Dolphin
-/Emulators/DuckStation
-/Emulators/PCSX2
-/Emulators/PPSSPP
+A 快捷方式
+Apks
+Comics
+DEVs
+Emulators/Cemu
+Emulators/Citra
+Emulators/Dolphin
+Emulators/DuckStation/**
+!Emulators/DuckStation/memcards/
+!Emulators/DuckStation/memcards/**
+!Emulators/DuckStation/savestates/
+!Emulators/DuckStation/savestates/**
+Emulators/PCSX2
+Emulators/PPSSPP
 Emulators/RetroArch/**
-# RA 列表 不知为何不生效
+# RA 列表
 # !Emulators/RetroArch/playlists
 # !Emulators/RetroArch/playlists/**
 # Emulators/RetroArch/playlists/logs
@@ -72,44 +76,44 @@ Emulators/RetroArch/states/PPSSPP
 Emulators/RetroArch/states/YabaSanshiro
 
 
-/Emulators/RPCS3
-/Emulators/YUZU 
-/Emulators/Z Other EMU
+Emulators/RPCS3
+Emulators/YUZU 
+Emulators/Z Other EMU
 
-/GameTools/游戏攻略
-/GameTools/00.PC游戏工具
-/GameTools/01.主机游戏工具/0.模拟器配置文件/RetroArch/RA设置备份/Windows/saves
-/GameTools/01.主机游戏工具/0.模拟器配置文件/RetroArch/RA设置备份/Windows/states
-/GameTools/01.主机游戏工具/0.模拟器配置文件/RetroArch/RA设置备份/Windows/system
-/GameTools/01.主机游戏工具/0.模拟器配置文件/RetroArch/RA设置备份/Windows/system.rar
-/GameTools/01.主机游戏工具/N3DS
-/GameTools/01.主机游戏工具/NDS/bios
-/GameTools/01.主机游戏工具/NDS/安卓 Drastic配置
-/GameTools/01.主机游戏工具/NDS/安卓 MeolnDS配置
-/GameTools/01.主机游戏工具/NDS/NDS实机工具.zip
-/GameTools/01.主机游戏工具/NS/阿米波
-/GameTools/01.主机游戏工具/NS/NS存档
-/GameTools/01.主机游戏工具/NS/NS固件
-/GameTools/01.主机游戏工具/NS/NS破解系统
-/GameTools/01.主机游戏工具/NS/NS实机软件
-/GameTools/01.主机游戏工具/NS/NS游戏补丁
-/GameTools/01.主机游戏工具/NS/YUZU最终版
-/GameTools/01.主机游戏工具/PS3
-/GameTools/01.主机游戏工具/PSN
-/GameTools/01.主机游戏工具/PSP
-/GameTools/01.主机游戏工具/WII
+GameTools/游戏攻略
+GameTools/00.PC游戏工具
+GameTools/01.主机游戏工具/0.模拟器配置文件/RetroArch/RA设置备份/Windows/saves
+GameTools/01.主机游戏工具/0.模拟器配置文件/RetroArch/RA设置备份/Windows/states
+GameTools/01.主机游戏工具/0.模拟器配置文件/RetroArch/RA设置备份/Windows/system
+GameTools/01.主机游戏工具/0.模拟器配置文件/RetroArch/RA设置备份/Windows/system.rar
+GameTools/01.主机游戏工具/N3DS
+GameTools/01.主机游戏工具/NDS/bios
+GameTools/01.主机游戏工具/NDS/安卓 Drastic配置
+GameTools/01.主机游戏工具/NDS/安卓 MeolnDS配置
+GameTools/01.主机游戏工具/NDS/NDS实机工具.zip
+GameTools/01.主机游戏工具/NS/阿米波
+GameTools/01.主机游戏工具/NS/NS存档
+GameTools/01.主机游戏工具/NS/NS固件
+GameTools/01.主机游戏工具/NS/NS破解系统
+GameTools/01.主机游戏工具/NS/NS实机软件
+GameTools/01.主机游戏工具/NS/NS游戏补丁
+GameTools/01.主机游戏工具/NS/YUZU最终版
+GameTools/01.主机游戏工具/PS3
+GameTools/01.主机游戏工具/PSN
+GameTools/01.主机游戏工具/PSP
+GameTools/01.主机游戏工具/WII
 
-/Musics
-/OS
-/Packages
-/Pictures
-/ProgramFiles
-/ROMs
-/Txts
-/Videos
-/Widgets
-/Works
-/Z Other
-/临时
-/微信备份
+Musics
+OS
+Packages
+Pictures
+ProgramFiles
+ROMs
+Txts
+Videos
+Widgets
+Works
+Z Other
+临时
+微信备份
 
