@@ -1,0 +1,132 @@
+{
+  "version": "1.5",
+  "default_core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+  "default_core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/任天堂明星大乱斗 Super Smash Bros.[官方简中](存档修复).z64",
+      "label": "任天堂明星大乱斗 Super Smash Bros.[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/动物森林 AnimalCrossing[官方简中].z64",
+      "label": "动物森林 AnimalCrossing[官方简中]",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/塞尔达传说 时光之笛 The Legend of Zelda Ocarina of Time[官方简中](存档修复).z64",
+      "label": "塞尔达传说 时光之笛 The Legend of Zelda Ocarina of Time[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/塞尔达传说 魔力面具 The Legend of Zelda Majora's Mask[官方简中](存档修复).z64",
+      "label": "塞尔达传说 魔力面具 The Legend of Zelda Majora's Mask[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/星际火狐 Star Fox 64[官方简中](存档修复).z64",
+      "label": "星际火狐 Star Fox 64[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/未来赛车 F-Zero X[官方简中](存档修复).z64",
+      "label": "未来赛车 F-Zero X[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/水上摩托 Wave Race 64[官方简中](存档修复).z64",
+      "label": "水上摩托 Wave Race 64[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/神游马力欧 Super Mario 64[官方简中](存档修复).z64",
+      "label": "神游马力欧 Super Mario 64[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/纸片马力欧 Paper Mario[官方简中](存档修复).z64",
+      "label": "纸片马力欧 Paper Mario[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/组合机器人 Custom Robo[官方简中](存档修复).z64",
+      "label": "组合机器人 Custom Robo[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/罪与罚 地球的继承者 Sin and Punishment Successor of the Earth[官方简中](存档修复).z64",
+      "label": "罪与罚 地球的继承者 Sin and Punishment Successor of the Earth[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/耀西故事 Yoshi's Story[官方简中](运行修复).z64",
+      "label": "耀西故事 Yoshi's Story[官方简中](运行修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/越野摩托 Excitebike 64[官方简中](存档修复).z64",
+      "label": "越野摩托 Excitebike 64[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/马力欧医生 Dr. Mario 64[官方简中](存档修复).z64",
+      "label": "马力欧医生 Dr. Mario 64[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/马力欧卡丁车 Mario Kart 64[官方简中](存档修复).z64",
+      "label": "马力欧卡丁车 Mario Kart 64[官方简中](存档修复)",
+      "core_path": ":/Frameworks/mupen64plus.next.libretro.framework",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "DETECT",
+      "db_name": "iQue N64 ROMs.lpl"
+    }
+  ]
+}

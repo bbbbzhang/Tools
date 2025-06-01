@@ -1,0 +1,332 @@
+{
+  "version": "1.5",
+  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+  "default_core_name": "Sony - PlayStation Portable (PPSSPP)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\3rd Birthday, The (USA).iso",
+      "label": "3rd Birthday, The (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Castlevania - The Dracula X Chronicles (Konami)(USA).iso",
+      "label": "Castlevania - The Dracula X Chronicles (Konami)(USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Crash of the Titans (Sierra Entertainment)(US).iso",
+      "label": "Crash of the Titans (Sierra Entertainment)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Crash Tag Team Racing (Sierra)(US).iso",
+      "label": "Crash Tag Team Racing (Sierra)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Crisis Core - Final Fantasy VII (3.73) (Square Enix)(US).iso",
+      "label": "Crisis Core - Final Fantasy VII (3.73) (Square Enix)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Darkstalkers Chronicle - The Chaos Tower (Capcom)(USA).iso",
+      "label": "Darkstalkers Chronicle - The Chaos Tower (Capcom)(USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Daxter (USA).iso",
+      "label": "Daxter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Dissidia - Final Fantasy (Square Enix)(US).iso",
+      "label": "Dissidia - Final Fantasy (Square Enix)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Dissidia 012 - Duodecim Final Fantasy (Square Enix)(US).iso",
+      "label": "Dissidia 012 - Duodecim Final Fantasy (Square Enix)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Final Fantasy (Square Enix)(US).iso",
+      "label": "Final Fantasy (Square Enix)(US)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Final Fantasy II (Square Enix)(US).iso",
+      "label": "Final Fantasy II (Square Enix)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Final Fantasy III (USA) (En,Fr,Es) (PSN).iso",
+      "label": "Final Fantasy III (USA) (En,Fr,Es) (PSN)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Final Fantasy IV - Complete Collection (Square Enix)(US).iso",
+      "label": "Final Fantasy IV - Complete Collection (Square Enix)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Final Fantasy Reishiki (UMD Disc 1) (Square Enix)(JP).iso",
+      "label": "Final Fantasy Reishiki (UMD Disc 1) (Square Enix)(JP)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Final Fantasy Reishiki (UMD Disc 2) (Square Enix)(JP).iso",
+      "label": "Final Fantasy Reishiki (UMD Disc 2) (Square Enix)(JP)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Final Fantasy Tactics - The War of the Lions (Square Enix)(US).iso",
+      "label": "Final Fantasy Tactics - The War of the Lions (Square Enix)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\God of War - Chains of Olympus (Asia) (En,Zh).iso",
+      "label": "God of War - Chains of Olympus (Asia) (En,Zh)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\God of War - Ghost of Sparta (Asia) (En,Zh).iso",
+      "label": "God of War - Ghost of Sparta (Asia) (En,Zh)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Goku Makaimura Kai (Japan).iso",
+      "label": "Goku Makaimura Kai (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Grand Theft Auto - Chinatown Wars (USA) (v1.01).iso",
+      "label": "Grand Theft Auto - Chinatown Wars (USA) (v1.01)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v1.05).iso",
+      "label": "Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v1.05)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Grand Theft Auto - Vice City Stories (USA) (v1.03).iso",
+      "label": "Grand Theft Auto - Vice City Stories (USA) (v1.03)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Jak and Daxter - The Lost Frontier (Sony)(US).iso",
+      "label": "Jak and Daxter - The Lost Frontier (Sony)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\James Camerons Avatar - The Game (USA) (En,Fr,Es).iso",
+      "label": "James Camerons Avatar - The Game (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Manhunt 2 (USA) [Uncensored].iso",
+      "label": "Manhunt 2 (USA) [Uncensored]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Mega Man - Maverick Hunter X (Capcom)(USA).iso",
+      "label": "Mega Man - Maverick Hunter X (Capcom)(USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Mega Man - Powered Up (Capcom)(USA).iso",
+      "label": "Mega Man - Powered Up (Capcom)(USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Metal Gear Solid - Peace Walker (USA) (v1.01).iso",
+      "label": "Metal Gear Solid - Peace Walker (USA) (v1.01)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Metal Gear Solid - Portable Ops Plus (USA) (v1.01).iso",
+      "label": "Metal Gear Solid - Portable Ops Plus (USA) (v1.01)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Metal Slug XX (USA) (v1.01).iso",
+      "label": "Metal Slug XX (USA) (v1.01)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Ratchet & Clank - Size Matters (Sony)(US).iso",
+      "label": "Ratchet & Clank - Size Matters (Sony)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Secret Agent Clank (Sony)(EU).iso",
+      "label": "Secret Agent Clank (Sony)(EU)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Sengoku Cannon - Sengoku Ace Episode III (Japan).iso",
+      "label": "Sengoku Cannon - Sengoku Ace Episode III (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Silent Hill - Origins (USA).iso",
+      "label": "Silent Hill - Origins (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Silent Hill - Shattered Memories (USA).iso",
+      "label": "Silent Hill - Shattered Memories (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Street Fighter Alpha 3 MAX (Capcom)(USA).iso",
+      "label": "Street Fighter Alpha 3 MAX (Capcom)(USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Tenchu - Kurenai Portable (Japan).iso.iso",
+      "label": "Tenchu - Kurenai Portable (Japan).iso",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Tenchu - Shinobi Taizen (Japan).iso",
+      "label": "Tenchu - Shinobi Taizen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Tenchu 4 Plus (Japan).iso",
+      "label": "Tenchu 4 Plus (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Tenchu San Portable (Japan).iso",
+      "label": "Tenchu San Portable (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Sony - Playstation Portable.lpl"
+    }
+  ]
+}
