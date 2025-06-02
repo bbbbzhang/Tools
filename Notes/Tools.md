@@ -34,6 +34,10 @@ NS
 勇者斗恶龙3 重制版 更新
 勇者斗恶龙3 重制版 DLC解锁器改名为DLC
 纪念碑谷12
+PC
+蔚蓝 逃出地牢 茶杯头 重新下载
+
+
 ```
 
 # 游戏
@@ -815,6 +819,7 @@ GOG
 GOG
 
 内部
+Inside/Profile/bbbbzhang/Saves
 
 双人成行
 C:\Users\19654\AppData\Local\ItTakesTwo
