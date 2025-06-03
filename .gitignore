@@ -2,7 +2,9 @@ Life.md
 A 快捷方式
 Apks
 Comics
-DEVs
+DEVs/**
+!DEVs/笔记/
+!DEVs/笔记/**
 Emulators/Cemu
 Emulators/Citra
 Emulators/Dolphin
