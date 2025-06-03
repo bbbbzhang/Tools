@@ -41,6 +41,10 @@ PC
 卡普空格斗合集2 下载
 
 
+模拟器游戏+NS游戏+NS没有的PC游戏
+模拟器游戏+PC没有的NS游戏+PC游戏
+
+
 
 
 ```
@@ -177,11 +181,8 @@ switch oled，国行硬破，512G tf卡，红蓝joycon，灰色joycon，无拆�
 通常游戏内独立设置
 开启垂直同步
 关闭动态模糊
-开启DLSS平衡
-开启光线追踪
-适度开启抗锯齿
 其余特效全开
-窗口模式，或者与显示屏幕同分辨率的无边框全屏
+优选无边框全屏
 
 
 解决应用程序比例错误
@@ -189,7 +190,6 @@ switch oled，国行硬破，512G tf卡，红蓝joycon，灰色joycon，无拆�
 高DPI缩放替代->替代高DPI缩放行为(勾选)->应用程序->确定
 案例：
 奥日与黑暗森林、迈阿密热线、恶霸鲁尼、洞窟物语+、超级食肉男孩、忍者龙剑传-西格玛1、忍者龙剑传-西格玛2、忍者龙剑传-3刀锋边缘、银河历险记1、银河历险记3、植物精灵、传说之下、爷爷的城市、桥、生化危机4、FBneo、DeSmuME、BlastEm、侠盗猎车手三部曲重制版、最终幻想10、最终幻想12、最终幻想13-3、SNK VS 卡普空-千年之战、里奥的财富、暗喻幻想
-
 
 解决手柄无反应(针对STEAM游戏)
 先打开手柄，再打开应用程序
@@ -297,7 +297,7 @@ SKIDROW
 会在C:\Users\19654\Documents生成一个与破解游戏配置文件里面的用户名同名的文件夹
 
 破解小组
-Tenoke、EMPRESS、CODEX、RUNE、Razor1911、Goldberg、FLT、GOG、3dm、aliat、CPY、DOGE、SmartSteamEmu、RELOADED、HOODLUM、STEAMPUNKS、DARKSiDERS、DARKZER0
+Tenoke、EMPRESS、CODEX、RUNE、Razor1911、Goldberg、FLT、GOG、3DM、aliat、CPY、DOGE、SmartSteamEmu、RELOADED、HOODLUM、STEAMPUNKS、DARKSiDERS、DARKZER0
 
 破解游戏存档位置
 C:\Users\Public\Documents\EMPRESS
@@ -660,6 +660,7 @@ RUNE
 炽热合金
 
 血污-夜之仪式
+RUNE
 
 血污-月之诅咒1
 
@@ -695,10 +696,12 @@ FLT
 Goldberg
 
 加拿大死亡之路
-
-逃出地牢
+GOG
 
 挺进地牢
+
+逃出地牢
+CODEX
 
 月风魔传-不朽之月
 ./ProjectU
@@ -726,6 +729,7 @@ GOG
 武士零
 
 洛克人11
+根目录
 
 洛克人合集1
 根目录
@@ -733,7 +737,6 @@ C:\Users\19654\AppData\Roaming\MegaMan
 Build.20190108
 STEAM
 363440
-
 
 洛克人合集2
 根目录
@@ -778,6 +781,7 @@ STEAM
 Goldberg
 
 雪人兄弟2 重制版
+tenoke
 
 怒之铁拳4
 C:\Users\19654\Documents\Streets of Rage 4 Save and Config
@@ -785,6 +789,7 @@ STEAM
 Goldberg
 
 出击飞龙
+CODEX
 
 忍者神龟-施莱德的复仇
 C:\Users\19654\Documents\Tribute Games\TMNT
@@ -792,6 +797,7 @@ STEAM
 Goldberg
 
 以撒的结合-重生
+RUNE
 
 终结将至
 
@@ -1040,12 +1046,12 @@ GOG
 闪亮银枪
 STEAM
 2450820
+
 ```
 
 ###### 09.RPG
 
 ```
-
 勇气默示录2
 C:\Users\19654\AppData\Local\Bravely_Default_II
 BuildId.6204549
@@ -1274,7 +1280,7 @@ ps4购买需知
 ##### PSN游戏列表
 
 ```
-
+已购买游戏
 战神345
 神秘海域1234盗贼遗产
 蜉蝣 花 风之旅人
@@ -1297,11 +1303,11 @@ ps4购买需知
 杀戮地带
 僵尸国度
 异形国度
-恶魔城合集
 深海迷航
 飙酷车神2
 暴走甲虫
 恶魔城-月下&月轮
+
 
 
 ```
@@ -1356,13 +1362,10 @@ NS玩模拟器报错，需要改sd卡格式
 
 PC玩不到的第三方
 圣兽之王 十三机兵防卫圈 街头霸王2 终极版 重装机兵瓦尔肯-解密 古惑狼赛车 重制版
-彩京射击之星Alpha 彩京射击之星Bravo
 
 PC也有，但是更适合NS的第三方
 雷曼-传奇 光之子 终极版 勇敢的心-归乡 勇敢的心-世界大战 超越善恶 20周年纪念版
 深世海 去月球 寻找天堂 传说之下
-
-PC也有，但是更适合NS的第三方
 女神异闻录3P 女神异闻录4黄金版 女神异闻录4-终极竞技场2 女神异闻录5R 5T 5S
 勇者斗恶龙1-3 勇者斗恶龙1-3 重制版
 合金装备大师合集Vol.1
