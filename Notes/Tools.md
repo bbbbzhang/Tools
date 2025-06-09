@@ -1739,11 +1739,10 @@ OpenGL模式
 删除 YUZU/user/nand/user/Contents/registered，
 然后复制即可
 
-
 传说之下汉化补丁
 YUZU/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
 
-四作塞尔达新更新包，YUZU识别不了，会闪退
+YUZU识别不了，四作塞尔达的新更新包，会闪退
 
 
 ```
