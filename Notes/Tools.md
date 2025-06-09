@@ -1587,7 +1587,7 @@ PPSSPP/memstick/PSP/SYSTEM
 
 设置/列表/管理列表/选择列表/指定默认核心
 修改的是playlists里面的default_core_path和default_core_name
-启动游戏后，playlists里的core_path和core_name会自动变为default_core_path和default_core_name
+启动游戏后，playlists具体游戏里的core_path和core_name会自动变为default_core_path和default_core_name
 
 选择游戏/设置核心关联
 修改的是playlists里面，指定游戏的和core_path和core_name
