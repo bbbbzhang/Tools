@@ -39,7 +39,8 @@ NS
 马车8 更新
 塞尔达四作旧更新包下载
 删掉魂斗罗加鲁加行动的1.1.0更新
-
+PC
+DQ3RE 下载
 
 
 
@@ -1077,6 +1078,9 @@ GOG
 饥荒
 GOG
 
+勇者斗恶龙3 重制版
+v1.2.0.0
+ 
 勇者斗恶龙11S
 C:\Users\19654\Documents\My Games\DRAGON QUEST XI S
 C:\Users\Public\Documents\Steam\CODEX\1295510
