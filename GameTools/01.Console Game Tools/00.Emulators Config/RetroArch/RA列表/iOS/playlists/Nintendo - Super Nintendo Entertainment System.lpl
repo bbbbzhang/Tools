@@ -25,6 +25,14 @@
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
     {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Super Nintendo Entertainment System/Likes SNES ROMs/Cybernator (USA).sfc",
+      "label": "Cybernator (USA)",
+      "core_path": ":/Frameworks/mesen-s.libretro.framework",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
       "path": "~/Documents/RetroArch/ROMs/Nintendo - Super Nintendo Entertainment System/Likes SNES ROMs/Donkey Kong Country (USA) (Rev 2).sfc",
       "label": "Donkey Kong Country (USA) (Rev 2)",
       "core_path": ":/Frameworks/mesen-s.libretro.framework",

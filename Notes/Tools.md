@@ -41,7 +41,8 @@ NS
 删掉魂斗罗加鲁加行动的1.1.0更新
 PC
 DQ3RE 下载
-
+SFC
+Cybernator (USA) 下载
 
 
 ```
