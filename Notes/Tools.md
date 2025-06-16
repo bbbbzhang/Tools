@@ -1801,15 +1801,6 @@ C:\Users\19654\AppData\Local\blastem
 
 ```
 
-##### Mesen-S
-
-```
-超频方法
-Option Emulation Overclocking Before NMI 300
-
-
-```
-
 ##### mGBA
 
 ```
