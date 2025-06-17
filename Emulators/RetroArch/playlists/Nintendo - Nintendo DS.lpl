@@ -1,0 +1,668 @@
+{
+  "version": "1.5",
+  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+  "default_core_name": "Nintendo - DS (melonDS)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Alice in Wonderland (USA) (En,Fr,Es) (NDSi Enhanced).nds",
+      "label": "Alice in Wonderland (USA) (En,Fr,Es) (NDSi Enhanced)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\All Kamen Rider - Rider Generation (Japan).nds",
+      "label": "All Kamen Rider - Rider Generation (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Castlevania - Dawn of Sorrow (USA).nds",
+      "label": "Castlevania - Dawn of Sorrow (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Castlevania - Order of Ecclesia (USA) (En,Fr).nds",
+      "label": "Castlevania - Order of Ecclesia (USA) (En,Fr)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melondsds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Castlevania - Portrait of Ruin (USA).nds",
+      "label": "Castlevania - Portrait of Ruin (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Chibi-Robo! - Park Patrol (USA).nds",
+      "label": "Chibi-Robo! - Park Patrol (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Chrono Trigger (USA) (En,Fr).nds",
+      "label": "Chrono Trigger (USA) (En,Fr)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Contra 4 (USA).nds",
+      "label": "Contra 4 (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dementium - The Ward (USA).nds",
+      "label": "Dementium - The Ward (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dementium II (USA) (En,Fr,De,Es,It).nds",
+      "label": "Dementium II (USA) (En,Fr,De,Es,It)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).nds",
+      "label": "Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es).nds",
+      "label": "Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dragon Quest Monsters - Joker (USA).nds",
+      "label": "Dragon Quest Monsters - Joker (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dragon Quest Monsters - Joker 2 (USA) (En,Fr,De,Es,It).nds",
+      "label": "Dragon Quest Monsters - Joker 2 (USA) (En,Fr,De,Es,It)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dragon Quest Monsters - Joker 2 - Professional (Japan).nds",
+      "label": "Dragon Quest Monsters - Joker 2 - Professional (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).nds",
+      "label": "Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).nds",
+      "label": "Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Final Fantasy - The 4 Heroes of Light (USA).nds",
+      "label": "Final Fantasy - The 4 Heroes of Light (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).nds",
+      "label": "Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es).nds",
+      "label": "Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Final Fantasy III (USA).nds",
+      "label": "Final Fantasy III (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Final Fantasy IV (USA) (En,Fr,Es).nds",
+      "label": "Final Fantasy IV (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Final Fantasy Tactics A2 - Grimoire of the Rift (USA) (En,Fr,Es).nds",
+      "label": "Final Fantasy Tactics A2 - Grimoire of the Rift (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Final Fantasy XII - Revenant Wings (USA).nds",
+      "label": "Final Fantasy XII - Revenant Wings (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Freshly-Picked - Tingle's Rosy Rupeeland (Europe) (En,Fr,De,Es,It).nds",
+      "label": "Freshly-Picked - Tingle's Rosy Rupeeland (Europe) (En,Fr,De,Es,It)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It).nds",
+      "label": "Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Golden Sun - Dark Dawn (USA, Australia) (En,Es).nds",
+      "label": "Golden Sun - Dark Dawn (USA, Australia) (En,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It).nds",
+      "label": "Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Houkago Shounen (Japan).nds",
+      "label": "Houkago Shounen (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Inugamike no Ichizoku (Japan).nds",
+      "label": "Inugamike no Ichizoku (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Kirby - Canvas Curse (USA).nds",
+      "label": "Kirby - Canvas Curse (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Kirby - Squeak Squad (USA).nds",
+      "label": "Kirby - Squeak Squad (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Kirby Mass Attack (USA) (En,Fr,Es).nds",
+      "label": "Kirby Mass Attack (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Kirby Super Star Ultra (USA).nds",
+      "label": "Kirby Super Star Ultra (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Legend of Kage 2, The (USA) (En,Fr,De,Es,It).nds",
+      "label": "Legend of Kage 2, The (USA) (En,Fr,De,Es,It)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).nds",
+      "label": "Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Rev 1).nds",
+      "label": "Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Rev 1)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Lode Runner (Japan).nds",
+      "label": "Lode Runner (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\MapleStory DS (Japan).nds",
+      "label": "MapleStory DS (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Mario & Luigi - Bowser's Inside Story (USA) (En,Fr,Es).nds",
+      "label": "Mario & Luigi - Bowser's Inside Story (USA) (En,Fr,Es)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Mario & Luigi - Partners in Time (USA) (Rev 1).nds",
+      "label": "Mario & Luigi - Partners in Time (USA) (Rev 1)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Mega Man ZX (USA).nds",
+      "label": "Mega Man ZX (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Mega Man ZX - Advent (USA).nds",
+      "label": "Mega Man ZX - Advent (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Metal Max 2 - Reloaded (Japan).nds",
+      "label": "Metal Max 2 - Reloaded (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Metal Max 3 (Japan).nds",
+      "label": "Metal Max 3 (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Metal Saga - Hagane no Kisetsu (Japan).nds",
+      "label": "Metal Saga - Hagane no Kisetsu (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Metal Slug 7 (USA).nds",
+      "label": "Metal Slug 7 (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Metroid Prime - Hunters (USA) (Rev 1).nds",
+      "label": "Metroid Prime - Hunters (USA) (Rev 1)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Moon (USA).nds",
+      "label": "Moon (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Mushishi - Ame Furu Sato (Japan).nds",
+      "label": "Mushishi - Ame Furu Sato (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Nanashi no Geemu (Japan).nds",
+      "label": "Nanashi no Geemu (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Nanashi no Geemu Me (Japan).nds",
+      "label": "Nanashi no Geemu Me (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Nanostray (USA).nds",
+      "label": "Nanostray (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Nanostray 2 (USA).nds",
+      "label": "Nanostray 2 (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\New Super Mario Bros. (USA).nds",
+      "label": "New Super Mario Bros. (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Ninja Gaiden - Dragon Sword (USA).nds",
+      "label": "Ninja Gaiden - Dragon Sword (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Okaeri! Chibi-Robo! - Happy Rich Oosouji! (Japan).nds",
+      "label": "Okaeri! Chibi-Robo! - Happy Rich Oosouji! (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Okamiden (USA).nds",
+      "label": "Okamiden (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Plants vs. Zombies (USA).nds",
+      "label": "Plants vs. Zombies (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - Black Version (USA, Europe) (NDSi Enhanced).nds",
+      "label": "Pokemon - Black Version (USA, Europe) (NDSi Enhanced)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced).nds",
+      "label": "Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - Diamond Version (USA) (Rev 5).nds",
+      "label": "Pokemon - Diamond Version (USA) (Rev 5)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - HeartGold Version (USA).nds",
+      "label": "Pokemon - HeartGold Version (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - Pearl Version (USA) (Rev 5).nds",
+      "label": "Pokemon - Pearl Version (USA) (Rev 5)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - Platinum Version (USA) (Rev 1).nds",
+      "label": "Pokemon - Platinum Version (USA) (Rev 1)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - SoulSilver Version (USA).nds",
+      "label": "Pokemon - SoulSilver Version (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - White Version (USA, Europe) (NDSi Enhanced).nds",
+      "label": "Pokemon - White Version (USA, Europe) (NDSi Enhanced)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced).nds",
+      "label": "Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).nds",
+      "label": "Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Rainbow Islands Revolution (USA).nds",
+      "label": "Rainbow Islands Revolution (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Rhythm Heaven (USA).nds",
+      "label": "Rhythm Heaven (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Rockman ZX - Advent (Japan).nds",
+      "label": "Rockman ZX - Advent (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Saga no Gabai Baachan DS (Japan).nds",
+      "label": "Saga no Gabai Baachan DS (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\SD Gundam Sangoku Den - Brave Battle Warriors - Shin Militia Taisen (Japan).nds",
+      "label": "SD Gundam Sangoku Den - Brave Battle Warriors - Shin Militia Taisen (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Super Mario 64 DS (USA).nds",
+      "label": "Super Mario 64 DS (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Tenchu - Dark Secret (USA).nds",
+      "label": "Tenchu - Dark Secret (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Umihara Kawase Shun - Second Edition Kanzen Ban (Japan).nds",
+      "label": "Umihara Kawase Shun - Second Edition Kanzen Ban (Japan)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Viewtiful Joe - Double Trouble! (USA).nds",
+      "label": "Viewtiful Joe - Double Trouble! (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\WarioWare - D.I.Y. (USA).nds",
+      "label": "WarioWare - D.I.Y. (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\WarioWare - Touched! (USA).nds",
+      "label": "WarioWare - Touched! (USA)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Yoshi Touch & Go (USA, Australia).nds",
+      "label": "Yoshi Touch & Go (USA, Australia)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Yoshi's Island DS (USA) (Rev 1).nds",
+      "label": "Yoshi's Island DS (USA) (Rev 1)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    }
+  ]
+}
