@@ -8,7 +8,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Famicom Disk System\\Likes FDS ROMs\\Link no Bouken - The Legend of Zelda 2 (Japan) (v1.1).fds",
+      "path": "D:\\Tools\\ROMs\\Nintendo - Famicom Disk System\\Likes FDS ROMs\\Link no Bouken - The Legend of Zelda 2 (Japan) (v1.1).fds",
       "label": "Link no Bouken - The Legend of Zelda 2 (Japan) (v1.1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mesen_libretro.dll",
       "core_name": "Nintendo - NES / Famicom (Mesen)",
@@ -16,7 +16,7 @@
       "db_name": "Nintendo - Famicom Disk System.lpl"
     },
     {
-      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Famicom Disk System\\Likes FDS ROMs\\Super Mario Brothers (Japan).fds",
+      "path": "D:\\Tools\\ROMs\\Nintendo - Famicom Disk System\\Likes FDS ROMs\\Super Mario Brothers (Japan).fds",
       "label": "Super Mario Brothers (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mesen_libretro.dll",
       "core_name": "Nintendo - NES / Famicom (Mesen)",
@@ -24,7 +24,7 @@
       "db_name": "Nintendo - Famicom Disk System.lpl"
     },
     {
-      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Famicom Disk System\\Likes FDS ROMs\\Super Mario Brothers 2 (Japan).fds",
+      "path": "D:\\Tools\\ROMs\\Nintendo - Famicom Disk System\\Likes FDS ROMs\\Super Mario Brothers 2 (Japan).fds",
       "label": "Super Mario Brothers 2 (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mesen_libretro.dll",
       "core_name": "Nintendo - NES / Famicom (Mesen)",
@@ -32,7 +32,7 @@
       "db_name": "Nintendo - Famicom Disk System.lpl"
     },
     {
-      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Famicom Disk System\\Likes FDS ROMs\\Zelda no Densetsu - The Hyrule Fantasy (Japan) (v1.1).fds",
+      "path": "D:\\Tools\\ROMs\\Nintendo - Famicom Disk System\\Likes FDS ROMs\\Zelda no Densetsu - The Hyrule Fantasy (Japan) (v1.1).fds",
       "label": "Zelda no Densetsu - The Hyrule Fantasy (Japan) (v1.1)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mesen_libretro.dll",
       "core_name": "Nintendo - NES / Famicom (Mesen)",
