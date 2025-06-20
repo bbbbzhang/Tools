@@ -23,9 +23,9 @@ Emulators/PCSX2
 Emulators/PPSSPP
 Emulators/RetroArch/**
 # RA 列表
-!Emulators/RetroArch/playlists
-!Emulators/RetroArch/playlists/**
-Emulators/RetroArch/playlists/logs
+# !Emulators/RetroArch/playlists
+# !Emulators/RetroArch/playlists/**
+# Emulators/RetroArch/playlists/logs
 # RA saves存档
 !Emulators/RetroArch/saves/
 !Emulators/RetroArch/saves/**
