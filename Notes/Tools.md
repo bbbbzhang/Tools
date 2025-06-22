@@ -558,6 +558,7 @@ v1.1.10410.940
 C:\Users\19654\AppData\Local\LOTF2\Saved
 C:\Users\19654\Documents\The Last of Us Part II
 RUNE
+删除icon文件夹
 
 巫师3
 C:\Users\19654\Documents\The Witcher 3
