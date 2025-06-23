@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "D:\\Tools\\ROMs\\Sega - Saturn\\Likes SS ROMs\\Akumajo Dracula X - Gekka no Yasoukyoku (Japan)\\Akumajo Dracula X - Gekka no Yasoukyoku (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sega - Saturn\\Likes SS ROMs\\Akumajo Dracula X - Gekka no Yasoukyoku (Japan)\\Akumajo Dracula X - Gekka no Yasoukyoku (Japan).cue",
       "label": "Akumajo Dracula X - Gekka no Yasoukyoku (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\yabasanshiro_libretro.dll",
       "core_name": "Sega - Saturn (YabaSanshiro)",
@@ -17,7 +17,7 @@
       "db_name": "Sega - Saturn.lpl"
     },
     {
-      "path": "D:\\Tools\\ROMs\\Sega - Saturn\\Likes SS ROMs\\Radiant Silvergun (Japan)\\Radiant Silvergun (Japan).cue",
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sega - Saturn\\Likes SS ROMs\\Radiant Silvergun (Japan)\\Radiant Silvergun (Japan).cue",
       "label": "Radiant Silvergun (Japan)",
       "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\yabasanshiro_libretro.dll",
       "core_name": "Sega - Saturn (YabaSanshiro)",
