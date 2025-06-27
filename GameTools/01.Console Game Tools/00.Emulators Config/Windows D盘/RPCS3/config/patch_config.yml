@@ -1,0 +1,464 @@
+PPU-79c9f5ae14fe84851dca7bfe33f58bee3367730b:
+  Aspect Ratio:
+    "Metal Gear Solid 2: Sons of Liberty - HD Edition":
+      NPEB00685:
+        All:
+          Enabled: true
+PPU-9403fe1678487def5d7f3c380b4c4fb275035378:
+  Unlock FPS:
+    Demon's Souls:
+      BCAS20071:
+        01.04:
+          Enabled: false
+  Skip Intro Videos:
+    Demon's Souls:
+      BCAS20071:
+        01.04:
+          Enabled: true
+  Disable Motion Blur:
+    Demon's Souls:
+      BCAS20071:
+        01.04:
+          Enabled: true
+PPU-83681f6110d33442329073b72b8dc88a2f677172:
+  Unlock FPS:
+    Demon's Souls:
+      BLUS30443:
+        01.00:
+          Enabled: false
+  Skip Intro Videos:
+    Demon's Souls:
+      BLUS30443:
+        01.00:
+          Enabled: true
+  Disable Motion Blur:
+    Demon's Souls:
+      BLUS30443:
+        01.00:
+          Enabled: true
+PPU-33546066628b10ec09f08a3c29c15611f9e65493:
+  60 FPS:
+    Grand Theft Auto V (Grand Theft Auto 5):
+      NPUB31154:
+        01.27:
+          Enabled: true
+  Skip Rockstar Boot Logo:
+    Grand Theft Auto V (Grand Theft Auto 5):
+      NPUB31154:
+        01.27:
+          Enabled: true
+PPU-90a087f8c40920044c59fa402edf9e416cdd9187:
+  Skip Intro:
+    Red Dead Redemption:
+      BLUS30418:
+        01.00:
+          Enabled: true
+PPU-645f0573d7438e37ddd231377adf9c1205e8a040:
+  True widescreen:
+    "God of War: HD":
+      NPUA80490:
+        01.01:
+          Enabled: true
+  Skip any videos with X button:
+    "God of War: HD":
+      NPUA80490:
+        01.01:
+          Enabled: true
+PPU-9cd8d28963ebc29b59c79819cb56f3d92e857a37:
+  True widescreen:
+    "God of War: II HD":
+      NPUA80491:
+        01.01:
+          Enabled: true
+  Skip any videos with X button:
+    "God of War: II HD":
+      NPUA80491:
+        01.01:
+          Enabled: true
+PPU-a2c90aafce24744d5ac6da8ad009ce301458c8a7:
+  Unlock FPS:
+    Grand Theft Auto IV (Grand Theft Auto 4):
+      NPEB00882:
+        01.09:
+          Enabled: false
+PPU-d5041972c3464b734ed27f0b94b505a2a14471c8:
+  Unlock FPS:
+    Grand Theft Auto IV (Grand Theft Auto 4):
+      NPUB30702:
+        01.08:
+          Enabled: false
+PPU-b4b1ebe7a069782537a13d5bdbc15d6e900ceb25:
+  Remove Door Animations:
+    "RESIDENT EVIL CODE: Veronica X":
+      NPUB30467:
+        01.00:
+          Enabled: true
+PPU-3675007cd4110c6e8c2c297e6dde41799e05198c:
+  Infinite Draw Distance:
+    "Sly 3: Honor Among Thieves":
+      NPUA80665:
+        01.00:
+          Enabled: true
+PPU-19724fde16a5b111b7b4d2a065f5dccaf8e01962:
+  Skip any videos with X button:
+    God of War 3 (God of War III):
+      BCAS25003:
+        01.03:
+          Enabled: true
+  Disable MLAA:
+    God of War 3 (God of War III):
+      BCAS25003:
+        01.03:
+          Enabled: true
+  Skip intro:
+    God of War 3 (God of War III):
+      BCAS25003:
+        01.03:
+          Enabled: true
+PPU-51eaefa466f3e26a4108f825e9b0856ee079aa2b:
+  60 FPS:
+    Grand Theft Auto V (Grand Theft Auto 5):
+      BLUS31156:
+        01.00:
+          Enabled: true
+  Skip Rockstar Boot Logo:
+    Grand Theft Auto V (Grand Theft Auto 5):
+      BLUS31156:
+        01.00:
+          Enabled: true
+PPU-4954615ba4883e0799e933ee8619098b26830416:
+  Flat Lighting:
+    Sly Cooper and the Thievius Raccoonus:
+      NPUA80663:
+        01.00:
+          Enabled: true
+  Spooky Lighting:
+    Sly Cooper and the Thievius Raccoonus:
+      NPUA80663:
+        01.00:
+          Enabled: true
+  Unskippable Images Intro Skip:
+    Sly Cooper and the Thievius Raccoonus:
+      NPUA80663:
+        01.00:
+          Enabled: true
+PPU-16506d9d5bf692d615645accd24bca1ee1f8f9a6:
+  Unlock FPS:
+    "Ratchet & Clank Future: Tools of Destruction":
+      NPUA80965:
+        All:
+          Enabled: false
+PPU-1d9e99e1f091cfbdf1714d04e690d9cd816e2971:
+  Unlock FPS:
+    "Ratchet & Clank Future: Quest for Booty":
+      NPUA80145:
+        All:
+          Enabled: false
+PPU-139ccf98a8417bd91a222f3d61d6de0860b8c436:
+  Unlock FPS:
+    "Ratchet & Clank Future: A Crack in Time":
+      NPUA80966:
+        01.20:
+          Enabled: false
+  Skip Intro Logos:
+    "Ratchet & Clank Future: A Crack in Time":
+      NPUA80966:
+        01.20:
+          Enabled: true
+PPU-fadb0af6fb7bd0113e88fb9af3eb78fe3be05d08:
+  Unlock FPS:
+    "Ratchet & Clank: Into the Nexus":
+      BCUS99245:
+        01.01:
+          Enabled: false
+      NPUA80908:
+        01.01:
+          Enabled: true
+PPU-5fd631b4c6903c20ef2dedae06469beb880935d3:
+  Unlock FPS:
+    "Ratchet & Clank: All 4 One":
+      NPUA80695:
+        01.03:
+          Enabled: false
+PPU-d3a99698275b4203d42c7aeccc053299a5811804:
+  Unskippable Images Intro Skip:
+    "Sly 2: Band of Thieves":
+      NPUA80664:
+        01.00:
+          Enabled: true
+PPU-3a0b43e4a5f4bfea64f53612ee7c5d990f88129c:
+  Disable MLAA:
+    "God of War: Ascension":
+      NPUA80918:
+        01.12:
+          Enabled: true
+  Disable Motion Blur:
+    "God of War: Ascension":
+      NPUA80918:
+        01.12:
+          Enabled: true
+PPU-120fb71f7352d62521c639b0e99f960018c10a56:
+  WCB/WDB Performance fix:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  Disable in-built MLAA:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  Depth border fix:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  Disable Motion Blur:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  "Bug Fix: University Nailbomb Softlock Fix":
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  Enable GPU Lighting:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  Speedboost:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  "Bug Fix: Infected Severed Head Crash":
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  Unlock FPS:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: false
+  Tool Always Level 5:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  Skip Intro:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+  Enable Local Multiplayer:
+    The Last of Us:
+      BCAS20270:
+        01.11:
+          Enabled: true
+PPU-bbf4c85f1c01e182e7f96d34f734772c4430a426:
+  Reduce stage quality:
+    "Metal Gear Solid 4: Guns of the Patriots":
+      NPUB31633:
+        02.00:
+          Enabled: true
+  Unlock FPS:
+    "Metal Gear Solid 4: Guns of the Patriots":
+      NPUB31633:
+        02.00:
+          Enabled: false
+PPU-a3a5789c12711291dfe16a7d5d81c906d2b4c0c2:
+  "Bug Fix: Quit to Menu Crash":
+    "Uncharted 2: Among Thieves":
+      BCAS20097:
+        01.09:
+          Enabled: true
+  Enable GPU Lighting:
+    "Uncharted 2: Among Thieves":
+      BCAS20097:
+        01.09:
+          Enabled: true
+  Disable Motion Blur:
+    "Uncharted 2: Among Thieves":
+      BCAS20097:
+        01.09:
+          Enabled: true
+  Unlock FPS:
+    "Uncharted 2: Among Thieves":
+      BCAS20097:
+        01.09:
+          Enabled: false
+  Disable SPU Post-processing:
+    "Uncharted 2: Among Thieves":
+      BCAS20097:
+        01.09:
+          Enabled: true
+  Disable Mesh Trimming:
+    "Uncharted 2: Among Thieves":
+      BCAS20097:
+        01.09:
+          Enabled: true
+  Skip Intro:
+    "Uncharted 2: Among Thieves":
+      BCAS20097:
+        01.09:
+          Enabled: true
+  Approximate ZCull graphic fixes:
+    "Uncharted 2: Among Thieves":
+      BCAS20097:
+        01.09:
+          Enabled: true
+PPU-02a88c3c6cd415b0bb81f1606bc743835881a4ba:
+  Heat waves Approximate ZCull fix:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: true
+  Unlock FPS:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: false
+  Disable in-built MLAA:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: true
+  Enable GPU Lighting:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: true
+  Disable Motion Blur:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: true
+  Disable Mesh Trimming:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: true
+  Depth Buffer Viewport:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: true
+  Depth Border Fix:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: true
+  Skip Intro:
+    "Uncharted 3: Drake's Deception":
+      BCAS25014:
+        01.19:
+          Enabled: true
+PPU-20445ff41192238543f15e956926d03f93d23878:
+  Disable MLAA:
+    ICO:
+      NPUA80676:
+        01.01:
+          Enabled: true
+      NPUA80677:
+        01.01:
+          Enabled: true
+  Disable All Post-processing:
+    ICO:
+      NPUA80676:
+        01.01:
+          Enabled: true
+      NPUA80677:
+        01.01:
+          Enabled: true
+PPU-07b749cb166a9d6a924bb59428880e3836ab67c9:
+  Enable Full Pixel Mode:
+    Shadow of the Colossus:
+      NPUA80676:
+        01.01:
+          Enabled: true
+      NPUA80677:
+        01.01:
+          Enabled: true
+  Disable MLAA:
+    Shadow of the Colossus:
+      NPUA80676:
+        01.01:
+          Enabled: true
+      NPUA80677:
+        01.01:
+          Enabled: true
+  Disable Motion Blur:
+    Shadow of the Colossus:
+      NPUA80676:
+        01.01:
+          Enabled: true
+      NPUA80677:
+        01.01:
+          Enabled: true
+  60 FPS:
+    Shadow of the Colossus:
+      NPUA80676:
+        01.01:
+          Enabled: true
+      NPUA80677:
+        01.01:
+          Enabled: true
+PPU-4a5f4c5ae98f1b8b01294a267790adfa5e8b4501:
+  Disable Motion Blur:
+    "Uncharted: Drake's Fortune":
+      BCAS20024:
+        01.01:
+          Enabled: true
+  Unlock Devkit menus:
+    "Uncharted: Drake's Fortune":
+      BCAS20024:
+        01.01:
+          Enabled: true
+  Unlock FPS:
+    "Uncharted: Drake's Fortune":
+      BCAS20024:
+        01.01:
+          Enabled: false
+  "WCB Performance & Z-fighting fix":
+    "Uncharted: Drake's Fortune":
+      BCAS20024:
+        01.01:
+          Enabled: true
+PPU-c423a041b450bd0b19e95958733a99c1b95e5b41:
+  60 FPS:
+    "Silent Hill: Homecoming":
+      BLUS30169:
+        01.00:
+          Enabled: true
+PPU-69acb9900ff44f7d7a3b25b226b213966955aed4:
+  Disable MLAA:
+    "Sly Cooper: Thieves in Time":
+      BCUS98247:
+        01.00:
+          Enabled: true
+PPU-cf7f5b0e93e0afb59e8f22fd040086ae554cdbad:
+  Disable MLAA:
+    "Sly Cooper: Thieves in Time":
+      NPUA80875:
+        01.00:
+          Enabled: true
+PPU-11f50d10f4626cdd59837e2fe44b701a9d9bfeac:
+  Unlock FPS:
+    Silent Hill Downpour:
+      BLUS30565:
+        01.01:
+          Enabled: false
+  Disable Low-Resolution Depth of Field:
+    Silent Hill Downpour:
+      BLUS30565:
+        01.01:
+          Enabled: true
+PPU-a6cf430925b076125e5349a62dc6d646cb342a30:
+  Unlock FPS:
+    "Ratchet & Clank: Full Frontal Assault":
+      NPUA80642:
+        01.05:
+          Enabled: false
