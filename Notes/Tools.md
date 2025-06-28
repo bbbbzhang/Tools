@@ -685,7 +685,6 @@ FLT
 
 赛博暗影
 
-
 死亡细胞
 Goldberg
 
@@ -704,6 +703,13 @@ STEAM
 
 魔界村-经典回归
 Goldberg
+核显卡顿解决办法：
+開啟 遊戲安裝資料夾，對於 Steam 預設路徑應為： C:\Program Files (x86)\Steam\steamapps\common\Makaimura_GG_RE\
+打開 檔「config.ini」。。
+通過將 DirectX12 替換為 DirectX11 來修改以下行：
+能力 = DirectX11
+TargetPlatform=DirectX11
+保存並關閉檔。
 
 重力回路
 v1.04
@@ -761,9 +767,13 @@ STEAM
 
 奥达勒斯
 
-赤影战士-不可阻挡
+奥尼克
 
 奥日与黑暗森林 终极版
+游戏的 PC 版保留了 Ori 的原始 30FPS 动画，而 Switch 版将这些动画更新为 60FPS。
+启用游戏中的 Vsync 会移除 60 FPS 的上限，但会导致整个游戏中的音频/视频不同步，从轻微到严重不等。
+动画和/或过场动画仍将锁定为 60-30 FPS。
+游戏速度可能会受到 60fps 以上的影响，这使得更紧凑的平台挑战变得更加困难
 
 奥日与精灵意志
 
