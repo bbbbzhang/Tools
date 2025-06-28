@@ -906,7 +906,8 @@ GOG
 Goldberg
 
 幽灵诡计
-
+在红米笔记本上，快捷方式无效
+ 
 画中世界
 
 格瑞斯
@@ -1746,6 +1747,17 @@ OpenGL模式
 YUZU/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
 
 YUZU识别不了，四作塞尔达的新更新包，会闪退
+
+
+```
+
+##### Eden
+
+```
+配置路径
+C:\Users\19654\AppData\Roaming\eden
+
+
 
 
 ```
