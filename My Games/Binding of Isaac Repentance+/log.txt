@@ -1,0 +1,643 @@
+[INFO] - timeBeginPeriod( 1 )
+[INFO] - OpenGL version 4.6.0 - Build 32.0.101.6554
+[INFO] - GLSL version 4.60 - Build 32.0.101.6554
+[INFO] - Framebuffer ID: 1
+[INFO] - Renderbuffer ID: 1 size 1024x1024
+[INFO] - Using XInput 1.4 
+[INFO] - DInput checking if device supports XInput  (v = 1118, p = 736) 
+[INFO] - Device is compatible with XInput 
+[INFO] - Using XInput to initalize new device 
+[INFO] - New gamepad attached:
+[INFO] - Description: XInput Controller 1
+[INFO] - Vendor ID: 1118
+[INFO] - Product ID: 736
+[INFO] - Number of axes: 6
+[INFO] - Number of buttons: 15
+[INFO] - Device identified as "Xbox Wireless Controller", vendor = 1118, product = 736, button type = 0 
+[INFO] - Initializing theoraplayer with theora support.
+[INFO] - Initializing Theoraplayer Video Playback Library (2.0)
+  - libtheora version: Xiph.Org libtheora 1.2.0alpha 20100924 (Ptalarbvorm)
+  - libvorbis version: Xiph.Org libVorbis 1.3.4
+------------------------------------
+[INFO] - Changing number of worker threads to: 1
+[INFO] - Command Line: 
+[INFO] - 	C:\Users\19654\Documents\Games\Cracks\The Binding of Isaac Rebirth\isaac-ng.exe
+[INFO] - Game Version: J181 
+[INFO] - Successfully reserved 1073741824 bytes of memory for Lua
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 746 KB and 921 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 807 KB and 569 bytes
+[INFO] - Binding of Isaac: Repentance+ v1.9.7.8.J181
+[INFO] - load archives: 4323 milliseconds
+[INFO] - Initialize ColorOffset Shader
+[INFO] - Initialize Pixelation Shader
+[INFO] - Initialize Bloom Shader
+[INFO] - Initialize Color Correction Shader
+[INFO] - Initialize HQ4X Shader
+[INFO] - Initialize Shockwave Shader
+[INFO] - Initialize OldTV Shader
+[INFO] - Initialize Water Surface Shader
+[INFO] - Initialize Water Surface V2 Shader
+[INFO] - Initialize Hallucination Shader
+[INFO] - Initialize Colormod Shader
+[INFO] - Initialize Color Offset Champion Shader
+[INFO] - Initialize Background Shader
+[INFO] - Initialize Water Overlay Shader
+[INFO] - Initialize Color Offset Dogma Shader
+[INFO] - Initialize Color Offset Gold Shader
+[INFO] - Initialize Dizzy Shader
+[INFO] - Initialize Heat Wave Shader
+[INFO] - Initialize Mirror Shader
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - Viewport: 2877x1799
+[INFO] - Framebuffer Width: 2880 
+ Render Width: 822 
+ Window Width: 2880 
+ Multiplier: 7.199990 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - begin list mods
+[INFO] - HQX4 size: 822x514
+[INFO] - Viewport: 2877x1799
+[INFO] - Framebuffer Width: 2880 
+ Render Width: 822 
+ Window Width: 2880 
+ Multiplier: 7.199990 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - playing cutscene 1 (Intro).
+[INFO] - Renderbuffer ID: 1 size 4096x2048
+[INFO] - HQX4 size: 2880x1800
+[INFO] - Cutscene: correct anm2 timing: f8 -> f5
+[INFO] - Viewport: 2877x1799
+[INFO] - Framebuffer Width: 2880 
+ Render Width: 822 
+ Window Width: 2880 
+ Multiplier: 7.199990 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 822x514
+[INFO] - Menu Manager preCrossfade
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 155
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 155
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open rep+persistentgamedata2.dat.
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open Repentance save file rep_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata2.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open rep+persistentgamedata2.dat.
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open Repentance save file rep_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata2.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open rep+persistentgamedata3.dat.
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open Repentance save file rep_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata3.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open rep+persistentgamedata3.dat.
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open Repentance save file rep_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata3.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Menu Game Init
+[INFO] - Menu Daily Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Menu Online Lobby Init
+[INFO] - Menu Friend Lobbies Init
+[INFO] - Menu Multiplayer Init
+[INFO] - Menu Options Online Init
+[INFO] - Menu Create Lobby Init
+[INFO] - Menu Online Awards Init
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 155
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 155
+[INFO] - Queued Path music/Repentance/Genesis Retake Twisted Loop.ogg
+[INFO] - Queued Path music/Repentance/Genesis Retake Light Loop.ogg
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 155
+[INFO] - Initialized player with Variant 0 and Subtype 0
+[INFO] - Entity_Player::SetControllerId() Setting controller ID to 1, (Prev: -1) 
+[INFO] - Assigning Player Color (0) to Controller(1) 
+[INFO] - Assinging player entity 0 (ControlerIndex = 1) to HUD slot 0 
+[INFO] - Preload sound 0.
+[INFO] - RNG Start Seed: GCPS WDK8 (1064597232) [Continue, 1]
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Clearing player color assignment for controllerId 1 
+[INFO] - Spawning Co-Op Player (ePlayerType = 0) 
+[INFO] - Initialized player with Variant 0 and Subtype 0
+[INFO] - Entity_Player::SetControllerId() Setting controller ID to 1, (Prev: -1) 
+[INFO] - Assigning Player Color (0) to Controller(1) 
+[INFO] - Entity_Player::SetControllerId() Setting controller ID to 0, (Prev: 1) 
+[INFO] - Reassigning Player Color (0) Prev(1) New(0) 
+[INFO] - Assinging player entity 0 (ControlerIndex = 0) to HUD slot 0 
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 0: Special Rooms (mode 0)
+[INFO] - allocate 1357 rooms.
+[INFO] - [RoomConfig] load stage 1: Basement (mode 0)
+[INFO] - allocate 1220 rooms.
+[INFO] - [RoomConfig] load stage 13: ??? (mode 0)
+[INFO] - allocate 30 rooms.
+[INFO] - Room 1.232(New Room)
+[INFO] - SpawnRNG seed: 107924305
+[INFO] - Lua mem usage: 807 KB and 413 bytes
+[INFO] - Assinging player entity 0 (ControlerIndex = 0) to HUD slot 0 
+[INFO] - Entity_Player::SetControllerId() Setting controller ID to -1, (Prev: 0) 
+[INFO] - Entity_Player::SetControllerId() Setting controller ID to 1, (Prev: -1) 
+[INFO] - Assigning Player Color (1) to Controller(1) 
+[INFO] - Assinging player entity 0 (ControlerIndex = 1) to HUD slot 0 
+[INFO] - music stopped playing
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Room 1.1077(New Room)
+[INFO] - SpawnRNG seed: 2630688089
+[INFO] - Spawn Entity with Type(10), Variant(1), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(160.00,200.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(160.00,240.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(160.00,280.00)
+[INFO] - Spawn Entity with Type(868), Variant(0), Pos(160.00,320.00)
+[INFO] - Spawn Entity with Type(10), Variant(1), Pos(80.00,400.00)
+[INFO] - Lua mem usage: 807 KB and 413 bytes
+[INFO] - Queued Path music/Diptera Layer.ogg
+[INFO] - Queued Path music/Diptera Sonata(Basement).ogg
+[INFO] - Entity Pickup Initialized as: 5.40.1  Seed: fe9d10e2 
+[INFO] - Room 5.1046(Larry Jr. (copy))
+[INFO] - SpawnRNG seed: 1157892164
+[INFO] - Spawn Entity with Type(19), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(19), Variant(0), Pos(120.00,160.00)
+[INFO] - Spawn Entity with Type(19), Variant(0), Pos(520.00,160.00)
+[INFO] - Spawn Entity with Type(19), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(19), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(19), Variant(0), Pos(120.00,400.00)
+[INFO] - Spawn Entity with Type(19), Variant(0), Pos(520.00,400.00)
+[INFO] - Spawn Entity with Type(19), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 807 KB and 413 bytes
+[INFO] - TriggerBossDeath: 7 bosses remaining.
+[INFO] - TriggerBossDeath: 6 bosses remaining.
+[INFO] - Entity Pickup Initialized as: 5.20.1  Seed: 4ba4654f 
+[INFO] - TriggerBossDeath: 5 bosses remaining.
+[INFO] - TriggerBossDeath: 4 bosses remaining.
+[INFO] - TriggerBossDeath: 3 bosses remaining.
+[INFO] - TriggerBossDeath: 2 bosses remaining.
+[INFO] - TriggerBossDeath: 1 bosses remaining.
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - Entity Pickup Initialized as: 5.10.1  Seed: 89f32ef9 
+[INFO] - Entity Pickup Initialized as: 5.10.2  Seed: b44403cd 
+[INFO] - Boss 2 added to SaveState
+[INFO] - Entity Pickup Initialized as: 5.100.29  Seed: 73e9e47a 
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 29 (Mom's Underwear) to player 0 (Isaac) from pool boss
+[INFO] - [Frame 3306] Starting stage transition (transition type: 0) 
+[INFO] - music stopped playing
+[INFO] - Level::Init m_Stage 2, m_StageType 0 Seed 1740936123
+[INFO] - delete 0 generated rooms.
+[INFO] - generate...
+[INFO] - place_room: shape 11
+[INFO] - 11 rooms in 8 loops
+[INFO] - not enough dead ends, trying to make new one
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 84 5c5bf0c4
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 505582861
+[INFO] - Spawn Entity with Type(6), Variant(19), Pos(240.00,160.00)
+[INFO] - Lua mem usage: 807 KB and 413 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Room 1.1108(New Room)
+[INFO] - SpawnRNG seed: 520127738
+[INFO] - Spawn Entity with Type(276), Variant(0), Pos(640.00,240.00)
+[INFO] - Spawn Entity with Type(276), Variant(0), Pos(600.00,280.00)
+[INFO] - Spawn Entity with Type(276), Variant(0), Pos(680.00,280.00)
+[INFO] - Spawn Entity with Type(276), Variant(0), Pos(640.00,320.00)
+[INFO] - Lua mem usage: 807 KB and 413 bytes
+[INFO] - Queued Path music/Diptera Layer.ogg
+[INFO] - Queued Path music/Diptera Sonata(Basement).ogg
+[INFO] - Entity Pickup Initialized as: 5.30.1  Seed: 28cab447 
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Room 10.15( (copy))
+[INFO] - SpawnRNG seed: 2754443854
+[INFO] - Entity Pickup Initialized as: 5.360.1  Seed: efe3a264 
+[INFO] - Spawn Entity with Type(5), Variant(360), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(259), Variant(0), Pos(320.00,280.00)
+[INFO] - Entity Pickup Initialized as: 5.360.1  Seed: 108b0112 
+[INFO] - Spawn Entity with Type(5), Variant(360), Pos(360.00,280.00)
+[INFO] - Lua mem usage: 807 KB and 413 bytes
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Total entity spawn time: 498 ms
+[INFO] - Total ANM2 loading time: 232 ms
+[INFO] - AnmCache memory usage: 2670904 bytes in 147 entries.
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - CPU time spent on enemy queries: 0.02 seconds.
+[INFO] - Clearing player color assignments 
+[INFO] - Clearing player color assignment for color 0 
+[INFO] - Clearing player color assignment for color 1 
+[INFO] - Clearing player color assignment for color 2 
+[INFO] - Clearing player color assignment for color 3 
+[INFO] - Menu Manager preCrossfade
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep+gamestate1.dat. No Game State detected.
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep+gamestate1.dat. No Game State detected.
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open rep+persistentgamedata2.dat.
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open Repentance save file rep_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata2.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open rep+persistentgamedata2.dat.
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open Repentance save file rep_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata2.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open rep+persistentgamedata3.dat.
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open Repentance save file rep_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata3.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open rep+persistentgamedata3.dat.
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open Repentance save file rep_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata3.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Reading chunk 1
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading chunk 2
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading chunk 3
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading chunk 4
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading chunk 5
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading chunk 6
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading chunk 7
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading chunk 8
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading chunk 9
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading chunk 10
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading chunk 11
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep+gamestate1.dat. No Game State detected.
+[INFO] - Menu Game Init
+[INFO] - Menu Daily Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Menu Online Lobby Init
+[INFO] - Menu Friend Lobbies Init
+[INFO] - Menu Multiplayer Init
+[INFO] - Menu Options Online Init
+[INFO] - Menu Create Lobby Init
+[INFO] - Menu Online Awards Init
+[INFO] - Isaac is shutting down...
+[INFO] - Saving PersistentGameData to Steam Cloud: rep+persistentgamedata1.dat.
+[INFO] - CPU time spent on enemy queries: 0.02 seconds.
+[INFO] - delete 1357 rooms.
+[INFO] - delete 1220 rooms.
+[INFO] - delete 30 rooms.
+[INFO] - Isaac has shut down successfully 
