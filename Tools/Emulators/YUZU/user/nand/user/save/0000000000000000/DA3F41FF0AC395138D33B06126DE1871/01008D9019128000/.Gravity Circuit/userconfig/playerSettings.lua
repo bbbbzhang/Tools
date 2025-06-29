@@ -1,0 +1,45 @@
+-- Global Player settings configuration file for Gravity Circuit.
+-- This file follows usual lua rules, so if you wish to edit it manually, follow the structure
+-- of the variables laid out here. Any changes you do are to be done at your own risk and,
+-- in some cases, may not result in any changes anyway. Too bad!
+return {
+	FSAA=0,
+	FORCE_ASPECT_RATIO=false,
+	STRETCH_FULLSCREEN=false,
+	CHALLENGE_NOTIFICATIONS=true,
+	LANGUAGE=1,
+	EDITOR={
+		SCROLL_SPEED_MOUSE=2,
+		MINIMAP_OPEN_BY_DEFAULT=true,
+		SCROLL_MOUSE=true,
+		SCROLL_KEYBOARD=true,
+		SCROLL_SPEED_KB=4,
+	},
+	VOLUME={
+		SFX=1,
+		BGM=1,
+		MASTER=0.75,
+	},
+	FULLSCREEN_TYPE=2,
+	DISPLAY=1,
+	LANGUAGE_LIST='-en-fr-de-es-nl-jp-chs-cht-kr',
+	FULLSCREEN=true,
+	BUILD_VERSION='VERSION: 1.0.8',
+	BORDERLESS_WINDOW=false,
+	ANISOTROPY=0,
+	GRAPHICS_SMOOTHING=1,
+	DIALOGUE_SPEED=1,
+	EFFECTS={
+		GIBS_SPAWN=true,
+		GIBS_HAVE_PHYSICS=false,
+	},
+	GAME_WIDTH=400,
+	GAME_HEIGHT=240,
+	FIXED_FRAMERATE=2,
+	SPEEDRUN_TIMER_SETTING=1,
+	RESOLUTION_MULTIPLIER=2,
+	VSYNC=false,
+	SHOW_BURST_CHARGES=1,
+	LANGUAGE_LIST='-en-fr-de-es-nl-jp-chs-cht-kr',
+	BUILD_VERSION='VERSION: 1.0.8',
+}

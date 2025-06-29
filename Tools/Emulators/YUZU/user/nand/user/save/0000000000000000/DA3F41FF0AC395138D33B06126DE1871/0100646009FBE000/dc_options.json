@@ -1,0 +1,538 @@
+{
+	"gamepadRumble": true,
+	"isEditingCustomBindings": false,
+	"gamepad_normal": {
+		"map_zoom_in": [
+			7,
+			null,
+			null
+		],
+		"activate": [
+			9,
+			null,
+			null
+		],
+		"map_zoom_out": [
+			6,
+			null,
+			null
+		],
+		"right": [
+			18,
+			29,
+			29
+		],
+		"map_focus": [
+			11,
+			null,
+			null
+		],
+		"right_skill": [
+			7,
+			null,
+			null
+		],
+		"map_right": [
+			29,
+			24,
+			29
+		],
+		"ui_swap_alt": [
+			3,
+			null,
+			null
+		],
+		"cam_up": [
+			29,
+			27,
+			29
+		],
+		"cancel": [
+			1,
+			null,
+			null
+		],
+		"ui_next": [
+			7,
+			9,
+			null
+		],
+		"map_up": [
+			29,
+			27,
+			29
+		],
+		"cam_right": [
+			29,
+			24,
+			29
+		],
+		"map_down": [
+			29,
+			26,
+			29
+		],
+		"long_activate": [
+			28,
+			null,
+			null
+		],
+		"ui_prev": [
+			6,
+			8,
+			null
+		],
+		"ui_swap": [
+			2,
+			null,
+			null
+		],
+		"dodge": [
+			0,
+			null,
+			null
+		],
+		"map_left": [
+			29,
+			23,
+			29
+		],
+		"up": [
+			21,
+			29,
+			29
+		],
+		"map": [
+			4,
+			null,
+			null
+		],
+		"down": [
+			20,
+			29,
+			29
+		],
+		"side_weapon": [
+			2,
+			null,
+			null
+		],
+		"validate": [
+			0,
+			null,
+			null
+		],
+		"heal": [
+			8,
+			null,
+			null
+		],
+		"jump": [
+			1,
+			null,
+			null
+		],
+		"map_switch": [
+			2,
+			null,
+			null
+		],
+		"ui_swap_bp": [
+			9,
+			null,
+			null
+		],
+		"left": [
+			17,
+			29,
+			29
+		],
+		"menu": [
+			5,
+			null,
+			null
+		],
+		"cam_down": [
+			29,
+			26,
+			29
+		],
+		"menu_secondary": [
+			2,
+			null,
+			null
+		],
+		"cam_left": [
+			29,
+			23,
+			29
+		],
+		"dive_attack": [
+			28,
+			null,
+			null
+		],
+		"left_skill": [
+			6,
+			null,
+			null
+		],
+		"homunculus": [
+			11,
+			null,
+			null
+		],
+		"main_weapon": [
+			3,
+			null,
+			null
+		]
+	},
+	"gamepad_custom": {
+		"map_zoom_in": [
+			7,
+			null,
+			null
+		],
+		"activate": [
+			9,
+			null,
+			null
+		],
+		"map_zoom_out": [
+			6,
+			null,
+			null
+		],
+		"right": [
+			18,
+			29,
+			29
+		],
+		"map_focus": [
+			11,
+			null,
+			null
+		],
+		"right_skill": [
+			7,
+			null,
+			null
+		],
+		"map_right": [
+			29,
+			24,
+			29
+		],
+		"ui_swap_alt": [
+			3,
+			null,
+			null
+		],
+		"cam_up": [
+			29,
+			27,
+			29
+		],
+		"cancel": [
+			1,
+			null,
+			null
+		],
+		"ui_next": [
+			7,
+			9,
+			null
+		],
+		"map_up": [
+			29,
+			27,
+			29
+		],
+		"cam_right": [
+			29,
+			24,
+			29
+		],
+		"map_down": [
+			29,
+			26,
+			29
+		],
+		"long_activate": [
+			28,
+			null,
+			null
+		],
+		"ui_prev": [
+			6,
+			8,
+			null
+		],
+		"ui_swap": [
+			2,
+			null,
+			null
+		],
+		"dodge": [
+			0,
+			null,
+			null
+		],
+		"map_left": [
+			29,
+			23,
+			29
+		],
+		"up": [
+			21,
+			29,
+			29
+		],
+		"map": [
+			4,
+			null,
+			null
+		],
+		"down": [
+			20,
+			29,
+			29
+		],
+		"side_weapon": [
+			2,
+			null,
+			null
+		],
+		"validate": [
+			0,
+			null,
+			null
+		],
+		"heal": [
+			8,
+			null,
+			null
+		],
+		"jump": [
+			1,
+			null,
+			null
+		],
+		"map_switch": [
+			2,
+			null,
+			null
+		],
+		"ui_swap_bp": [
+			9,
+			null,
+			null
+		],
+		"left": [
+			17,
+			29,
+			29
+		],
+		"menu": [
+			5,
+			null,
+			null
+		],
+		"cam_down": [
+			29,
+			26,
+			29
+		],
+		"menu_secondary": [
+			2,
+			null,
+			null
+		],
+		"cam_left": [
+			29,
+			23,
+			29
+		],
+		"dive_attack": [
+			28,
+			null,
+			null
+		],
+		"left_skill": [
+			6,
+			null,
+			null
+		],
+		"homunculus": [
+			11,
+			null,
+			null
+		],
+		"main_weapon": [
+			3,
+			null,
+			null
+		]
+	},
+	"leftStickDeadzone": 0.3,
+	"longActivateBind": 0,
+	"diveAttackBind": 0,
+	"lstickFunction": 0,
+	"rstickFunction": 1,
+	"dpadFunction": 2,
+	"captureMouse": true,
+	"keyboard_normal": {},
+	"keyboard_custom": {},
+	"holdToAttack": false,
+	"holdToJump": false,
+	"pressToggleShield": false,
+	"holdToDodge": false,
+	"stopDodgeOnCliff": false,
+	"timerPermanent": 0,
+	"controlTuto": true,
+	"showDodgeCd": false,
+	"enemyAnnounce": true,
+	"offScreenAnnounceOff": false,
+	"attackAnnounceScale": 1,
+	"enableChroma": true,
+	"disableLoreRooms": false,
+	"skipCinematics": false,
+	"disableSlowMo": false,
+	"showModsUI": false,
+	"modsLocalPath": {},
+	"ignoreModAutoInstall": false,
+	"displayMode": 2,
+	"vsync": true,
+	"lock30fps": false,
+	"synergyFeedback": true,
+	"font": "classic",
+	"hideCursePopup": false,
+	"hudAlpha": 1,
+	"hudSize": 1,
+	"backpackNextToWeapon": false,
+	"backpackAlpha": 1,
+	"hideControls": false,
+	"critFeedback": true,
+	"showLifeAsPct": false,
+	"showKillCount": true,
+	"displayMilliseconds": false,
+	"displaySeed": false,
+	"mute": false,
+	"sfxVolume": 0.8,
+	"musicVolume": 0.8,
+	"ambientVolume": 0.8,
+	"playShopMusic": true,
+	"playElevatorMusic": true,
+	"musicFolder": "default",
+	"sfxActVolume": 1,
+	"sfxEnmVolume": 1,
+	"sfxEnvVolume": 1,
+	"sfxHeroVolume": 1,
+	"sfxInterVolume": 1,
+	"sfxNpcVolume": 1,
+	"sfxWeapVolume": 1,
+	"sfxPrioPresets": [
+		{
+			"sfxActPriority": 0.5,
+			"sfxEnmPriority": 0.6,
+			"sfxEnvPriority": 0.3,
+			"sfxHeroPriority": 0.4,
+			"sfxInterPriority": 0.9,
+			"sfxNpcPriority": 0.8,
+			"sfxWeapPriority": 0.7
+		},
+		{
+			"sfxActPriority": 0.5,
+			"sfxEnmPriority": 0.6,
+			"sfxEnvPriority": 0.3,
+			"sfxHeroPriority": 0.4,
+			"sfxInterPriority": 0.9,
+			"sfxNpcPriority": 0.8,
+			"sfxWeapPriority": 0.7
+		}
+	],
+	"sfxPrioPresetId": 0,
+	"sfxThreshold": -1,
+	"sfxThresholdId": 0,
+	"lightFlashes": true,
+	"screenShakes": true,
+	"particleLimiterValue": 1,
+	"particleLimiterPass": 1,
+	"particleLimiterBlock": 0,
+	"noBlood": false,
+	"backgroundDarkenerShow": false,
+	"backgroundDarkenerColor": 8421504,
+	"backgroundDarkenerAlpha": 0.5,
+	"altFakeBlackWalls": false,
+	"outlineHero": false,
+	"outlineHeroColor": 0,
+	"outlineMobs": false,
+	"outlineMobsColor": 0,
+	"outlineNPCs": false,
+	"outlineNPCsColor": 0,
+	"outlineProjectiles": false,
+	"outlineProjectilesColor": 0,
+	"outlineActives": false,
+	"outlineActivesColor": 0,
+	"outlineSecrets": false,
+	"outlineSecretsColor": 16711680,
+	"tierIcons": false,
+	"doOverrideBrutalityColor": false,
+	"overrideBrutalityColor": 15887468,
+	"doOverrideTacticColor": false,
+	"overrideTacticColor": 12093175,
+	"doOverrideSurvivalColor": false,
+	"overrideSurvivalColor": 3600519,
+	"itemDescTextScale": 1,
+	"itemNameTextScale": 1,
+	"dialogueTextScale": 1,
+	"lang": null,
+	"foodKind": "carn",
+	"useTwitch": false,
+	"twitchNewVoteSystem": true,
+	"twitchChicken": true,
+	"twitchFreeChicken": true,
+	"twitchChickenSpeak": true,
+	"twitchLevelsMods": true,
+	"twitchCommunityScroll": true,
+	"twitchChest": true,
+	"twitchSecretTip": true,
+	"twitchTalismanAffix": true,
+	"twitchCommentary": true,
+	"twitchLevelSuggestion": true,
+	"twitchUIIsOnRight": true,
+	"twitchBoss": true,
+	"curSlot": 0,
+	"version": "2022-08-31",
+	"uniqId": null,
+	"debug": null,
+	"assistMode": {
+		"enabled": false,
+		"continueEnabled": false,
+		"gameContinue": 0,
+		"easyParry": false,
+		"easyTrap": false,
+		"revealMap": false,
+		"trapDamage": 1,
+		"enemyHealth": 1,
+		"enemyDamage": 1,
+		"modeAuto": false,
+		"pendingAutoHitConfirm": false,
+		"autoBreakDoors": false
+	},
+	"savedAssistMode": {
+		"enabled": false,
+		"continueEnabled": false,
+		"gameContinue": 0,
+		"easyParry": false,
+		"easyTrap": false,
+		"revealMap": false,
+		"trapDamage": 1,
+		"enemyHealth": 1,
+		"enemyDamage": 1,
+		"modeAuto": false,
+		"pendingAutoHitConfirm": false,
+		"autoBreakDoors": false
+	}
+}

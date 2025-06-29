@@ -1,0 +1,20 @@
+{
+    "levelProgress": 1,
+    "currentLevel": 2,
+    "audioEnabled": true,
+    "musicEnabled": true,
+    "hapticFeedback": true,
+    "reviewRequested": false,
+    "settings": {
+        "musicVolume": 8,
+        "sfxVolume": 8,
+        "resolution": {
+            "width": 1920,
+            "height": 1080,
+            "refreshRate": 60
+        },
+        "fullScreen": true,
+        "vSync": true,
+        "antiAliasing": 0
+    }
+}

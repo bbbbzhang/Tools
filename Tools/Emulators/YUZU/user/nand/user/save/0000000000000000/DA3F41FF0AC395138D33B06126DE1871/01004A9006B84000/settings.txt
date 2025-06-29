@@ -1,0 +1,12 @@
+MasterVolume 70
+MusicVolume 100
+SFXVolume 100
+disable_retrofilter false
+fxaa true
+particle_amount 2
+render_height -1
+render_width -1
+screen_mode borderless
+shaders high
+window_height -1
+window_width -1

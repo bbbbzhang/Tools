@@ -135,7 +135,17 @@ Tools/Emulators/RetroArch/states/YabaSanshiro
 
 Tools/Emulators/RPCS3
 Tools/Emulators/shadPS4
-Tools/Emulators/YUZU 
+
+# YUZU存档托管
+Tools/Emulators/YUZU/**
+!Tools/Emulators/YUZU/user/
+!Tools/Emulators/YUZU/user/nand/
+!Tools/Emulators/YUZU/user/nand/user/
+!Tools/Emulators/YUZU/user/nand/user/save
+!Tools/Emulators/YUZU/user/nand/user/save/0000000000000000
+!Tools/Emulators/YUZU/user/nand/user/save/0000000000000000/DA3F41FF0AC395138D33B06126DE1871
+!Tools/Emulators/YUZU/user/nand/user/save/0000000000000000/DA3F41FF0AC395138D33B06126DE1871/**
+
 Tools/Emulators/Z Other EMU
 
 
