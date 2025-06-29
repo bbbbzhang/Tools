@@ -2477,7 +2477,17 @@ https://nsw2u.com/the-binding-of-isaac-afterbirth-switch-nsp
 设置 系统 通知 其他设置 取消勾选
 ```
 
+##### GitHub的存储空间政策
 
+```
+每个项目的最大空间限制
+根据 GitHub 官方文档，每个公共项目的最大存储空间为 1GB。对于私有项目，尽管没有明确的限制，但 GitHub 强烈建议开发者将单个项目的大小控制在 1GB 以内，以保证良好的性能和可管理性。
+
+文件大小限制
+单个文件的最大大小为 100MB。
+大于 100MB 的文件将无法通过普通的 Git 操作上传。
+对于超过 100MB 的文件，GitHub 建议使用 Git Large File Storage (LFS) 进行管理。
+```
 
 
 
