@@ -18,12 +18,18 @@ Max Payne 2 Savegames
 Max Payne Savegames
 MGR
 
-
-# 八方旅人1存档
+# 八方旅人1存档，无游戏设置
 My Games/**
 !My Games/Octopath_Traveler/
 !My Games/Octopath_Traveler/76561197960267366/
-!My Games/Octopath_Traveler/76561197960267366/**
+!My Games/Octopath_Traveler/76561197960267366/SaveData0.sav
+!My Games/Octopath_Traveler/76561197960267366/SaveData1.sav
+
+# 八方旅人2存档，无游戏设置
+!My Games/Octopath_Traveler2/
+!My Games/Octopath_Traveler2/76561198312822366/
+!My Games/Octopath_Traveler2/76561198312822366/SaveData0.sav
+!My Games/Octopath_Traveler2/76561198312822366/SaveData1.sav
 
 My Music
 My Pictures
