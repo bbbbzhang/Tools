@@ -1,0 +1,428 @@
+{
+  "version": "1.5",
+  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+  "default_core_name": "Nintendo - DS (melonDS)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\七日死 目(JP)(ACG&小黑屋汉化组)(512Mb).nds",
+      "label": "七日死 目(JP)(ACG&小黑屋汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\七日死(JP)(盒动力)(512Mb).nds",
+      "label": "七日死(JP)(盒动力)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\下课后少年(简)(JP)(巴士汉化组)(512Mb).nds",
+      "label": "下课后少年(简)(JP)(巴士汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\佐贺的超级阿嬷DS(JP)(ACG汉化组)(256Mb).nds",
+      "label": "佐贺的超级阿嬷DS(JP)(ACG汉化组)(256Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\侠盗猎车手 血战唐人街 1.8(EU)(远离汉化组)(1024Mb).nds",
+      "label": "侠盗猎车手 血战唐人街 1.8(EU)(远离汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\冒险岛DS(简)(KS)(PLAY汉化组&兔友汉化组)(1024Mb).nds",
+      "label": "冒险岛DS(简)(KS)(PLAY汉化组&兔友汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\勇者斗恶龙 怪兽篇 Joker 测试版(US)(ACG汉化组)(1024Mb).nds",
+      "label": "勇者斗恶龙 怪兽篇 Joker 测试版(US)(ACG汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\勇者斗恶龙 怪兽篇 joker2 专家版(JP)(ACG汉化组)(-2048Mb).nds",
+      "label": "勇者斗恶龙 怪兽篇 joker2 专家版(JP)(ACG汉化组)(-2048Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\勇者斗恶龙4 被引导的人们 完美汉化典藏版(JP)(NdsBBS汉化组&天幻网)(1024Mb).nds",
+      "label": "勇者斗恶龙4 被引导的人们 完美汉化典藏版(JP)(NdsBBS汉化组&天幻网)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\勇者斗恶龙5 天空的新娘 完美典藏汉化版(JP)(NdsBBS&DQGAME汉化组)(1024Mb).nds",
+      "label": "勇者斗恶龙5 天空的新娘 完美典藏汉化版(JP)(NdsBBS&DQGAME汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\勇者斗恶龙6 幻之大地 完整剧情汉化版(简)(JP)(NDSBBS&DQGAME汉化组)(1024Mb).nds",
+      "label": "勇者斗恶龙6 幻之大地 完整剧情汉化版(简)(JP)(NDSBBS&DQGAME汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\勇者斗恶龙9 星空守望者 最终完美版(简)(JP)(ACG汉化组)(2047.99Mb).nds",
+      "label": "勇者斗恶龙9 星空守望者 最终完美版(简)(JP)(ACG汉化组)(2047.99Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 心灵之金 官译修正版v2.1.0(简)(JP)(ACG汉化组+Xzonn)(1024Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 心灵之金 官译修正版v2.1.0(简)(JP)(ACG汉化组+Xzonn)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 灵魂之银 官译修正版v2.1.0(简)(JP)(ACG汉化组+Xzonn)(1024Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 灵魂之银 官译修正版v2.1.0(简)(JP)(ACG汉化组+Xzonn)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 珍珠 官译修正版v2.1.0(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 珍珠 官译修正版v2.1.0(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 白 重译修正版v2.1(简)(JP)(BW汉化组)(2048Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 白 重译修正版v2.1(简)(JP)(BW汉化组)(2048Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 白2 V5(DSi修复)(JP)(ACG汉化组+口袋群星SP+天涯)(4096Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 白2 V5(DSi修复)(JP)(ACG汉化组+口袋群星SP+天涯)(4096Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 白金 官译修正版v2.1.0(简)(JP)(ACG汉化组+Xzonn)(1024Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 白金 官译修正版v2.1.0(简)(JP)(ACG汉化组+Xzonn)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 钻石 官译修正版v2.1.0(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 钻石 官译修正版v2.1.0(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 黑 重译修正版v2.1(简)(JP)(BW汉化组)(2048Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 黑 重译修正版v2.1(简)(JP)(BW汉化组)(2048Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\口袋妖怪(精灵宝可梦) 黑2 V5(DSi修复)(JP)(ACG汉化组+口袋群星SP+天涯)(4096Mb).nds",
+      "label": "口袋妖怪(精灵宝可梦) 黑2 V5(DSi修复)(JP)(ACG汉化组+口袋群星SP+天涯)(4096Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\塞尔达传说 大地的汽笛(简)1.1(US)(FCU汉化组和兔友汉化组)(1024Mb).nds",
+      "label": "塞尔达传说 大地的汽笛(简)1.1(US)(FCU汉化组和兔友汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\塞尔达传说 幻影沙漏 修正版(简)(JP)(巴士汉化组)(512Mb).nds",
+      "label": "塞尔达传说 幻影沙漏 修正版(简)(JP)(巴士汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\大神传 小小太阳 字体美化版(JP)(ACG汉化组)(1024Mb).nds",
+      "label": "大神传 小小太阳 字体美化版(JP)(ACG汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\幽灵侦探 完美汉化仿原字体版(JP)(逆转ACE&TGB汉化工作室)(1024Mb).nds",
+      "label": "幽灵侦探 完美汉化仿原字体版(JP)(逆转ACE&TGB汉化工作室)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\开花吧！小机器人 V8完美版(简)(JP)(巴士汉化组)(512Mb).nds",
+      "label": "开花吧！小机器人 V8完美版(简)(JP)(巴士汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\恶魔城 废墟的肖像 不死机版(简)(JP)(罪人之塔+YYJoy汉化组+Fciq)(512Mb).nds",
+      "label": "恶魔城 废墟的肖像 不死机版(简)(JP)(罪人之塔+YYJoy汉化组+Fciq)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\恶魔城 苍月的十字架(简)(JP)(shikeyu)(512Mb).nds",
+      "label": "恶魔城 苍月的十字架(简)(JP)(shikeyu)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\恶魔城 被夺的刻印 V3(简)(JP)(ACG汉化组)(512Mb).nds",
+      "label": "恶魔城 被夺的刻印 V3(简)(JP)(ACG汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\desmume_libretro.dll",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\最终幻想12 亡灵之翼 6.5全剧情修正版(简)(JP)(PGCG汉化组&巴士汉化组)(1024Mb).nds",
+      "label": "最终幻想12 亡灵之翼 6.5全剧情修正版(简)(JP)(PGCG汉化组&巴士汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\最终幻想3(简大)(JP)(NdsBBS汉化组&NDSMAN&LevelUp&天幻网)(1024Mb).nds",
+      "label": "最终幻想3(简大)(JP)(NdsBBS汉化组&NDSMAN&LevelUp&天幻网)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\最终幻想4(简)(JP)(巴士汉化组)(1024Mb).nds",
+      "label": "最终幻想4(简)(JP)(巴士汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\最终幻想外传 光之四战士(JP)(ACG汉化组)(512Mb).nds",
+      "label": "最终幻想外传 光之四战士(JP)(ACG汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\最终幻想战略版A2 封穴的魔法书 V3修正+20220304修正(JP)(巴士汉化组+yggdra)(1024Mb).nds",
+      "label": "最终幻想战略版A2 封穴的魔法书 V3修正+20220304修正(JP)(巴士汉化组+yggdra)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\最终幻想水晶编年史 命运指环 V3汉化版(简)(JP)(巴士汉化组)(1024Mb).nds",
+      "label": "最终幻想水晶编年史 命运指环 V3汉化版(简)(JP)(巴士汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\最终幻想水晶编年史 时之回声(简)免死机存档补丁1.1(JP)(ACG汉化组)(1024Mb).nds",
+      "label": "最终幻想水晶编年史 时之回声(简)免死机存档补丁1.1(JP)(ACG汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\月球(US)(远离汉化组)(512Mb).nds",
+      "label": "月球(US)(远离汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\欢迎回来！小机器人！开心富裕大扫除！ 1.1(JP)(兔友汉化组)(512Mb).nds",
+      "label": "欢迎回来！小机器人！开心富裕大扫除！ 1.1(JP)(兔友汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\洛克人ZX(JP)([洛克人ZX汉化组])(512Mb).nds",
+      "label": "洛克人ZX(JP)([洛克人ZX汉化组])(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\洛克人ZX降临(Advent) 完全汉化版v1.14(JP)(简)(李田所汉化组)(512Mb)(原版+补丁).nds",
+      "label": "洛克人ZX降临(Advent) 完全汉化版v1.14(JP)(简)(李田所汉化组)(512Mb)(原版+补丁)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\爱丽丝梦游仙境(US)(兔友汉化组)(512Mb).nds",
+      "label": "爱丽丝梦游仙境(US)(兔友汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\犬神家一族(JP)(ACG汉化组)(256Mb).nds",
+      "label": "犬神家一族(JP)(ACG汉化组)(256Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\病房(简)(US)(空气汉化组)(512Mb).nds",
+      "label": "病房(简)(US)(空气汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\病房2(US)(远离汉化组)(512Mb).nds",
+      "label": "病房2(US)(远离汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\虫师 天降之里(JP)(ACG汉化组)(512Mb).nds",
+      "label": "虫师 天降之里(JP)(ACG汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\超时空之轮V4(简)(JP)(有爱人士)(1024Mb).nds",
+      "label": "超时空之轮V4(简)(JP)(有爱人士)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\重装机兵 钢之季节(JP)(PGCG汉化组)(512Mb).nds",
+      "label": "重装机兵 钢之季节(JP)(PGCG汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\重装机兵2重制版 V0.99(JP)(metal max汉化联盟)(512Mb).nds",
+      "label": "重装机兵2重制版 V0.99(JP)(metal max汉化联盟)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\重装机兵3(JP)(泛游系&游趣星&α聯合漢化組)(512Mb).nds",
+      "label": "重装机兵3(JP)(泛游系&游趣星&α聯合漢化組)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\马里奥&路易基RPG2(US)(远离汉化组)(512Mb).nds",
+      "label": "马里奥&路易基RPG2(US)(远离汉化组)(512Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\马里奥&路易基RPG3(JP)(红帽子绿帽子临时汉化组)(1024Mb).nds",
+      "label": "马里奥&路易基RPG3(JP)(红帽子绿帽子临时汉化组)(1024Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\黄金太阳 漆黑的黎明 1.1(JP)(ACG汉化组)(-2048Mb).nds",
+      "label": "黄金太阳 漆黑的黎明 1.1(JP)(ACG汉化组)(-2048Mb)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melonds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    }
+  ]
+}
