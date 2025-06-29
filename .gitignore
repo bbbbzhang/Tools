@@ -17,7 +17,14 @@ KoeiTecmo
 Max Payne 2 Savegames
 Max Payne Savegames
 MGR
-My Games
+
+
+# 八方旅人1存档
+My Games/**
+!My Games/Octopath_Traveler/
+!My Games/Octopath_Traveler/76561197960267366/
+!My Games/Octopath_Traveler/76561197960267366/**
+
 My Music
 My Pictures
 My Videos
