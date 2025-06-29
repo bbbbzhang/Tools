@@ -1,204 +1,204 @@
-bbbbzhang
-录音
-AweSun Files
-BioshockHD
-BotaniculaSaves
-Bully Scholarship Edition
-CAPCOM
-Flower
-FromSoftware
-Games
-Ghost of Tsushima DIRECTOR'S CUT
-Horizon Forbidden West Complete Edition
-Horizon Zero Dawn Remastered
-KingsoftData
-Klei
-KoeiTecmo
-Max Payne 2 Savegames
-Max Payne Savegames
-MGR
+# bbbbzhang
+# 录音
+# AweSun Files
+# BioshockHD
+# BotaniculaSaves
+# Bully Scholarship Edition
+# CAPCOM
+# Flower
+# FromSoftware
+# Games
+# Ghost of Tsushima DIRECTOR'S CUT
+# Horizon Forbidden West Complete Edition
+# Horizon Zero Dawn Remastered
+# KingsoftData
+# Klei
+# KoeiTecmo
+# Max Payne 2 Savegames
+# Max Payne Savegames
+# MGR
 
-# 八方旅人1存档，无游戏设置
-My Games/**
-!My Games/Octopath_Traveler/
-!My Games/Octopath_Traveler/76561197960267366/
-!My Games/Octopath_Traveler/76561197960267366/SaveData0.sav
-!My Games/Octopath_Traveler/76561197960267366/SaveData1.sav
+# # 八方旅人1存档，无游戏设置
+# My Games/**
+# !My Games/Octopath_Traveler/
+# !My Games/Octopath_Traveler/76561197960267366/
+# !My Games/Octopath_Traveler/76561197960267366/SaveData0.sav
+# !My Games/Octopath_Traveler/76561197960267366/SaveData1.sav
 
-# 八方旅人2存档，无游戏设置
-!My Games/Octopath_Traveler2/
-!My Games/Octopath_Traveler2/76561198312822366/
-!My Games/Octopath_Traveler2/76561198312822366/SaveData0.sav
-!My Games/Octopath_Traveler2/76561198312822366/SaveData1.sav
+# # 八方旅人2存档，无游戏设置
+# !My Games/Octopath_Traveler2/
+# !My Games/Octopath_Traveler2/76561198312822366/
+# !My Games/Octopath_Traveler2/76561198312822366/SaveData0.sav
+# !My Games/Octopath_Traveler2/76561198312822366/SaveData1.sav
 
-My Music
-My Pictures
-My Videos
-SavedGames
-NBGI
-Player
-Ratchet & Clank - Rift Apart
-Remedy
-Rockstar Games
-sgs_configs
-SQUARE ENIX
-Streets of Rage 4 Save and Config
-Sunlogin Files
-Tencent Files
-TencentMeeting
-The Last of Us Part II
-The Witcher 3
-Tribute Games
-WeChat Files
-wps
-WPS Cloud Files
-WPSDrive
-WXWork
-xwechat_files
-desktop.ini
+# My Music
+# My Pictures
+# My Videos
+# SavedGames
+# NBGI
+# Player
+# Ratchet & Clank - Rift Apart
+# Remedy
+# Rockstar Games
+# sgs_configs
+# SQUARE ENIX
+# Streets of Rage 4 Save and Config
+# Sunlogin Files
+# Tencent Files
+# TencentMeeting
+# The Last of Us Part II
+# The Witcher 3
+# Tribute Games
+# WeChat Files
+# wps
+# WPS Cloud Files
+# WPSDrive
+# WXWork
+# xwechat_files
+# desktop.ini
 
-Tools/A 快捷方式
-Tools/Apks
-Tools/Comics
-Tools/DEVs/**
-Tools/!DEVs/笔记/
-Tools/!DEVs/笔记/**
+A 快捷方式
+Apks
+Comics
+DEVs/**
+!DEVs/笔记/
+!DEVs/笔记/**
 # Emulators
 # GameTools/
-Tools/Emulators/BlastEm
-Tools/Emulators/Cemu
-Tools/Emulators/Citra
-Tools/Emulators/DeSmuME
-Tools/Emulators/Dolphin
-Tools/Emulators/Eden
-Tools/Emulators/FBneo
-Tools/Emulators/melonDS
-Tools/Emulators/Mesen
-Tools/Emulators/mGBA
-Tools/Emulators/VisualBoyAdvance-M
-Tools/Emulators/DuckStation/**
-!Tools/Emulators/DuckStation/memcards/
-!Tools/Emulators/DuckStation/memcards/**
-!Tools/Emulators/DuckStation/savestates/
-!Tools/Emulators/DuckStation/savestates/**
-Tools/Emulators/PCSX2
-Tools/Emulators/PPSSPP
-Tools/Emulators/RetroArch/**
+Emulators/BlastEm
+Emulators/Cemu
+Emulators/Citra
+Emulators/DeSmuME
+Emulators/Dolphin
+Emulators/Eden
+Emulators/FBneo
+Emulators/melonDS
+Emulators/Mesen
+Emulators/mGBA
+Emulators/VisualBoyAdvance-M
+Emulators/DuckStation/**
+!Emulators/DuckStation/memcards/
+!Emulators/DuckStation/memcards/**
+!Emulators/DuckStation/savestates/
+!Emulators/DuckStation/savestates/**
+Emulators/PCSX2
+Emulators/PPSSPP
+Emulators/RetroArch/**
 # RA 列表
 # !Emulators/RetroArch/playlists
 # !Emulators/RetroArch/playlists/**
 # Emulators/RetroArch/playlists/logs
 # RA saves存档
-!Tools/Emulators/RetroArch/saves/
-!Tools/Emulators/RetroArch/saves/**
-Tools/Emulators/RetroArch/saves/Beetle PCE
-Tools/Emulators/RetroArch/saves/Beetle PCE Fast
-Tools/Emulators/RetroArch/saves/Beetle SuperGrafx
-Tools/Emulators/RetroArch/saves/Citra
+!Emulators/RetroArch/saves/
+!Emulators/RetroArch/saves/**
+Emulators/RetroArch/saves/Beetle PCE
+Emulators/RetroArch/saves/Beetle PCE Fast
+Emulators/RetroArch/saves/Beetle SuperGrafx
+Emulators/RetroArch/saves/Citra
 # NDS存档
-!Tools/Emulators/RetroArch/saves/DeSmuME
-Tools/Emulators/RetroArch/saves/dolphin-emu
-Tools/Emulators/RetroArch/saves/FB Alpha
-Tools/Emulators/RetroArch/saves/FB Alpha 2012
-Tools/Emulators/RetroArch/saves/FinalBurn Neo
-Tools/Emulators/RetroArch/saves/Flycast
-Tools/Emulators/RetroArch/saves/Genesis Plus GX
-Tools/Emulators/RetroArch/saves/LRPS2 (alpha)
+!Emulators/RetroArch/saves/DeSmuME
+Emulators/RetroArch/saves/dolphin-emu
+Emulators/RetroArch/saves/FB Alpha
+Emulators/RetroArch/saves/FB Alpha 2012
+Emulators/RetroArch/saves/FinalBurn Neo
+Emulators/RetroArch/saves/Flycast
+Emulators/RetroArch/saves/Genesis Plus GX
+Emulators/RetroArch/saves/LRPS2 (alpha)
 # NDS存档
-!Tools/Emulators/RetroArch/saves/melonDS
-Tools/Emulators/RetroArch/saves/Mesen
-Tools/Emulators/RetroArch/saves/Mesen-S
-Tools/Emulators/RetroArch/saves/Mupen64Plus-Next
-Tools/Emulators/RetroArch/saves/ParaLLEl N64
-Tools/Emulators/RetroArch/saves/PPSSPP
+!Emulators/RetroArch/saves/melonDS
+Emulators/RetroArch/saves/Mesen
+Emulators/RetroArch/saves/Mesen-S
+Emulators/RetroArch/saves/Mupen64Plus-Next
+Emulators/RetroArch/saves/ParaLLEl N64
+Emulators/RetroArch/saves/PPSSPP
 # PS1存档
-!Tools/Emulators/RetroArch/saves/SwanStation
+!Emulators/RetroArch/saves/SwanStation
 # GBA存档
-!Tools/Emulators/RetroArch/saves/VBA-M
-Tools/Emulators/RetroArch/saves/YabaSanshiro
+!Emulators/RetroArch/saves/VBA-M
+Emulators/RetroArch/saves/YabaSanshiro
 # RA states存档
-!Tools/Emulators/RetroArch/states/
-!Tools/Emulators/RetroArch/states/**
-Tools/Emulators/RetroArch/states/Beetle PCE
-Tools/Emulators/RetroArch/states/Beetle PCE Fast
-Tools/Emulators/RetroArch/states/Beetle SuperGrafx
-Tools/Emulators/RetroArch/states/Citra
+!Emulators/RetroArch/states/
+!Emulators/RetroArch/states/**
+Emulators/RetroArch/states/Beetle PCE
+Emulators/RetroArch/states/Beetle PCE Fast
+Emulators/RetroArch/states/Beetle SuperGrafx
+Emulators/RetroArch/states/Citra
 # NDS即时存档
-!Tools/Emulators/RetroArch/states/DeSmuME
-Tools/Emulators/RetroArch/states/dolphin-emu
-Tools/Emulators/RetroArch/states/FB Alpha
-Tools/Emulators/RetroArch/states/FB Alpha 2012
-Tools/Emulators/RetroArch/states/FinalBurn Neo
-Tools/Emulators/RetroArch/states/Flycast
-Tools/Emulators/RetroArch/states/Genesis Plus GX
-Tools/Emulators/RetroArch/states/LRPS2 (alpha)
+!Emulators/RetroArch/states/DeSmuME
+Emulators/RetroArch/states/dolphin-emu
+Emulators/RetroArch/states/FB Alpha
+Emulators/RetroArch/states/FB Alpha 2012
+Emulators/RetroArch/states/FinalBurn Neo
+Emulators/RetroArch/states/Flycast
+Emulators/RetroArch/states/Genesis Plus GX
+Emulators/RetroArch/states/LRPS2 (alpha)
 # NDS即时存档
-!Tools/Emulators/RetroArch/states/melonDS
-Tools/Emulators/RetroArch/states/Mesen
-Tools/Emulators/RetroArch/states/Mesen-S
-Tools/Emulators/RetroArch/states/Mupen64Plus-Next
-Tools/Emulators/RetroArch/states/ParaLLEl N64
-Tools/Emulators/RetroArch/states/PPSSPP
+!Emulators/RetroArch/states/melonDS
+Emulators/RetroArch/states/Mesen
+Emulators/RetroArch/states/Mesen-S
+Emulators/RetroArch/states/Mupen64Plus-Next
+Emulators/RetroArch/states/ParaLLEl N64
+Emulators/RetroArch/states/PPSSPP
 # PS1即时存档
-!Tools/Emulators/RetroArch/states/SwanStation
+!Emulators/RetroArch/states/SwanStation
 # GBA即时存档
-!Tools/Emulators/RetroArch/states/VBA-M
-Tools/Emulators/RetroArch/states/YabaSanshiro
+!Emulators/RetroArch/states/VBA-M
+Emulators/RetroArch/states/YabaSanshiro
 
 
-Tools/Emulators/RPCS3
-Tools/Emulators/shadPS4
+Emulators/RPCS3
+Emulators/shadPS4
 
 # YUZU存档托管
-Tools/Emulators/YUZU/**
-!Tools/Emulators/YUZU/user/
-!Tools/Emulators/YUZU/user/nand/
-!Tools/Emulators/YUZU/user/nand/user/
-!Tools/Emulators/YUZU/user/nand/user/save
-!Tools/Emulators/YUZU/user/nand/user/save/0000000000000000
-!Tools/Emulators/YUZU/user/nand/user/save/0000000000000000/DA3F41FF0AC395138D33B06126DE1871
-!Tools/Emulators/YUZU/user/nand/user/save/0000000000000000/DA3F41FF0AC395138D33B06126DE1871/**
+Emulators/YUZU/**
+!Emulators/YUZU/user/
+!Emulators/YUZU/user/nand/
+!Emulators/YUZU/user/nand/user/
+!Emulators/YUZU/user/nand/user/save
+!Emulators/YUZU/user/nand/user/save/0000000000000000
+!Emulators/YUZU/user/nand/user/save/0000000000000000/DA3F41FF0AC395138D33B06126DE1871
+!Emulators/YUZU/user/nand/user/save/0000000000000000/DA3F41FF0AC395138D33B06126DE1871/**
 
-Tools/Emulators/Z Other EMU
+Emulators/Z Other EMU
 
 
-Tools/GameTools/00.PC Game Tools
-Tools/GameTools/01.Console Game Tools/00.Emulators Config/RetroArch/RA设置备份/Windows/saves
-Tools/GameTools/01.Console Game Tools/00.Emulators Config/RetroArch/RA设置备份/Windows/states
-Tools/GameTools/01.Console Game Tools/00.Emulators Config/RetroArch/RA设置备份/Windows/system
-Tools/GameTools/01.Console Game Tools/00.Emulators Config/RetroArch/RA设置备份/Windows/system.rar
-Tools/GameTools/01.Console Game Tools/3DO
-Tools/GameTools/01.Console Game Tools/FBN
-Tools/GameTools/01.Console Game Tools/GBA
-Tools/GameTools/01.Console Game Tools/MD
-Tools/GameTools/01.Console Game Tools/Mega CD
-Tools/GameTools/01.Console Game Tools/N3DS
-Tools/GameTools/01.Console Game Tools/NDS
-Tools/GameTools/01.Console Game Tools/NES
-Tools/GameTools/01.Console Game Tools/NS
-Tools/GameTools/01.Console Game Tools/PCE
-Tools/GameTools/01.Console Game Tools/PS1
-Tools/GameTools/01.Console Game Tools/PS2
-Tools/GameTools/01.Console Game Tools/PS3
-Tools/GameTools/01.Console Game Tools/PSN
-Tools/GameTools/01.Console Game Tools/PSP
-Tools/GameTools/01.Console Game Tools/WII
-Tools/GameTools/01.Console Game Tools/SNES
-Tools/GameTools/01.Console Game Tools/SS
-Tools/GameTools/01.Console Game Tools/WIIU
-Tools/GameTools/02.Game Guide
+GameTools/00.PC Game Tools
+GameTools/01.Console Game Tools/00.Emulators Config/RetroArch/RA设置备份/Windows/saves
+GameTools/01.Console Game Tools/00.Emulators Config/RetroArch/RA设置备份/Windows/states
+GameTools/01.Console Game Tools/00.Emulators Config/RetroArch/RA设置备份/Windows/system
+GameTools/01.Console Game Tools/00.Emulators Config/RetroArch/RA设置备份/Windows/system.rar
+GameTools/01.Console Game Tools/3DO
+GameTools/01.Console Game Tools/FBN
+GameTools/01.Console Game Tools/GBA
+GameTools/01.Console Game Tools/MD
+GameTools/01.Console Game Tools/Mega CD
+GameTools/01.Console Game Tools/N3DS
+GameTools/01.Console Game Tools/NDS
+GameTools/01.Console Game Tools/NES
+GameTools/01.Console Game Tools/NS
+GameTools/01.Console Game Tools/PCE
+GameTools/01.Console Game Tools/PS1
+GameTools/01.Console Game Tools/PS2
+GameTools/01.Console Game Tools/PS3
+GameTools/01.Console Game Tools/PSN
+GameTools/01.Console Game Tools/PSP
+GameTools/01.Console Game Tools/WII
+GameTools/01.Console Game Tools/SNES
+GameTools/01.Console Game Tools/SS
+GameTools/01.Console Game Tools/WIIU
+GameTools/02.Game Guide
 
-Tools/Musics
-Tools/OS
-Tools/Packages
-Tools/Pictures
-Tools/ProgramFiles
-Tools/ROMs
-Tools/Txts
-Tools/Videos
-Tools/Widgets
-Tools/Works
-Tools/Z Other
-Tools/临时
-Tools/微信备份
+Musics
+OS
+Packages
+Pictures
+ProgramFiles
+ROMs
+Txts
+Videos
+Widgets
+Works
+Z Other
+临时
+微信备份
 
