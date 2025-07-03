@@ -2489,6 +2489,13 @@ https://nsw2u.com/the-binding-of-isaac-afterbirth-switch-nsp
 对于超过 100MB 的文件，GitHub 建议使用 Git Large File Storage (LFS) 进行管理。
 ```
 
+##### STEAM启动游戏慢
+
+```
+关闭着色器加载
+
+```
+
 
 
 
