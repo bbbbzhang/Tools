@@ -624,7 +624,6 @@ Vue2.x的做法:
    
 // 数据劫持
 // 观察者设计模式
-   
 Vue3的做法:
    obj = new Proxy(obj, {
       get(target, key) {
