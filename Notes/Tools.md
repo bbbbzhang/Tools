@@ -594,6 +594,7 @@ CODEX
 
 鬼泣4
 Goldberg
+ROG掌机点击设置会闪退
 
 鬼泣5
 C:\Users\19654\AppData\Roaming\Goldberg SteamEmu Saves\601150\remote\win64_save
