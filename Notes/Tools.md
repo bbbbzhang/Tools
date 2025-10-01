@@ -27,7 +27,7 @@ NS
 模拟器游戏+PC游戏+NS游戏机
 新游戏有资源后，PC破解版和NS版资源都下载
 
-
+移动NS忍者龙剑传
 ```
 
 # 游戏
@@ -41,7 +41,7 @@ NS
 怪物猎人-荒野
 最终幻想7 重制版 第三部
 小小梦魇3
-死亡搁浅2 2025.6.36
+死亡搁浅2
 生化危机9
 侠盗猎车手6
 上古卷轴6
@@ -463,6 +463,10 @@ FLT
 C:\Users\19654\Documents\Horizon Zero Dawn Remastered
 RUNE
 
+合金装备3 重置版
+v1.1.4
+RUNE
+
 黑色洛城
 C:\Users\19654\AppData\Roaming\.1911\L.A. Noire
 Razor1911
@@ -536,6 +540,11 @@ CODEX
 C:\Users\19654\AppData\Local\SilentHill2
 v1.0.10
 GOG
+
+寂静岭F
+RUNE
+v1.1.3
+创建“SHf.exe”的快捷方式—属性—目标—末尾添加游戏运行参数（“-”前有空格）： -savetouserdir
 
 最后生还者 重制版
 C:\Users\19654\Saved Games\The Last of Us Part I
