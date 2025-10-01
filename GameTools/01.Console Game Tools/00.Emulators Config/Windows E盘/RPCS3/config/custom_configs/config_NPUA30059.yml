@@ -73,7 +73,7 @@ Video:
   Renderer: Vulkan
   Resolution: 1920x1080
   Aspect ratio: 16:9
-  Frame limit: Auto
+  Frame limit: PS3 Native
   Second Frame Limit: 0
   MSAA: Auto
   Shader Mode: Async Shader Recompiler

@@ -549,7 +549,7 @@ v1.1.3
 
 最后生还者 重制版
 C:\Users\19654\Saved Games\The Last of Us Part I
-C:\Users\Public\Documents\Steam\RUNE1888930
+C:\Users\Public\Documents\Steam\RUNE\1888930
 v1.10
 STEAM
 1888930
