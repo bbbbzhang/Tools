@@ -99,16 +99,16 @@
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/Likes GBA ROMs/CT Special Forces (USA) (En,Fr,De,Es,It,Nl).gba",
       "label": "CT Special Forces (USA) (En,Fr,De,Es,It,Nl)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Game Boy Advance.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/Likes GBA ROMs/CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl).gba",
       "label": "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Game Boy Advance.lpl"
     },

@@ -59,8 +59,8 @@
     {
       "path": "/ROMs/Nintendo - Nintendo Entertainment System/Likes NES ROMs/Castlevania III - Dracula's Curse (USA).nes",
       "label": "Castlevania III - Dracula's Curse (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mesen_libretro_libnx.nro",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo Entertainment System.lpl"
     },
@@ -219,8 +219,8 @@
     {
       "path": "/ROMs/Nintendo - Nintendo Entertainment System/Likes NES ROMs/Ninja Ryuuken Den (Japan).nes",
       "label": "Ninja Ryuuken Den (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mesen_libretro_libnx.nro",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo Entertainment System.lpl"
     },
@@ -283,16 +283,16 @@
     {
       "path": "/ROMs/Nintendo - Nintendo Entertainment System/Likes NES ROMs/Rockman 5 - Blues no Wana! (Japan).nes",
       "label": "Rockman 5 - Blues no Wana! (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mesen_libretro_libnx.nro",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo Entertainment System.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Nintendo Entertainment System/Likes NES ROMs/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).nes",
       "label": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mesen_libretro_libnx.nro",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo Entertainment System.lpl"
     },
@@ -307,8 +307,8 @@
     {
       "path": "/ROMs/Nintendo - Nintendo Entertainment System/Likes NES ROMs/Shadow of the Ninja (USA).nes",
       "label": "Shadow of the Ninja (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mesen_libretro_libnx.nro",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo Entertainment System.lpl"
     },

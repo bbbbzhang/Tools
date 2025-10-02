@@ -1,6 +1,6 @@
 {
   "version": "1.5",
-  "default_core_path": "DETECT",
+  "default_core_path": "/retroarch/cores/ppsspp_libretro_libnx.nro",
   "default_core_name": "Sony - PlayStation Portable (PPSSPP)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
@@ -11,10 +11,10 @@
     {
       "path": "/ROMs/Sony - Playstation Portable/Likes PSP ROMs/Metal Slug XX (USA) (v1.01).iso",
       "label": "Metal Slug XX (USA) (v1.01)",
-      "core_path": "DETECT",
+      "core_path": "/retroarch/cores/ppsspp_libretro_libnx.nro",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
-    },
+    }
   ]
 }

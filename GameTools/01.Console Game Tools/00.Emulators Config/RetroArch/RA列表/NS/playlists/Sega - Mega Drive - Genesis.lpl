@@ -27,8 +27,8 @@
     {
       "path": "/ROMs/Sega - Mega Drive - Genesis/Likes MD ROMs/Contra - Hard Corps (USA, Korea).md",
       "label": "Contra - Hard Corps (USA, Korea)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/genesis_plus_gx_libretro_libnx.nro",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"
     },
@@ -99,24 +99,24 @@
     {
       "path": "/ROMs/Sega - Mega Drive - Genesis/Likes MD ROMs/Streets of Rage 3 (USA).md",
       "label": "Streets of Rage 3 (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/genesis_plus_gx_libretro_libnx.nro",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"
     },
     {
       "path": "/ROMs/Sega - Mega Drive - Genesis/Likes MD ROMs/Super Shinobi II, The (Japan, Korea).md",
       "label": "Super Shinobi II, The (Japan, Korea)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/genesis_plus_gx_libretro_libnx.nro",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"
     },
     {
       "path": "/ROMs/Sega - Mega Drive - Genesis/Likes MD ROMs/Super Shinobi, The (Japan).md",
       "label": "Super Shinobi, The (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/genesis_plus_gx_libretro_libnx.nro",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"
     }

@@ -19,8 +19,8 @@
     {
       "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/Likes SNES ROMs/Contra III - The Alien Wars (USA).sfc",
       "label": "Contra III - The Alien Wars (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/snes9x_libretro_libnx.nro",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
@@ -187,8 +187,8 @@
     {
       "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/Likes SNES ROMs/Rockman X3 (Japan).sfc",
       "label": "Rockman X3 (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/snes9x_libretro_libnx.nro",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
@@ -235,8 +235,8 @@
     {
       "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/Likes SNES ROMs/Super Metroid (Japan, USA) (En,Ja).sfc",
       "label": "Super Metroid (Japan, USA) (En,Ja)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/snes9x_libretro_libnx.nro",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },

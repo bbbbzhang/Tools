@@ -9,28 +9,28 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/ROMs/Nintendo - Game Boy Color/CN GBC ROMs/sedcsddzz.gbc",
+      "path": "/ROMs/Nintendo - Game Boy Color/NS CN GBC ROMs/sedcsddzz.gbc",
       "label": "塞尔达传说 - 大地之章 (v1.0) (简) (啪嗒啪嗒 & 小笨笨 & 怕淋)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
       "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
-      "db_name": "CN GBC ROMs.lpl"
+      "db_name": "Nintendo - Game Boy Color.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Game Boy Color/CN GBC ROMs/sedcsskzz.gbc",
+      "path": "/ROMs/Nintendo - Game Boy Color/NS CN GBC ROMs/sedcsskzz.gbc",
       "label": "塞尔达传说 - 时空之章 (简) (啪嗒啪嗒 & 小笨笨 & 怕淋)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "CN GBC ROMs.lpl"
+      "db_name": "Nintendo - Game Boy Color.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Game Boy Color/CN GBC ROMs/sedcsmjd.gbc",
+      "path": "/ROMs/Nintendo - Game Boy Color/NS CN GBC ROMs/sedcsmjd.gbc",
       "label": "塞尔达传说 - 梦见岛 (简) (啪嗒啪嗒 & 小笨笨 & Our Story℃)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
-      "db_name": "CN GBC ROMs.lpl"
+      "db_name": "Nintendo - Game Boy Color.lpl"
     }
   ]
 }

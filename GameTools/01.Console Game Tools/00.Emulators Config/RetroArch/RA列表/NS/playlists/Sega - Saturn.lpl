@@ -11,16 +11,16 @@
     {
       "path": "/ROMs/Sega - Saturn/Likes SS ROMs/Akumajo Dracula X - Gekka no Yasoukyoku (Japan)/Akumajo Dracula X - Gekka no Yasoukyoku (Japan).cue",
       "label": "Akumajo Dracula X - Gekka no Yasoukyoku (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/yabause_libretro_libnx.nro",
+      "core_name": "Sega - Saturn (Yabause)",
       "crc32": "DETECT",
       "db_name": "Sega - Saturn.lpl"
     },
     {
       "path": "/ROMs/Sega - Saturn/Likes SS ROMs/Radiant Silvergun (Japan)/Radiant Silvergun (Japan).cue",
       "label": "Radiant Silvergun (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/yabause_libretro_libnx.nro",
+      "core_name": "Sega - Saturn (Yabause)",
       "crc32": "DETECT",
       "db_name": "Sega - Saturn.lpl"
     }

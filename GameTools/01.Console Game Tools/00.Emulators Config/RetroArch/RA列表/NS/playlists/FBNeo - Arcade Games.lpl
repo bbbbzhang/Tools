@@ -11,8 +11,8 @@
     {
       "path": "/ROMs/FBNeo - Arcade Games/Likes Arcade ROMs/avsp.zip",
       "label": "Alien vs Predator (940520 Euro)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/fbalpha2012_libretro_libnx.nro",
+      "core_name": "Arcade (FB Alpha 2012)",
       "crc32": "DETECT",
       "db_name": "FBNeo - Arcade Games.lpl"
     },
@@ -395,24 +395,24 @@
     {
       "path": "/ROMs/FBNeo - Arcade Games/Likes Arcade ROMs/mslug3.zip",
       "label": "Metal Slug 3 (NGM-2560)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/fbneo_libretro_libnx.nro",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
       "path": "/ROMs/FBNeo - Arcade Games/Likes Arcade ROMs/mslug4.zip",
       "label": "Metal Slug 4 (NGM-2630)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/fbneo_libretro_libnx.nro",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
       "path": "/ROMs/FBNeo - Arcade Games/Likes Arcade ROMs/mslug5.zip",
       "label": "Metal Slug 5 (NGM-2680)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/fbneo_libretro_libnx.nro",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "FBNeo - Arcade Games.lpl"
     },

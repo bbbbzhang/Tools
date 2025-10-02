@@ -19,8 +19,8 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Castlevania - Symphony of the Night (USA)/Castlevania - Symphony of the Night (USA).cue",
       "label": "Castlevania - Symphony of the Night (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
@@ -51,8 +51,8 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Crash Bandicoot (USA)/Crash Bandicoot (USA).cue",
       "label": "Crash Bandicoot (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
@@ -83,8 +83,8 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/CTR - Crash Team Racing (USA)/CTR - Crash Team Racing (USA).cue",
       "label": "CTR - Crash Team Racing (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
@@ -115,8 +115,8 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)/Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1).cue",
       "label": "Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
@@ -371,8 +371,8 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Resident Evil - Director's Cut - Dual Shock Ver. (USA)/Resident Evil - Director's Cut - Dual Shock Ver. (USA).cue",
       "label": "Resident Evil - Director's Cut - Dual Shock Ver. (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
@@ -475,8 +475,8 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Rockman 6 - Shijou Saidai no Tatakai!! (Japan)/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).cue",
       "label": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
@@ -491,8 +491,8 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Rockman X3 (Japan)/Rockman X3 (Japan).cue",
       "label": "Rockman X3 (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
@@ -515,8 +515,8 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Rockman X6 (Japan)/Rockman X6 (Japan).cue",
       "label": "Rockman X6 (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
@@ -539,24 +539,24 @@
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Silent Hill (USA)/Silent Hill (USA).cue",
       "label": "Silent Hill (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Strider Hiryuu 1 & 2 (Japan) (Disc 1) (Strider Hiryuu)/Strider Hiryuu 1 & 2 (Japan) (Disc 1) (Strider Hiryuu).cue",
       "label": "Strider Hiryuu 1 & 2 (Japan) (Disc 1) (Strider Hiryuu)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },
     {
       "path": "/ROMs/Sony - Playstation/Likes PS1 ROMs/Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2)/Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2).cue",
       "label": "Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation.lpl"
     },

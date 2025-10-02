@@ -9,36 +9,36 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/tdcz.sfc",
+      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/tdcz.sfc",
       "label": "天地创造 MSU-1版(简)(v2.00花屏文字修正)(Necrosaro+hlken)(32Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "CN SNES ROMs.lpl"
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/twmj.sfc",
+      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/twmj.sfc",
       "label": "天外魔境 (简) (v1.0)(ACG & 星组)(40Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "CN SNES ROMs.lpl"
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/llrdbzdbs.smc",
+      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/llrdbzdbs.smc",
       "label": "旅梦人 盗不走的宝石 (简)(32Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/snes9x_libretro_libnx.nro",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "DETECT",
-      "db_name": "CN SNES ROMs.lpl"
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/zzjbr.smc",
+      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/zzjbr.smc",
       "label": "重装机兵Returns (简) (v0.96) (狼组+willzyj+hlken)(32Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "CN SNES ROMs.lpl"
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     }
   ]
 }

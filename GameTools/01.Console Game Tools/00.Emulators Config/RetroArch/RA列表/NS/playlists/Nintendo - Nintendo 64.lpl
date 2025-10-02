@@ -179,8 +179,8 @@
     {
       "path": "/ROMs/Nintendo - Nintendo 64/Likes N64 ROMs/Super Mario 64 (USA)(Nintendo)(64Mb).n64",
       "label": "Super Mario 64 (USA)(Nintendo)(64Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mupen64plus_next_libretro_libnx.nro",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo 64.lpl"
     },

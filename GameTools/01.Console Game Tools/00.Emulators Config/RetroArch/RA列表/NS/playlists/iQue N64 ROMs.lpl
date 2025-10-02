@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/rttmxdld.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/rttmxdld.z64",
       "label": "任天堂明星大乱斗 Super Smash Bros.[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -17,7 +17,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/dwsl.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/dwsl.z64",
       "label": "动物森林 AnimalCrossing[官方简中]",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -25,7 +25,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/sedcssgzd.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/sedcssgzd.z64",
       "label": "塞尔达传说 时光之笛 The Legend of Zelda Ocarina of Time[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -33,7 +33,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/sedcsmlmj.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/sedcsmlmj.z64",
       "label": "塞尔达传说 魔力面具 The Legend of Zelda Majora's Mask[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -41,7 +41,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/xjhh64.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/xjhh64.z64",
       "label": "星际火狐 Star Fox 64[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -49,7 +49,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/wlsc.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/wlsc.z64",
       "label": "未来赛车 F-Zero X[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -57,7 +57,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/ssmt64.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/ssmt64.z64",
       "label": "水上摩托 Wave Race 64[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -65,7 +65,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/symlo64.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/symlo64.z64",
       "label": "神游马力欧 Super Mario 64[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -73,7 +73,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/zpmlo.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/zpmlo.z64",
       "label": "纸片马力欧 Paper Mario[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -81,7 +81,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/zhjqr.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/zhjqr.z64",
       "label": "组合机器人 Custom Robo[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -89,7 +89,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/zyfdqdjcz.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/zyfdqdjcz.z64",
       "label": "罪与罚 地球的继承者 Sin and Punishment Successor of the Earth[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -97,7 +97,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/yxgs.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/yxgs.z64",
       "label": "耀西故事 Yoshi's Story[官方简中](运行修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -105,7 +105,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/yymt64.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/yymt64.z64",
       "label": "越野摩托 Excitebike 64[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -113,7 +113,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/mloys64.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/mloys64.z64",
       "label": "马力欧医生 Dr. Mario 64[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -121,7 +121,7 @@
       "db_name": "Nintendo - Nintendo 64.lpl"
     },
     {
-      "path": "/ROMs/Nintendo - Nintendo 64/iQue N64 ROMs/mloykdc64.z64",
+      "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/mloykdc64.z64",
       "label": "马力欧卡丁车 Mario Kart 64[官方简中](存档修复)",
       "core_path": "DETECT",
       "core_name": "DETECT",

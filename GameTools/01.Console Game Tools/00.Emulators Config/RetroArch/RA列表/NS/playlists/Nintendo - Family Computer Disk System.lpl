@@ -19,16 +19,16 @@
     {
       "path": "/ROMs/Nintendo - Famicom Disk System/Likes FDS ROMs/Super Mario Brothers (Japan).fds",
       "label": "Super Mario Brothers (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mesen_libretro_libnx.nro",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Famicom Disk System.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Famicom Disk System/Likes FDS ROMs/Super Mario Brothers 2 (Japan).fds",
       "label": "Super Mario Brothers 2 (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mesen_libretro_libnx.nro",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Famicom Disk System.lpl"
     },
