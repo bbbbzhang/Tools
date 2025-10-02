@@ -25,6 +25,13 @@ NS
 模拟器游戏+PC游戏+NS游戏机
 新游戏有资源后，PC破解版和NS版资源都下载
 
+E盘
+Cracks
+Emulators
+GameTools
+ROMs
+Videos
+
 
 
 ```
