@@ -29,7 +29,9 @@ NS
 
 16T硬盘
 空洞骑士-丝之歌 上传
+哈迪斯12 重新下载
 
+500g机械硬盘移动到红米笔记本
 
 
 
@@ -78,22 +80,23 @@ NS
 喜欢的游戏列表中，除了黑神话-悟空，其余的游戏都有PC破解版，或者有PC可以模拟的主机版
 
 ---------------------------
-
-PC的4T固态硬盘	未下载的游戏
-Cracks的RPG游戏 寂静岭2 寂静岭F
-
-NS实机	未安装的游戏
+NS实机
+未安装的游戏
 大多数RPG游戏 大多数SLG游戏 大型3D游戏(适合在PC，NS没必要下载)
 
-500G移动硬盘
-NS的所有RPG游戏
+4T固态硬盘
+Steam、部分Cracks、模拟器、部分ROMs、Tools
+未下载的Cracks
+寂静岭2、寂静岭F、RPG游戏
+
+红米笔记
+Tools、NS未安装的游戏
 
 16T机械硬盘
-Cracks游戏 模拟器 ROMs 电影
+Cracks、模拟器、ROMs、电影
 
 百度网盘
-Cracks游戏
-Tools文件夹(常用文件、模拟器、ROMs等)
+Cracks、模拟器、ROMs、Tools
 
 
 
@@ -742,6 +745,12 @@ TargetPlatform=DirectX11
 重力回路
 v1.04
 GOG
+哈迪斯1
+CODEX
+
+哈迪斯2
+RUNE
+v1.131641
 
 空洞骑士
 GOG
