@@ -11,8 +11,8 @@
     {
       "path": "/ROMs/Sony - Playstation/NS CN PS1 ROMs/Valkyrie Profile (Japan) (Disc 1)/Valkyrie Profile (Japan) (Disc 1).cue",
       "label": "北欧女神[简][V1.04]Disc A",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -155,8 +155,8 @@
     {
       "path": "/ROMs/Sony - Playstation/NS CN PS1 ROMs/Final Fantasy IX (Japan, Asia) (Disc 4)/Final Fantasy IX (Japan, Asia) (Disc 4).cue",
       "label": "最终幻想9[简][V2.0]Disc D",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -179,8 +179,8 @@
     {
       "path": "/ROMs/Sony - Playstation/NS CN PS1 ROMs/Chrono Cross (Japan) (Disc 2)/Chrono Cross (Japan) (Disc 2).cue",
       "label": "穿越时空2[简][V1.0]Disc B",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/pcsx_rearmed_libretro_libnx.nro",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "DETECT",
       "db_name": "Sony - PlayStation.lpl"
     }

@@ -11,8 +11,8 @@
     {
       "path": "/ROMs/Nintendo - Nintendo 64/NS iQue N64 ROMs/rttmxdld.z64",
       "label": "任天堂明星大乱斗 Super Smash Bros.[官方简中](存档修复)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mupen64plus_next_libretro_libnx.nro",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo 64.lpl"
     },

@@ -35,8 +35,8 @@
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/kdyglvbs.gba",
       "label": "口袋妖怪 - 绿宝石[漫游+TGB+口袋群星SP+洛水惊鸿](2024官译修正v20241109)(简)(US)(128Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Game Boy Advance.lpl"
     },

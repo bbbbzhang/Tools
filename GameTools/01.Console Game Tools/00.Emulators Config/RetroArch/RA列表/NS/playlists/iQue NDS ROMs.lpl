@@ -11,8 +11,8 @@
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS iQue NDS ROMs/syrtgg.nds",
       "label": "神游 - 任天狗狗(神游)(官方简中)(256Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
+      "core_name": "Nintendo - DS (melonDS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },

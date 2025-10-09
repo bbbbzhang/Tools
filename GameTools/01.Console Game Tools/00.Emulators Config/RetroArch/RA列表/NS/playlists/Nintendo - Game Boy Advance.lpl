@@ -147,8 +147,8 @@
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/Likes GBA ROMs/Dragon Ball - Advanced Adventure (USA).gba",
       "label": "Dragon Ball - Advanced Adventure (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Game Boy Advance.lpl"
     },
@@ -587,8 +587,8 @@
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/Likes GBA ROMs/Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).gba",
       "label": "Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Game Boy Advance.lpl"
     },

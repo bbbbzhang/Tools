@@ -11,8 +11,8 @@
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS iQue GBA ROMs/syfmc.gba",
       "label": "神游 Famicom Mini Collection[未发售](简)(32Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Game Boy Advance.lpl"
     },
