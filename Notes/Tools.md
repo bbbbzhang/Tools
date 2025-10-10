@@ -31,7 +31,6 @@ NS
 空洞骑士-丝之歌 上传
 哈迪斯12 重新下载
 
-500g机械硬盘移动到红米笔记本
 
 
 
@@ -86,11 +85,12 @@ NS实机
 
 4T固态硬盘
 Steam、部分Cracks、模拟器、部分ROMs、Tools
-未下载的Cracks
-寂静岭2、寂静岭F、RPG游戏
 
-红米笔记
-Tools、NS未安装的游戏
+红米笔记本
+部分Cracks、NS未安装的游戏、Tools
+
+未下载的Cracks
+RPG游戏
 
 16T机械硬盘
 Cracks、模拟器、ROMs、电影
