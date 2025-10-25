@@ -46,7 +46,6 @@ NS
 街头霸王6
 怪物猎人-荒野
 最终幻想7 重制版 第三部
-小小梦魇3
 死亡搁浅2
 生化危机9
 侠盗猎车手6
@@ -79,18 +78,15 @@ NS
 喜欢的游戏列表中，除了黑神话-悟空，其余的游戏都有PC破解版，或者有PC可以模拟的主机版
 
 ---------------------------
-NS实机
-未安装的游戏
-大多数RPG游戏 大多数SLG游戏 大型3D游戏(适合在PC，NS没必要下载)
 
 4T固态硬盘
-Steam、部分Cracks、模拟器、部分ROMs、Tools
+部分Steam、部分Cracks、模拟器、部分ROMs
+
+微星笔记本
+部分Steam、部分Cracks、部分Tools
 
 红米笔记本
-部分Cracks、NS未安装的游戏、Tools
-
-未下载的Cracks
-RPG游戏
+Tools
 
 16T机械硬盘
 Cracks、模拟器、ROMs、电影
@@ -561,6 +557,18 @@ EMPRESS
 
 生化危机-启示录2
 Goldberg
+
+生化危机1日版 1美版 2美版 3美版
+GOG
+生化危机3美版，过场动画卡顿解决办法：
+前往官方下载地址：https://github.com/narzoul/DDrawCompat/releases
+下载最新版本的压缩包（例如 DDrawCompat-v0.4.1.zip）(会经常更新)
+解压后，将其中的 DDrawCompat.dll 放入游戏根目录
+设置兼容性
+右键 RE3.exe → 属性 → “兼容性” 选项卡。勾选以下三项：
+以兼容模式运行此程序（选择 Windows XP SP3）
+禁用全屏优化
+以管理员身份运行
 
 只狼
 814380
