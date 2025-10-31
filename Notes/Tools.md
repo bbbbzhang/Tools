@@ -82,14 +82,8 @@ NS
 
 ---------------------------
 
-4T固态硬盘
-部分Steam、部分Cracks、模拟器、部分ROMs
-
-微星笔记本
-部分Steam、部分Cracks、部分Tools
-
-红米笔记本
-Tools
+笔记本
+部分Steam、部分Cracks、Tools
 
 16T机械硬盘
 Cracks、模拟器、ROMs、电影
