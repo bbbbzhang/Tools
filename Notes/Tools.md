@@ -1802,35 +1802,42 @@ NPJB日版下载版
 ##### YUZU
 
 ```
+YUZU识别不了需要NS固件为20.0+的游戏文件
+
+```
+
+##### Eden
+
+```
 配置路径
-YUZU/user/config
+Eden/user/config
 
 游戏目录设置
-YUZU/user/config/qt-config.ini  ->  Paths\gamedirs\
+Eden/user/config/qt-config.ini  ->  Paths\gamedirs\
 
 固件路径
-YUZU/user/nand/system/Contents/registered
+Eden/user/nand/system/Contents/registered
 
 玩NS游戏需要做的准备：
 NS模拟器、游戏ROM、固件、密钥
 未安装固件虽然可以进入游戏，但游戏可能不显示文字
 
 存档
-YUZU/user/nand/user/save
+Eden/user/nand/user/save
 (user/nand/user/save/0000000000000000/63C3B824B82A9B98B6818BFD192D43D2
 63C3B824B82A9B98B6818BFD192D43D2目录名字和switch用户信息有关系)
 
 固件
-YUZU/user/nand/system/Contents/registered
+Eden/user/nand/system/Contents/registered
 
 密钥
-YUZU/user/keys
+Eden/user/keys
 
 更新、DLC
-YUZU/user/nand/user/Contents/registered
+Eden/user/nand/user/Contents/registered
 
 汉化补丁
-YUZU/user/sdmc/atmosphere/contents
+Eden/user/sdmc/atmosphere/contents
 
 不要设置抗锯齿
  
@@ -1846,20 +1853,10 @@ OpenGL模式
 原因：控制配置里不能保存中文方案
 
 传说之下汉化补丁
-YUZU/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
+Eden/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
 
-YUZU识别不了，四作塞尔达的新更新包，会闪退
-
-
-```
-
-##### Eden
-
-```
-配置路径
-C:\Users\19654\AppData\Roaming\eden
-
-
+勇者斗恶龙1&2重制版
+安装完DLC便无法进入游戏，模拟器和实机都是
 
 
 ```
