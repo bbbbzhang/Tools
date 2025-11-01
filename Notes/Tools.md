@@ -169,7 +169,14 @@ PS5手柄不同的指示灯代表的功能
 6：控制器断线：白灯
 
 
-switch oled，国行硬破，512G tf卡，红蓝joycon，灰色joycon，无拆修无暗病，摇杆无漂移，第三方配件有，Skull & Co的保护包，杂牌保护包，Skull & Co的joycon摇杆帽，核咖一体壳，核咖摇杆帽，机子原装配件齐全，包装内衬已扔掉，如图，图上的东西都有
+NS OLED，国行硬破，红蓝joycon，灰色joycon，原装配件齐全，无包装箱内衬
+第三方配件有：512G TF卡，Skull & Co的保护包，杂牌保护包，Skull & Co的joycon摇杆帽，核咖一体壳，核咖摇杆帽
+
+PS5 1209A 国行版，箱说全，HDMI线和手柄线不是原装的
+PS5 slim 2009A 国行版，箱说全，原装线
+PS5手柄（3个），PS5自带，PS5 slim自带，PS5pro自带
+XBOX ONE手柄，1709a版，迷彩限定，右摇杆上漂移
+XBOX ONE手柄，1709a版，黑色
 
 
 ```
