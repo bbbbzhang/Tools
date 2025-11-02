@@ -11,15 +11,12 @@ PC
 黑魂3
 
 NS
-超级马力欧-奥德赛
 塞尔达传说-王国之泪
 塞尔达传说-梦见岛
 八方旅人1
 星露谷物语
 尼尔-机械纪元
-异度神剑3
 内部
-最终幻想9 PS1模拟器
 
 主玩NS版游戏
 模拟器游戏+PC游戏+NS游戏机
@@ -28,10 +25,15 @@ NS
 ---------------------------
 
 16T硬盘
-空洞骑士-丝之歌 上传
+空洞骑士-丝之歌 重新下载
 哈迪斯12 重新下载
-
-
+以撒的结合 挪到 ACT_2D
+勇者斗恶龙1&2 重制版 下载
+植物大战僵尸 重制版 下载
+精灵宝可梦-Z-A 下载
+纪念碑谷3 下载
+勇者斗恶龙3 重制版 更新 DLC文件夹重命名
+拣爱 NS版更新文件 被百度网盘设为违规，压缩+设置密码上传至百度网盘
 
 
 ```
@@ -46,14 +48,12 @@ NS
 街头霸王6
 怪物猎人-荒野
 最终幻想7 重制版 第三部
-小小梦魇3
 死亡搁浅2
 生化危机9
 侠盗猎车手6
 上古卷轴6
 鬼武者-剑之道
 大神-新作
-勇者斗恶龙1、2重制版
 勇者斗恶龙12
 密特罗德Prime4
 忍者龙剑传4
@@ -69,8 +69,8 @@ NS
 4.PC正版资源
 
 
-每次更新完电脑驱动程序，索尼的绝大多数游戏，
-都需要重新构建着色器，猜测RPCS3也会重新构建着色器
+每次更新完电脑驱动程序，索尼的绝大多数游戏、RPCS3
+都需要重新构建着色器
 
 
 定期备份游戏存档
@@ -79,18 +79,9 @@ NS
 喜欢的游戏列表中，除了黑神话-悟空，其余的游戏都有PC破解版，或者有PC可以模拟的主机版
 
 ---------------------------
-NS实机
-未安装的游戏
-大多数RPG游戏 大多数SLG游戏 大型3D游戏(适合在PC，NS没必要下载)
 
-4T固态硬盘
-Steam、部分Cracks、模拟器、部分ROMs、Tools
-
-红米笔记本
-部分Cracks、NS未安装的游戏、Tools
-
-未下载的Cracks
-RPG游戏
+笔记本
+部分Steam、部分Cracks、Tools
 
 16T机械硬盘
 Cracks、模拟器、ROMs、电影
@@ -180,7 +171,14 @@ PS5手柄不同的指示灯代表的功能
 6：控制器断线：白灯
 
 
-switch oled，国行硬破，512G tf卡，红蓝joycon，灰色joycon，无拆修无暗病，摇杆无漂移，第三方配件有，Skull & Co的保护包，杂牌保护包，Skull & Co的joycon摇杆帽，核咖一体壳，核咖摇杆帽，机子原装配件齐全，包装内衬已扔掉，如图，图上的东西都有
+NS OLED，国行硬破，红蓝joycon，灰色joycon，原装配件齐全，无包装箱内衬
+第三方配件有：512G TF卡，Skull & Co的保护包，杂牌保护包，Skull & Co的joycon摇杆帽，核咖一体壳，核咖摇杆帽
+
+PS5 1209B 国行版，箱说全，HDMI线和手柄线不是原装的
+PS5 slim 2009A 国行版，箱说全，原装线
+PS5手柄（3个），PS5自带，PS5 slim自带，PS5pro自带
+XBOX ONE手柄，1709a版，迷彩限定，右摇杆上漂移
+XBOX ONE手柄，1709a版，黑色
 
 
 ```
@@ -561,6 +559,18 @@ EMPRESS
 
 生化危机-启示录2
 Goldberg
+
+生化危机1日版 1美版 2美版 3美版
+GOG
+生化危机3美版，过场动画卡顿解决办法：
+前往官方下载地址：https://github.com/narzoul/DDrawCompat/releases
+下载最新版本的压缩包（例如 DDrawCompat-v0.4.1.zip）(会经常更新)
+解压后，将其中的 DDrawCompat.dll 放入游戏根目录
+设置兼容性
+右键 RE3.exe → 属性 → “兼容性” 选项卡。勾选以下三项：
+以兼容模式运行此程序（选择 Windows XP SP3）
+禁用全屏优化
+以管理员身份运行
 
 只狼
 814380
@@ -1798,35 +1808,42 @@ NPJB日版下载版
 ##### YUZU
 
 ```
+YUZU识别不了需要NS固件为20.0+的游戏文件
+
+```
+
+##### Eden
+
+```
 配置路径
-YUZU/user/config
+Eden/user/config
 
 游戏目录设置
-YUZU/user/config/qt-config.ini  ->  Paths\gamedirs\
+Eden/user/config/qt-config.ini  ->  Paths\gamedirs\
 
 固件路径
-YUZU/user/nand/system/Contents/registered
+Eden/user/nand/system/Contents/registered
 
 玩NS游戏需要做的准备：
 NS模拟器、游戏ROM、固件、密钥
 未安装固件虽然可以进入游戏，但游戏可能不显示文字
 
 存档
-YUZU/user/nand/user/save
+Eden/user/nand/user/save
 (user/nand/user/save/0000000000000000/63C3B824B82A9B98B6818BFD192D43D2
 63C3B824B82A9B98B6818BFD192D43D2目录名字和switch用户信息有关系)
 
 固件
-YUZU/user/nand/system/Contents/registered
+Eden/user/nand/system/Contents/registered
 
 密钥
-YUZU/user/keys
+Eden/user/keys
 
 更新、DLC
-YUZU/user/nand/user/Contents/registered
+Eden/user/nand/user/Contents/registered
 
 汉化补丁
-YUZU/user/sdmc/atmosphere/contents
+Eden/user/sdmc/atmosphere/contents
 
 不要设置抗锯齿
  
@@ -1842,20 +1859,10 @@ OpenGL模式
 原因：控制配置里不能保存中文方案
 
 传说之下汉化补丁
-YUZU/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
+Eden/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
 
-YUZU识别不了，四作塞尔达的新更新包，会闪退
-
-
-```
-
-##### Eden
-
-```
-配置路径
-C:\Users\19654\AppData\Roaming\eden
-
-
+勇者斗恶龙1&2重制版
+安装完DLC 2、4、5，便无法进入游戏，模拟器和实机都是
 
 
 ```
