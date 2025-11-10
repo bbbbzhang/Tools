@@ -1807,42 +1807,35 @@ NPJB日版下载版
 ##### YUZU
 
 ```
-YUZU识别不了需要NS固件为20.0+的游戏文件
-
-```
-
-##### Eden
-
-```
 配置路径
-Eden/user/config
+YUZU/user/config
 
 游戏目录设置
-Eden/user/config/qt-config.ini  ->  Paths\gamedirs\
+YUZU/user/config/qt-config.ini  ->  Paths\gamedirs\
 
 固件路径
-Eden/user/nand/system/Contents/registered
+YUZU/user/nand/system/Contents/registered
 
 玩NS游戏需要做的准备：
 NS模拟器、游戏ROM、固件、密钥
 未安装固件虽然可以进入游戏，但游戏可能不显示文字
 
 存档
-Eden/user/nand/user/save
+YUZU/user/nand/user/save
 (user/nand/user/save/0000000000000000/63C3B824B82A9B98B6818BFD192D43D2
 63C3B824B82A9B98B6818BFD192D43D2目录名字和switch用户信息有关系)
 
 固件
-Eden/user/nand/system/Contents/registered
+YUZU/user/nand/system/Contents/registered
 
 密钥
-Eden/user/keys
+YUZU/user/keys
 
 更新、DLC
-Eden/user/nand/user/Contents/registered
+YUZU/user/nand/user/Contents/registered
 
 汉化补丁
-Eden/user/sdmc/atmosphere/contents
+YUZU/user/sdmc/atmosphere/contents
 
 不要设置抗锯齿
  
@@ -1858,10 +1851,25 @@ OpenGL模式
 原因：控制配置里不能保存中文方案
 
 传说之下汉化补丁
-Eden/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
+YUZU/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
 
 勇者斗恶龙1&2重制版
 安装完DLC 2、4、5，便无法进入游戏，模拟器和实机都是
+
+YUZU识别不了需要NS固件为20.0+的游戏文件
+
+怒之铁拳4
+八方旅人1
+八方旅人2
+NS存档和PC互相转换，直接复制，改文件名和后缀名
+
+死亡细胞
+星露谷物语
+NS存档和PC互相转换，直接复制
+
+空洞骑士
+尼尔-机械纪元
+NS存档和PC互相转换，使用存档转工具
 
 
 ```
@@ -1869,61 +1877,11 @@ Eden/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
 ##### Blastem
 
 ```
-
-
 Blastem 配置路径
 C:\Users\19654\AppData\Local\blastem
 
 
 无加速快捷键
-
-
-
-```
-
-##### DeSmuME
-
-```
-
-
-```
-
-##### FBneo
-
-```
-
-
-
-```
-
-##### melonDS
-
-```
-
-
-
-```
-
-##### Mesen
-
-```
-
-
-
-```
-
-##### mGBA
-
-```
-
-
-
-```
-
-##### VisualBoyAdvance-M
-
-```
-
 
 
 
