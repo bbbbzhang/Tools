@@ -1,7 +1,7 @@
 #  临时 
 
 ```
-测试血污12 迈阿密热线12存档转换
+
 
 屯屯鼠，在16T机械硬盘屯游戏
 NS PC PS5只下载最近玩的游戏
@@ -692,6 +692,9 @@ C:\Users\19654\AppData\LocalLow\Billy Basso\Animal Well
 超惑星战记ZERO3
 
 炽热合金
+C:\Users\19654\AppData\Roaming\Blazing_Chrome
+C:\Users\19654\AppData\LocalLow\JoyMasher\BlazingChrome
+正版存档在C:\Program Files (x86)\Steam\userdata\352556638\609110，如果不开启steam云存档的话，存档会保存在LocalLow文件夹
 
 血污-夜之仪式
 RUNE
@@ -729,9 +732,11 @@ FLT
 茶杯头
 
 赛博暗影
+./save
 
 死亡细胞
 Goldberg
+./save
 
 加拿大死亡之路
 GOG
@@ -826,8 +831,10 @@ STEAM
 废土之王
 
 奥达勒斯
+C:\Users\19654\AppData\Roaming\Joymasher\Odallus
 
 奥尼克
+C:\Users\19654\AppData\Roaming\Joymasher\Oniken
 
 奥日与黑暗森林 终极版
 游戏的 PC 版保留了 Ori 的原始 30FPS 动画，而 Switch 版将这些动画更新为 60FPS。
@@ -1877,8 +1884,9 @@ NS和PC存档转换
 1.直接使用
 死亡细胞
 星露谷物语
-血污-月之诅咒1
-血污-月之诅咒2
+血污-月之诅咒12
+迈阿密热线12
+赛博暗影
 
 2.改文件名和文件格式
 怒之铁拳4
@@ -2519,6 +2527,8 @@ F2进入bios，关闭安全启动，保存并退出
 关闭着色器加载
 
 ```
+
+
 
 
 
