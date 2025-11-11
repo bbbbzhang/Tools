@@ -583,6 +583,8 @@ GOG
 寂静岭F
 RUNE
 v1.1.3
+C:\Users\19654\AppData\Local\SHf
+闪退解决办法：
 创建“SHf.exe”的快捷方式—属性—目标—末尾添加游戏运行参数（“-”前有空格）： -savetouserdir
 
 最后生还者 重制版
@@ -681,6 +683,7 @@ RUNE
 
 ```
 动物井
+C:\Users\19654\AppData\LocalLow\Billy Basso\Animal Well
 
 超惑星战记ZERO1
 
@@ -756,6 +759,7 @@ TargetPlatform=DirectX11
 重力回路
 v1.04
 GOG
+
 哈迪斯1
 CODEX
 
@@ -765,17 +769,22 @@ v1.131641
 
 空洞骑士
 GOG
+C:\Users\19654\AppData\LocalLow\Team Cherry\Hollow Knight
 
 空洞骑士-丝之歌
 FIT
+C:\Users\19654\AppData\LocalLow\Team Cherry\Hollow Knight Silksong
 
 迈阿密热线1
+C:\Users\19654\Documents\My Games\HotlineMiami
 
 迈阿密热线2
+C:\Users\19654\Documents\My Games\HotlineMiami2
 
 光明旅者
 
 赤影战士 重制版
+C:\Users\19654\AppData\LocalLow\NatsumeAtari\KAGE Shadow of the Ninja
 
 武士零
 
@@ -829,14 +838,18 @@ STEAM
 奥日与精灵意志
 
 铲子骑士-挖掘
+C:\Users\19654\AppData\LocalLow\Yacht Club Games\Shovel Knight Dig
 
 铲子骑士-无主财宝
+C:\Users\19654\AppData\Roaming\Yacht Club Games\Shovel Knight
 
 雪人兄弟 重制版
 Goldberg
+C:\Users\19654\AppData\LocalLow\CRT Games\Snow Bros. Special
 
 雪人兄弟2 重制版
 tenoke
+C:\Users\19654\AppData\LocalLow\CRT Games\Snow Bros. 2 Special
 
 怒之铁拳4
 C:\Users\19654\Documents\Streets of Rage 4 Save and Config
@@ -863,6 +876,7 @@ RUNE
 Goldberg
 
 忍者龙剑传-怒之羁绊
+C:\Users\19654\AppData\LocalLow\The Game Kitchen\NINJA GAIDEN Ragebound
 
 哈迪斯1
 
@@ -1141,8 +1155,10 @@ Goldberg
 
 咩咩启示录
 GOG
+C:\Users\19654\AppData\LocalLow\Massive Monster\Cult Of The Lamb
 
 潜水员戴夫
+C:\Users\19654\AppData\LocalLow\nexon\DAVE THE DIVER
 
 饥荒
 GOG
@@ -1815,7 +1831,7 @@ YUZU/user/config
 游戏目录设置
 YUZU/user/config/qt-config.ini  ->  Paths\gamedirs\
 
-固件路径
+固件
 YUZU/user/nand/system/Contents/registered
 
 玩NS游戏需要做的准备：
@@ -1826,9 +1842,6 @@ NS模拟器、游戏ROM、固件、密钥
 YUZU/user/nand/user/save
 (user/nand/user/save/0000000000000000/63C3B824B82A9B98B6818BFD192D43D2
 63C3B824B82A9B98B6818BFD192D43D2目录名字和switch用户信息有关系)
-
-固件
-YUZU/user/nand/system/Contents/registered
 
 密钥
 YUZU/user/keys
@@ -1850,7 +1863,7 @@ OpenGL模式
 无加速快捷键
 
 点击设置闪退
-原因：控制配置里不能保存中文方案
+原因：控制器配置不能保存中文名称
 
 传说之下汉化补丁
 YUZU/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
@@ -1860,20 +1873,25 @@ YUZU/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
 
 YUZU识别不了需要NS固件为20.0+的游戏文件
 
-怒之铁拳4
-八方旅人1
-八方旅人2
-NS存档和PC互相转换，直接复制，改文件名和后缀名
-
+NS和PC存档转换
+1.直接使用
 死亡细胞
 星露谷物语
 血污-月之诅咒1
 血污-月之诅咒2
-NS存档和PC互相转换，直接复制
 
+2.改文件名和文件格式
+怒之铁拳4
+八方旅人1
+八方旅人2
+
+3.使用存档转换工具
 空洞骑士
 尼尔-机械纪元
-NS存档和PC互相转换，使用存档转工具
+
+
+
+
 
 
 ```
