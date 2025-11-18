@@ -712,6 +712,7 @@ FLT
 
 死亡细胞
 Goldberg
+C:\Users\19654\AppData\Roaming\Goldberg SteamEmu Saves\588650\
 ./save
 
 加拿大死亡之路
