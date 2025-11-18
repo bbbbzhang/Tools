@@ -15,7 +15,6 @@ PC
 
 NS
 塞尔达传说-王国之泪
-塞尔达传说-梦见岛
 八方旅人1
 星露谷物语
 尼尔-机械纪元
@@ -97,44 +96,6 @@ Cracks、模拟器、ROMs、Tools
 #### 游戏设备
 
 ```
-3DS破解
-不会，百度
-
-3DS系统升级 
-直接联网升级，不建议汉化系统直接升级
-
-3DS luma
-升级 网上下最新包
-进入 按住select再开机
-
-3DS字库
-下载Chinese_system_install包
-
-3DS 存档导入导出 
-checkpoint
-
-3DS 更换TF卡
-B9S系统 格式化为FAT32 后直接复制
-也可以在DiskGenuis里面克隆分区
-
-3DS CTRtransfer
-自制TF卡升级系统的方式
-CTRTransfer相当于重装系统，用CTRTransfer镜像可覆盖现有的ctrnand
-
-3DS下载安装CIA使用FBI软件
-
-3DS按住start再开机
-进入破解系统选择页
-
-3DS 打开homebrew
-在"下载游戏"应用程序里面按下 L 下 select
-然后选择指定选项
-再次进入
-homebrew系统及软件格式为3dsx
-
-3DS卸载汉化，重新汉化后，桌面游戏图标都没了，的解决办法
-https://tieba.baidu.com/p/847070277
-
 中国供电规格 220V，50HZ，交流电
 
 电源适配器上5v=2A，等号上面是实线下面是虚线，意思是：
@@ -178,6 +139,20 @@ PS5 slim 2009A 国行版，箱说全，原装线
 PS5手柄（3个），PS5自带，PS5 slim自带，PS5pro自带
 XBOX ONE手柄，1709a版，迷彩限定，右摇杆上漂移
 XBOX ONE手柄，1709a版，黑色
+
+ROG掌机
+进不去的游戏
+怪物猎人-崛起
+死亡循环
+
+背键+上 打开键盘
+下 任务管理器
+左 桌面
+长按左侧控制中心 任务管理器
+
+用阿里云盘向不同设备共享小型文件
+
+
 
 
 ```
@@ -1344,6 +1319,48 @@ C:\Users\19654\Documents\My Games\Tactics Ogre Reborn
 C:\Users\19654\Documents\My Games\TRIANGLE_STRATEGY
 
 
+```
+
+#### 3DS
+
+```
+3DS破解
+不会，百度
+
+3DS系统升级 
+直接联网升级，不建议汉化系统直接升级
+
+3DS luma
+升级 网上下最新包
+进入 按住select再开机
+
+3DS字库
+下载Chinese_system_install包
+
+3DS 存档导入导出 
+checkpoint
+
+3DS 更换TF卡
+B9S系统 格式化为FAT32 后直接复制
+也可以在DiskGenuis里面克隆分区
+
+3DS CTRtransfer
+自制TF卡升级系统的方式
+CTRTransfer相当于重装系统，用CTRTransfer镜像可覆盖现有的ctrnand
+
+3DS下载安装CIA使用FBI软件
+
+3DS按住start再开机
+进入破解系统选择页
+
+3DS 打开homebrew
+在"下载游戏"应用程序里面按下 L 下 select
+然后选择指定选项
+再次进入
+homebrew系统及软件格式为3dsx
+
+3DS卸载汉化，重新汉化后，桌面游戏图标都没了，的解决办法
+https://tieba.baidu.com/p/847070277
 ```
 
 #### PSN
