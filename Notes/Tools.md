@@ -1,9 +1,6 @@
 #  临时 
 
 ```
-1
-1
-
 
 
 
@@ -255,9 +252,6 @@ C:\Users\19654\AppData\Local\CrashBandicoot4
 
 古惑狼合集
 C:\Users\19654\AppData\Roaming\Game
-
-赛博朋克2077
-v2.31a
 
 黑暗之魂1 重制版
 C:\Users\19654\Documents\NBGI
