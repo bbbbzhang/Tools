@@ -1,6 +1,9 @@
 #  临时 
 
 ```
+微星笔记本 无 Music Emulators ROMs 文件夹
+红米笔记本 有 Music Emulators ROMs 文件夹
+
 
 
 
