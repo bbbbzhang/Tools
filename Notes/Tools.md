@@ -1531,6 +1531,10 @@ VBA-NEXT，只能运行GBA游戏
 VBA-M即时存档和读档都会闪退，原因应该是某些VBA-M的即时存档文件出错导致的
 玩GBA、GBC、GB，最合适是VBA-M核心
 
+IOS端RA
+VBA-M玩GBC、GB会闪退，用mGBA玩
+Mesen玩FDS 会无法启动
+
 
 ```
 

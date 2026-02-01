@@ -35,8 +35,8 @@
     {
       "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo DS\\Likes NDS ROMs\\Castlevania - Order of Ecclesia (USA) (En,Fr).nds",
       "label": "Castlevania - Order of Ecclesia (USA) (En,Fr)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\desmume_libretro.dll",
-      "core_name": "Nintendo - DS (DeSmuME)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melondsds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },

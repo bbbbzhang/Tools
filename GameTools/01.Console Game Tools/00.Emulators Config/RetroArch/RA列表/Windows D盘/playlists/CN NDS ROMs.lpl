@@ -235,8 +235,8 @@
     {
       "path": "D:\\Tools\\ROMs\\Nintendo - Nintendo DS\\CN NDS ROMs\\恶魔城 被夺的刻印 V3(简)(JP)(ACG汉化组)(512Mb).nds",
       "label": "恶魔城 被夺的刻印 V3(简)(JP)(ACG汉化组)(512Mb)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\desmume_libretro.dll",
-      "core_name": "Nintendo - DS (DeSmuME)",
+      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\melondsds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "CN NDS ROMs.lpl"
     },
