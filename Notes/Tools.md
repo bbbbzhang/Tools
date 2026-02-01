@@ -1525,6 +1525,12 @@ syscard3.pce
 
 使用了BIOS字库的游戏，如果想要正确显示中文，必须让模拟器加载专用BIOS
 
+PC端RA
+mGBA画面错误
+VBA-NEXT，只能运行GBA游戏
+VBA-M即时存档和读档都会闪退，原因应该是某些VBA-M的即时存档文件出错导致的
+玩GBA、GBC、GB，最合适是VBA-M核心
+
 
 ```
 
