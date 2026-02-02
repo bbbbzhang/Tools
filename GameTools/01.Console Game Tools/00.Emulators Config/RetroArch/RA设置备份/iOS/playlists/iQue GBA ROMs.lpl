@@ -1,0 +1,188 @@
+{
+  "version": "1.5",
+  "default_core_path": ":/Frameworks/vbam.libretro.framework",
+  "default_core_name": "Nintendo - Game Boy Advance (VBA-M)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 Famicom Mini Collection[未发售](简)(32Mb).GBA",
+      "label": "神游 Famicom Mini Collection[未发售](简)(32Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 iQue影音中心[未发售](简)(128Mb).gba",
+      "label": "神游 iQue影音中心[未发售](简)(128Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 小神游读书伴侣[未发售](简)(32Mb).gba",
+      "label": "神游 小神游读书伴侣[未发售](简)(32Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 摇摆森喜刚[未发售](简)(64Mb).gba",
+      "label": "神游 摇摆森喜刚[未发售](简)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 斯塔非的传说2[未发售](简)(128Mb).gba",
+      "label": "神游 斯塔非的传说2[未发售](简)(128Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 斯塔非的传说[未发售](简)(64Mb).gba",
+      "label": "神游 斯塔非的传说[未发售](简)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 火纹战记 封印之剑[未发售](简)(128Mb).gba",
+      "label": "神游 火纹战记 封印之剑[未发售](简)(128Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 番茄酱王国大冒险[未发售](简)(64Mb).gba",
+      "label": "神游 番茄酱王国大冒险[未发售](简)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 转转棒[未发售](简)(32Mb).gba",
+      "label": "神游 转转棒[未发售](简)(32Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 转转棒天堂[未发售](简)(64Mb).gba",
+      "label": "神游 转转棒天堂[未发售](简)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 通勤一笔[未发售](简)(32Mb).gba",
+      "label": "神游 通勤一笔[未发售](简)(32Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 陆海空大战[未发售](简)(64Mb).gba",
+      "label": "神游 陆海空大战[未发售](简)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 马力欧与路易吉RPG[未发售](简)(128Mb).gba",
+      "label": "神游 马力欧与路易吉RPG[未发售](简)(128Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游 马力欧卡丁车 超级赛道[未发售](简)(64Mb).gba",
+      "label": "神游 马力欧卡丁车 超级赛道[未发售](简)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游之密特罗德 - 融合[神游](简)(JP)(64Mb).gba",
+      "label": "神游之密特罗德 - 融合[神游](简)(JP)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游之密特罗德 - 零点任务[神游](简)(JP)(64Mb).gba",
+      "label": "神游之密特罗德 - 零点任务[神游](简)(JP)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游之极速零式未来赛车[神游](简)(JP)(32Mb).gba",
+      "label": "神游之极速零式未来赛车[神游](简)(JP)(32Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游之瓦力欧制造[神游](简)(JP)(64Mb).gba",
+      "label": "神游之瓦力欧制造[神游](简)(JP)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游之瓦力欧寻宝记[神游](简)(JP)(64Mb).gba",
+      "label": "神游之瓦力欧寻宝记[神游](简)(JP)(64Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游之耀西岛[神游](简)(JP)(32Mb).gba",
+      "label": "神游之耀西岛[神游](简)(JP)(32Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游之超级马力欧世界[神游](简)(JP)(32Mb).gba",
+      "label": "神游之超级马力欧世界[神游](简)(JP)(32Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/iQue GBA ROMs/神游之超级马里欧2[神游](简)(JP)(32Mb).gba",
+      "label": "神游之超级马里欧2[神游](简)(JP)(32Mb)",
+      "core_path": ":/Frameworks/vbam.libretro.framework",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "iQue GBA ROMs.lpl"
+    }
+  ]
+}
