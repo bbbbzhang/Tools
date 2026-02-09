@@ -625,11 +625,12 @@ RUNE
 v1.131641
 
 空洞骑士
-GOG
+v1.5.78.11833
 C:\Users\19654\AppData\LocalLow\Team Cherry\Hollow Knight
 
 空洞骑士-丝之歌
 FIT
+v1.0.29315
 C:\Users\19654\AppData\LocalLow\Team Cherry\Hollow Knight Silksong
 
 迈阿密热线1

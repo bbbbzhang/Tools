@@ -106,7 +106,7 @@
     },
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdygxlzj.nds",
-      "label": "口袋妖怪(精灵宝可梦) 心灵之金 官译修正版v2.1.0(简)(JP)(ACG汉化组+Xzonn)(1024Mb)",
+      "label": "口袋妖怪(精灵宝可梦) 心灵之金 官译修正版v2.1.1(简)(JP)(ACG汉化组+Xzonn)(1024Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -114,7 +114,7 @@
     },
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdyglhzy.nds",
-      "label": "口袋妖怪(精灵宝可梦) 灵魂之银 官译修正版v2.1.0(简)(JP)(ACG汉化组+Xzonn)(1024Mb)",
+      "label": "口袋妖怪(精灵宝可梦) 灵魂之银 官译修正版v2.1.1(简)(JP)(ACG汉化组+Xzonn)(1024Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -122,7 +122,7 @@
     },
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdygzz.nds",
-      "label": "口袋妖怪(精灵宝可梦) 珍珠 官译修正版v2.1.0(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb)",
+      "label": "口袋妖怪(精灵宝可梦) 珍珠 官译修正版v2.1.1(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -130,7 +130,7 @@
     },
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdygb.nds",
-      "label": "口袋妖怪(精灵宝可梦) 白 重译修正版v2.1(简)(JP)(BW汉化组)(2048Mb)",
+      "label": "口袋妖怪(精灵宝可梦) 白 重译修正版v2.1.5(简)(JP)(BW汉化组)(2048Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -138,7 +138,7 @@
     },
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdygb2.nds",
-      "label": "口袋妖怪(精灵宝可梦) 白2 V5(DSi修复)(JP)(ACG汉化组+口袋群星SP+天涯)(4096Mb)",
+      "label": "口袋妖怪(精灵宝可梦) 白2(V5+DSi增强AP+全文本官译V5)(JP)(ACG汉化组+口袋群星SP+天涯+Desaix)(4096Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -154,7 +154,7 @@
     },
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdygzs.nds",
-      "label": "口袋妖怪(精灵宝可梦) 钻石 官译修正版v2.1.0(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb)",
+      "label": "口袋妖怪(精灵宝可梦) 钻石 官译修正版v2.1.1(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -162,7 +162,7 @@
     },
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdygh.nds",
-      "label": "口袋妖怪(精灵宝可梦) 黑 重译修正版v2.1(简)(JP)(BW汉化组)(2048Mb)",
+      "label": "口袋妖怪(精灵宝可梦) 黑 重译修正版v2.1.5(简)(JP)(BW汉化组)(2048Mb)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -170,7 +170,7 @@
     },
     {
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdygh2.nds",
-      "label": "口袋妖怪(精灵宝可梦) 黑2 V5(DSi修复)(JP)(ACG汉化组+口袋群星SP+天涯)(4096Mb)",
+      "label": "口袋妖怪(精灵宝可梦) 黑2(V5+DSi增强AP+全文本官译V5)(JP)(ACG汉化组+口袋群星SP+天涯+Desaix)(4096Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
       "core_name": "Nintendo - DS (melonDS)",
       "crc32": "DETECT",

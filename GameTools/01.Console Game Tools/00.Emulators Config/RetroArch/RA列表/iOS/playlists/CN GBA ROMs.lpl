@@ -105,8 +105,8 @@
       "db_name": "CN GBA ROMs.lpl"
     },
     {
-      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/恶魔城 - 月之轮回[施珂昱](简)(JP)(64Mb).gba",
-      "label": "恶魔城 - 月之轮回[施珂昱](简)(JP)(64Mb)",
+      "path": "~/Documents/RetroArch/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/恶魔城 - 月之轮回[施珂昱+ASH自由](2024汉化修正版)(简)(JP)(64Mb).gba",
+      "label": "恶魔城 - 月之轮回[施珂昱+ASH自由](2024汉化修正版)(简)(JP)(64Mb)",
       "core_path": ":/Frameworks/vbam.libretro.framework",
       "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
