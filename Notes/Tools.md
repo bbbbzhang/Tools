@@ -1507,11 +1507,14 @@ PPSSPP/memstick/PSP/SYSTEM
 恶魔城-被夺走的刻印 美版 需DeSmuMe或melonDS DS打开
 melonDS均无法打开
 
-IOS RetroArch
+IOS端RA
 用户数据文件放在根目录的RetroArch/RetroArch，
 ROMs放在根目录的RetroArch/RetroArch/ROMs
 PS1模拟器用的是PCSX ReARMed
-缺少记忆列表位置设置
+缺少记忆列表位置的设置
+VBA-M玩GBC、GB会闪退，用mGBA玩
+Mesen玩FDS 会无法启动
+合金弹头3黑屏但有声音
 
 存档格式不对的话，改后缀名
 srm->sav		gba
@@ -1532,9 +1535,29 @@ VBA-NEXT，只能运行GBA游戏
 VBA-M即时存档和读档都会闪退，原因应该是某些VBA-M的即时存档文件出错导致的
 玩GBA、GBC、GB，最合适是VBA-M核心
 
-IOS端RA
-VBA-M玩GBC、GB会闪退，用mGBA玩
-Mesen玩FDS 会无法启动
+NS的RA
+在官网下新包
+使用nro forward工具，创建nro的快捷方式nsp，安装nsp
+还需要核心BIOS、RA配置、列表、游戏存档、游戏ROM
+运行流畅
+Arcade GBA GBC GB SNES NES FDS MD
+PS1 NGP
+可运行轻量游戏
+PSP、N64
+运行不流畅
+NDS、SS、DC核心反应慢
+运行不了
+PS2、NGC、WII、3DS
+NDS有单独的MelonDS模拟器，运行流畅
+
+安卓掌机能玩什么
+Arcade GBA GBC GB SNES NES FDS MD
+PS1 NGP
+PSP、N64
+NDS、SS、DC
+PS2、3DS、WIIU
+部分NS、PC、NGC、WII
+安卓游戏
 
 
 ```
