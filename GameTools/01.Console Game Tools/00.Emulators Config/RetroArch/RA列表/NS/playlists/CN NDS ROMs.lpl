@@ -1,7 +1,7 @@
 {
   "version": "1.5",
   "default_core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-  "default_core_name": "Nintendo - DS (melonDS)",
+  "default_core_name": "Nintendo - DS (melonDS DS)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,
@@ -12,7 +12,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/qrsm.nds",
       "label": "七日死 目(JP)(ACG&小黑屋汉化组)(512Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -76,7 +76,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/yzdel4.nds",
       "label": "勇者斗恶龙4 被引导的人们 完美汉化典藏版(JP)(NdsBBS汉化组&天幻网)(1024Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -172,7 +172,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/kdygh2.nds",
       "label": "口袋妖怪(精灵宝可梦) 黑2(V5+DSi增强AP+全文本官译V5)(JP)(ACG汉化组+口袋群星SP+天涯+Desaix)(4096Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -180,7 +180,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/sedcsdddqd.nds",
       "label": "塞尔达传说 大地的汽笛(简)1.1(US)(FCU汉化组和兔友汉化组)(1024Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -228,7 +228,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/emccydszj.nds",
       "label": "恶魔城 苍月的十字架(简)(JP)(shikeyu)(512Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -324,7 +324,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/lkrzxa.nds",
       "label": "洛克人ZX降临(Advent) 完全汉化版v1.14(JP)(简)(李田所汉化组)(512Mb)(原版+补丁)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -372,7 +372,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/cskzl.nds",
       "label": "超时空之轮V4(简)(JP)(有爱人士)(1024Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -420,7 +420,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS CN NDS ROMs/hjtyqhdlm.nds",
       "label": "黄金太阳 漆黑的黎明 1.1(JP)(ACG汉化组)(-2048Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     }

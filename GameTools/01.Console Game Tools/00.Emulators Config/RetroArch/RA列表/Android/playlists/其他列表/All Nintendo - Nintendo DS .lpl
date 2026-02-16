@@ -1,7 +1,7 @@
 {
   "version": "1.5",
-  "default_core_path": "D:/Tools/Emulators/RetroArch/cores/melonds_libretro.dll",
-  "default_core_name": "Nintendo - DS (melonDS)",
+  "default_core_path": "D:/Tools/Emulators/RetroArch/cores/melondsds_libretro.dll",
+  "default_core_name": "Nintendo - DS (melonDS DS)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,
@@ -11,7 +11,7 @@
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/Nintendo - Nintendo DS/ROMs/0001-1000/'Chou' Kowai Hanashi DS - Ao no Shou (Japan).nds",
       "label": "'Chou' Kowai Hanashi DS - Ao no Shou (Japan)",
       "core_path": "DETECT",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "01.lpl"
     },
@@ -274,8 +274,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/Nintendo - Nintendo DS/ROMs/0001-1000/101 in 1 Explosive Megamix (USA) (En,Fr,Es).nds",
       "label": "101 in 1 Explosive Megamix (USA) (En,Fr,Es)",
-      "core_path": "D:/Emulators/RetroArch/cores/melonds_libretro.dll",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_path": "D:/Emulators/RetroArch/cores/melondsds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "01.lpl"
     },
@@ -402,8 +402,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/Nintendo - Nintendo DS/ROMs/0001-1000/1500 DS Spirits Vol. 4 - Reversi (Japan).nds",
       "label": "1500 DS Spirits Vol. 4 - Reversi (Japan)",
-      "core_path": "D:/Emulators/RetroArch/cores/melonds_libretro.dll",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_path": "D:/Emulators/RetroArch/cores/melondsds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "01.lpl"
     },
@@ -32947,7 +32947,7 @@
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/Nintendo - Nintendo DS/ROMs/4001-5000/Moon (USA).nds",
       "label": "Moon (USA)",
       "core_path": "DETECT",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "45.lpl"
     },
@@ -58394,8 +58394,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/Nintendo - Nintendo DS/ROMs/7001-7299/Zunou Nouryoku Koujou Machine - Touch de Zunoo DS (Japan).nds",
       "label": "Zunou Nouryoku Koujou Machine - Touch de Zunoo DS (Japan)",
-      "core_path": "D:/Emulators/RetroArch/cores/melonds_libretro.dll",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_path": "D:/Emulators/RetroArch/cores/melondsds_libretro.dll",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "7--.lpl"
     }

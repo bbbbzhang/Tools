@@ -1,7 +1,7 @@
 {
   "version": "1.5",
   "default_core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-  "default_core_name": "Nintendo - DS (melonDS)",
+  "default_core_name": "Nintendo - DS (melonDS DS)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,
@@ -12,7 +12,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/NS iQue NDS ROMs/syrtgg.nds",
       "label": "神游 - 任天狗狗(神游)(官方简中)(256Mb)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },

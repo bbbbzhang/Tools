@@ -1,10 +1,7 @@
 #  临时 
 
 ```
-微星笔记本 无 Music Emulators ROMs 文件夹
-红米笔记本 有 Music Emulators ROMs 文件夹
-
-
+RPCS3 Eden 瘦身
 
 
 ```
@@ -1280,18 +1277,18 @@ TF卡要格式化成FAT32
 
 ```
 删除游戏时
-Cemu、Citra、Dolphin、PPSSPP、RPCS3、YUZU 均删除本体、更新、DLC
+Cemu、Citra、Dolphin、PPSSPP、RPCS3、Eden 均删除本体、更新、DLC
 
 便携版
 Citra  添加 user 文件夹后，模拟器的配置可以放在模拟器应用程序的路径里面
 Dolphin  添加 portable.txt 文件后，模拟器的配置可以放在模拟器应用程序的路径里面
 DuckStation  添加 portable.txt 文件后，模拟器的配置可以放在模拟器应用程序的路径里面
-Cemu、PCSX2、PPSSPP、RetroArch、RPCS3、YUZU  本来就是便携版
+Cemu、PCSX2、PPSSPP、RetroArch、RPCS3、Eden  本来就是便携版
 Blastem  非便携版
 
 即时存档
 Citra、PPSSPP、PCSX2  即时存档易出错
-Cemu、RPCS3、YUZU、Blastem  无即时存档
+Cemu、RPCS3、Eden、Blastem  无即时存档
 Dolphin、DuckStation、RetroArch  使用体验良好
 
 频繁更新
@@ -1381,6 +1378,8 @@ DQ8汉化版字幕存放位置
 3-2、模拟器将压缩包里的00040000000CF500文件夹解压到mods文件夹下
 2023.6.21 湮没骑士の镇魂歌
 
+Citra mmj模拟器
+2025.10.13，玩家用钞能力请模拟器的作者重新修改，看出来这个模拟器受众很广泛，很多玩家都喜欢。虽然我没将其和其他模拟器的运行效果进行对比，但是根据这件事情，推断出它的运行效果应该很好，难以被替代。
 
 
 ```
@@ -1623,35 +1622,35 @@ RPCS3/dev_hdd1/caches
 
 ```
 
-##### YUZU
+##### Eden
 
 ```
 配置路径
-YUZU/user/config
+Eden/user/config
 
 游戏目录设置
-YUZU/user/config/qt-config.ini  ->  Paths\gamedirs\
+Eden/user/config/qt-config.ini  ->  Paths\gamedirs\
 
 固件
-YUZU/user/nand/system/Contents/registered
+Eden/user/nand/system/Contents/registered
 
 玩NS游戏需要做的准备：
 NS模拟器、游戏ROM、固件、密钥
 未安装固件虽然可以进入游戏，但游戏可能不显示文字
 
 存档
-YUZU/user/nand/user/save
+Eden/user/nand/user/save
 (user/nand/user/save/0000000000000000/63C3B824B82A9B98B6818BFD192D43D2
 63C3B824B82A9B98B6818BFD192D43D2目录名字和switch用户信息有关系)
 
 密钥
-YUZU/user/keys
+Eden/user/keys
 
 更新、DLC
-YUZU/user/nand/user/Contents/registered
+Eden/user/nand/user/Contents/registered
 
 汉化补丁
-YUZU/user/sdmc/atmosphere/contents
+Eden/user/sdmc/atmosphere/contents
 
 不要设置抗锯齿
  
@@ -1667,7 +1666,7 @@ OpenGL模式
 原因：控制器配置不能保存中文名称
 
 传说之下汉化补丁
-YUZU/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
+Eden/user/sdmc/atmosphere/contents/010080B00AD66000/romfs
 
 勇者斗恶龙1&2重制版
 安装完DLC 2、4、5，便无法进入游戏，模拟器和实机都是

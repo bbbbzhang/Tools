@@ -1,7 +1,7 @@
 {
   "version": "1.5",
   "default_core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-  "default_core_name": "Nintendo - DS (melonDS)",
+  "default_core_name": "Nintendo - DS (melonDS DS)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,
@@ -68,7 +68,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/Likes NDS ROMs/Contra 4 (USA).nds",
       "label": "Contra 4 (USA)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -380,7 +380,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/Likes NDS ROMs/Metal Slug 7 (USA).nds",
       "label": "Metal Slug 7 (USA)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -444,7 +444,7 @@
       "path": "/ROMs/Nintendo - Nintendo DS/Likes NDS ROMs/New Super Mario Bros. (USA).nds",
       "label": "New Super Mario Bros. (USA)",
       "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
-      "core_name": "Nintendo - DS (melonDS)",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
