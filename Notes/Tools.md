@@ -1273,6 +1273,22 @@ TF卡要格式化成FAT32
 
 ```
 
+#### 安卓掌机
+
+```
+安卓掌机能玩什么
+Arcade GBA GBC GB SNES NES FDS MD PS1 NGP
+PSP N64 NDS SS DC PS2 3DS WIIU
+安卓游戏
+
+不建议玩 NS、PS3、PS4、PC
+
+
+
+```
+
+
+
 #### Emulator
 
 ```
@@ -1501,19 +1517,11 @@ PPSSPP/memstick/PSP/SYSTEM
 PPSSPP模拟器的系统文件夹里面的重要文件夹
 RetroArch/saves/PSP/SYSTEM
 PPSSPP/memstick/PSP/SYSTEM
+PPSSPP/memstick/PSP/GAME
 
 恶魔城-被夺走的刻印 汉化版 需melonDS DS打开
 恶魔城-被夺走的刻印 美版 需DeSmuMe或melonDS DS打开
 melonDS均无法打开
-
-IOS端RA
-用户数据文件放在根目录的RetroArch/RetroArch，
-ROMs放在根目录的RetroArch/RetroArch/ROMs
-PS1模拟器用的是PCSX ReARMed
-缺少记忆列表位置的设置
-VBA-M玩GBC、GB会闪退，用mGBA玩
-Mesen玩FDS 会无法启动
-合金弹头3黑屏但有声音
 
 存档格式不对的话，改后缀名
 srm->sav		gba
@@ -1527,6 +1535,15 @@ PCE模拟器的bios
 syscard3.pce
 
 使用了BIOS字库的游戏，如果想要正确显示中文，必须让模拟器加载专用BIOS
+
+IOS端RA
+用户数据文件放在根目录的RetroArch/RetroArch，
+ROMs放在根目录的RetroArch/RetroArch/ROMs
+PS1模拟器用的是PCSX ReARMed
+缺少记忆列表位置的设置
+VBA-M玩GBC、GB会闪退，用mGBA玩
+Mesen玩FDS 会无法启动
+合金弹头3黑屏但有声音
 
 PC端RA
 mGBA画面错误
@@ -1547,16 +1564,8 @@ PSP、N64
 NDS、SS、DC核心反应慢
 运行不了
 PS2、NGC、WII、3DS
-NDS有单独的MelonDS模拟器，运行流畅
+(NDS有单独的MelonDS模拟器，运行流畅)
 
-安卓掌机能玩什么
-Arcade GBA GBC GB SNES NES FDS MD
-PS1 NGP
-PSP、N64
-NDS、SS、DC
-PS2、3DS、WIIU
-部分NS、PC、NGC、WII
-安卓游戏
 
 
 ```
