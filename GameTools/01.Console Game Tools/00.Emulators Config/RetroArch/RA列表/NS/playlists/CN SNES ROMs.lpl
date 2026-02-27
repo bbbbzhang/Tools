@@ -1,20 +1,13 @@
 {
-  "version": "1.5",
-  "default_core_path": "/retroarch/cores/snes9x_libretro_libnx.nro",
-  "default_core_name": "Nintendo - SNES / SFC (Snes9x)",
-  "label_display_mode": 0,
-  "right_thumbnail_mode": 0,
-  "left_thumbnail_mode": 0,
-  "thumbnail_match_mode": 0,
-  "sort_mode": 0,
+  "version": "1.0",
   "items": [
     {
       "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/tdcz.sfc",
       "label": "天地创造 MSU-1版(简)(v2.00花屏文字修正)(Necrosaro+hlken)(32Mb)",
       "core_path": "/retroarch/cores/snes9x_libretro_libnx.nro",
-      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "core_name": "Snes9x",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+      "db_name": "CN SNES ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/twmj.sfc",
@@ -22,15 +15,15 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+      "db_name": "CN SNES ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/llrdbzdbs.smc",
       "label": "旅梦人 盗不走的宝石 (简)(32Mb)",
       "core_path": "/retroarch/cores/snes9x_libretro_libnx.nro",
-      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "core_name": "Snes9x",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+      "db_name": "CN SNES ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/zzjbr.smc",
@@ -38,7 +31,39 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/hywzdlj.smc",
+      "label": "火焰纹章 - 多拉基亚776(简)(v1.01+实机菜单修复+标点修复)(狼组+hiken+willzyj)(32Mb)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/hywzszxp.sfc",
+      "label": "火焰纹章 - 圣战系谱 (简) (v1.1)(火花天龙剑)(32Mb)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/hywzwzzm.sfc",
+      "label": "火焰纹章 - 纹章之谜(简)(v1.03乱码修复)(狼组+飞雨影)(24Mb)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Super Nintendo Entertainment System/NS CN SNES ROMs/lmsj.sfc",
+      "label": "浪漫沙加3 (简) (v1.01)(Werther等)(32Mb)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
     }
   ]
 }

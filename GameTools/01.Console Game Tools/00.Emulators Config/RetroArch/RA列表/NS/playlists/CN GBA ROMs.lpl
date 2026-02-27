@@ -1,20 +1,13 @@
 {
-  "version": "1.5",
-  "default_core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-  "default_core_name": "Nintendo - Game Boy Advance (VBA-M)",
-  "label_display_mode": 0,
-  "right_thumbnail_mode": 0,
-  "left_thumbnail_mode": 0,
-  "thumbnail_match_mode": 0,
-  "sort_mode": 0,
+  "version": "1.0",
   "items": [
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/kdygyl.gba",
       "label": "口袋妖怪 - 叶绿[口袋群星SP+洛水惊鸿](2024官译修正v20241109)(简)(US)(128Mb)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/kdyghh.gba",
@@ -22,7 +15,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/kdyghbs.gba",
@@ -30,15 +23,15 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/kdyglvbs.gba",
       "label": "口袋妖怪 - 绿宝石[漫游+TGB+口袋群星SP+洛水惊鸿](2024官译修正v20241109)(简)(US)(128Mb)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/kdyglanbs.gba",
@@ -46,7 +39,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/dqmx12.gba",
@@ -54,15 +47,15 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/dqmx2.gba",
       "label": "地球冒险2(2025汉化版 合集中提取)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/dqmx3.gba",
@@ -70,15 +63,15 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/sedcsssm.gba",
       "label": "塞尔达传说 - 缩小帽[天使汉化组](日汉最终版v2005SP4)(简)(JP)(128Mb)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/sedcsgqdlk.gba",
@@ -86,7 +79,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/hggxx.gba",
@@ -94,31 +87,31 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/emcxyywq.gba",
       "label": "恶魔城 - 晓月圆舞曲[九柳](简)(JP)(64Mb)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/emcyzlh.gba",
       "label": "恶魔城 - 月之轮回[施珂昱+ASH自由](2024汉化修正版)(简)(JP)(64Mb)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/emcbyxzq.gba",
       "label": "恶魔城 - 白夜协奏曲[施珂昱](简)(JP)(64Mb)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/zzhx12.gba",
@@ -126,7 +119,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/zzhx4.gba",
@@ -134,7 +127,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/zzhx5.gba",
@@ -142,7 +135,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/zzhx6.gba",
@@ -150,7 +143,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/zzhxzzba.gba",
@@ -158,23 +151,23 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/lkrz1.gba",
       "label": "洛克人Zero 1[零组](简)(UE)(64Mb)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/lkrz2.gba",
       "label": "洛克人Zero 2[Shuo_chen](简)(US)(64Mb)",
       "core_path": "/retroarch/cores/vbam_libretro_libnx.nro",
-      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "core_name": "VBA-M",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/lkrz3.gba",
@@ -182,7 +175,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/lkrz4.gba",
@@ -190,7 +183,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/mlalyjrpg.gba",
@@ -198,7 +191,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/hjtysldsd.gba",
@@ -206,7 +199,7 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
     },
     {
       "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/hjdykqdfy.gba",
@@ -214,7 +207,47 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
-      "db_name": "Nintendo - Game Boy Advance.lpl"
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/hjqst.gba",
+      "label": "皇家骑士团 - 劳德思的骑士[银手大官人](v1.1)[简](JP)(128Mb)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/hywzfyzj.gba",
+      "label": "火焰纹章 - 封印之剑(狼组+火花天龙剑)v1.1+2006090701版+64.00",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/hywzlhzj.gba",
+      "label": "火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix)(简)(JP)(128Mb)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/hywzsmzgs.gba",
+      "label": "火焰纹章 - 圣魔之光石[狼组&火花天龙剑](简)(JP)(128Mb)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/ROMs/Nintendo - Game Boy Advance/NS CN GBA ROMs/xysjcs.gba",
+      "label": "新约圣剑传说[勇者汉化组&狼组&天使汉化组](简)(JP)(128Mb)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
     }
   ]
 }

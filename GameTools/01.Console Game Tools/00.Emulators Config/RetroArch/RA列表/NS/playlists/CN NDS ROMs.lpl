@@ -423,6 +423,22 @@
       "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/hywzxahlygzj.nds",
+      "label": "火焰纹章 - 新暗黑龙与光之剑(JP)(ACG汉化组)(512Mb)",
+      "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/hywzwzzmgyydyx.nds",
+      "label": "火焰纹章 - 新纹章之谜 光与影的英雄(JP)(ACG汉化组)(1024Mb)",
+      "core_path": "/retroarch/cores/melonds_libretro_libnx.nro",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
     }
   ]
 }
