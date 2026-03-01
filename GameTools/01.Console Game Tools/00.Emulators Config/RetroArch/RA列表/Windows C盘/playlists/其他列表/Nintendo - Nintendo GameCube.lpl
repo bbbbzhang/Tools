@@ -1,6 +1,6 @@
 {
   "version": "1.5",
-  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+  "default_core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
   "default_core_name": "Nintendo - GameCube / Wii (Dolphin)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
@@ -11,7 +11,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Beyond Good & Evil (USA) (En,Es).iso",
       "label": "Beyond Good & Evil (USA) (En,Es)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"
@@ -19,7 +19,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Crash Nitro Kart (USA).iso",
       "label": "Crash Nitro Kart (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"
@@ -67,7 +67,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Legend of Zelda, The - The Wind Waker (USA).iso",
       "label": "Legend of Zelda, The - The Wind Waker (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"
@@ -75,7 +75,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Legend of Zelda, The - Twilight Princess (USA).iso",
       "label": "Legend of Zelda, The - Twilight Princess (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"
@@ -107,7 +107,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Metal Gear Solid - The Twin Snakes (USA) (Disc 1).iso",
       "label": "Metal Gear Solid - The Twin Snakes (USA) (Disc 1)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"
@@ -123,7 +123,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Metroid Prime (USA) (v1.02).iso",
       "label": "Metroid Prime (USA) (v1.02)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"
@@ -219,7 +219,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Resident Evil 4 (USA) (Disc 1).iso",
       "label": "Resident Evil 4 (USA) (Disc 1)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"
@@ -307,7 +307,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Super Smash Bros. Melee (USA) (En,Ja) (v1.02).iso",
       "label": "Super Smash Bros. Melee (USA) (En,Ja) (v1.02)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"
@@ -323,7 +323,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Nintendo - Nintendo GameCube\\Likes NGC ROMs\\Viewtiful Joe - Red Hot Rumble (USA).iso",
       "label": "Viewtiful Joe - Red Hot Rumble (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\dolphin_libretro.dll",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo GameCube.lpl"

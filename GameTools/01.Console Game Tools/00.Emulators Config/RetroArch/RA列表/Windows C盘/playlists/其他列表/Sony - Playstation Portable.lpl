@@ -1,6 +1,6 @@
 {
   "version": "1.5",
-  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+  "default_core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
   "default_core_name": "Sony - PlayStation Portable (PPSSPP)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
@@ -11,7 +11,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\3rd Birthday, The (USA).iso",
       "label": "3rd Birthday, The (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
@@ -19,7 +19,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Castlevania - The Dracula X Chronicles (Konami)(USA).iso",
       "label": "Castlevania - The Dracula X Chronicles (Konami)(USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
@@ -51,7 +51,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Darkstalkers Chronicle - The Chaos Tower (Capcom)(USA).iso",
       "label": "Darkstalkers Chronicle - The Chaos Tower (Capcom)(USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
@@ -83,7 +83,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Final Fantasy (Square Enix)(US).iso",
       "label": "Final Fantasy (Square Enix)(US)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
@@ -147,7 +147,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\God of War - Ghost of Sparta (Asia) (En,Zh).iso",
       "label": "God of War - Ghost of Sparta (Asia) (En,Zh)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
@@ -155,7 +155,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Goku Makaimura Kai (Japan).iso",
       "label": "Goku Makaimura Kai (Japan)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
@@ -171,7 +171,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v1.05).iso",
       "label": "Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v1.05)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
@@ -243,7 +243,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Metal Slug XX (USA) (v1.01).iso",
       "label": "Metal Slug XX (USA) (v1.01)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"
@@ -291,7 +291,7 @@
     {
       "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Sony - Playstation Portable\\Likes PSP ROMs\\Street Fighter Alpha 3 MAX (Capcom)(USA).iso",
       "label": "Street Fighter Alpha 3 MAX (Capcom)(USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\ppsspp_libretro.dll",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "DETECT",
       "db_name": "Sony - Playstation Portable.lpl"

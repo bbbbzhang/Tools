@@ -1,6 +1,6 @@
 {
   "version": "1.5",
-  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
+  "default_core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
   "default_core_name": "Nintendo - 3DS (Citra)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
@@ -11,7 +11,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo 3DS\\Likes N3DS ROMs\\CCI\\Bravely Default (USA)(M6).cci",
       "label": "Bravely Default (USA)(M6)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
       "core_name": "Nintendo - 3DS (Citra)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo 3DS.lpl"
@@ -19,7 +19,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo 3DS\\Likes N3DS ROMs\\CCI\\Bravely Second – End Layer (USA).cci",
       "label": "Bravely Second – End Layer (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
       "core_name": "Nintendo - 3DS (Citra)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo 3DS.lpl"
@@ -27,7 +27,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo 3DS\\Likes N3DS ROMs\\CCI\\Cave Story 3D (USA).cci",
       "label": "Cave Story 3D (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
       "core_name": "Nintendo - 3DS (Citra)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo 3DS.lpl"
@@ -379,7 +379,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo 3DS\\Likes N3DS ROMs\\CCI\\Shinobi (USA)(M3).cci",
       "label": "Shinobi (USA)(M3)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
       "core_name": "Nintendo - 3DS (Citra)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo 3DS.lpl"
@@ -403,7 +403,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo 3DS\\Likes N3DS ROMs\\CCI\\Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 10).cci",
       "label": "Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 10)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
       "core_name": "Nintendo - 3DS (Citra)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo 3DS.lpl"
@@ -411,7 +411,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Nintendo - Nintendo 3DS\\Likes N3DS ROMs\\CCI\\Yoshi's New Island (USA)(M3).cci",
       "label": "Yoshi's New Island (USA)(M3)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\citra_libretro.dll",
       "core_name": "Nintendo - 3DS (Citra)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo 3DS.lpl"

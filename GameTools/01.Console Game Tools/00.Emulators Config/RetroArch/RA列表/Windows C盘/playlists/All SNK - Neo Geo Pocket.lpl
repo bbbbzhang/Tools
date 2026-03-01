@@ -1,0 +1,92 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\mednafen_ngp_libretro.dll",
+  "default_core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp",
+      "label": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)",
+      "core_path": "C:\\Users\\19654\\Documents\\Tools\\Emulators\\RetroArch\\cores\\mednafen_ngp_libretro.dll",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp",
+      "label": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo).ngp",
+      "label": "King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\Melon-chan no Seichou Nikki (Japan).ngp",
+      "label": "Melon-chan no Seichou Nikki (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\Neo Cherry Master - Real Casino Series (Japan) (En,Ja).ngp",
+      "label": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp",
+      "label": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp",
+      "label": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\Renketsu Puzzle Tsunagete Pon! (Japan).ngp",
+      "label": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp",
+      "label": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "C:\\Users\\19654\\Documents\\Tools\\ROMs\\Z NO-INTRO\\SNK - Neo Geo Pocket\\ROMs\\Shougi no Tatsujin (Japan).ngp",
+      "label": "Shougi no Tatsujin (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket.lpl"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.5",
-  "default_core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+  "default_core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
   "default_core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
@@ -10,7 +10,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Sega - Mega Drive - Genesis\\ROMs\\007 Shitou - The Duel (Japan).md",
       "label": "007 Shitou - The Duel (Japan)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
       "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"
@@ -3658,7 +3658,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Sega - Mega Drive - Genesis\\ROMs\\Contra - Hard Corps (USA, Korea).md",
       "label": "Contra - Hard Corps (USA, Korea)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
       "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"
@@ -3666,7 +3666,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Sega - Mega Drive - Genesis\\ROMs\\Contra - The Hard Corps (Japan).md",
       "label": "Contra - The Hard Corps (Japan)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
       "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"
@@ -19498,7 +19498,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Sega - Mega Drive - Genesis\\ROMs\\World Heroes (USA).md",
       "label": "World Heroes (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
       "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"
@@ -20554,7 +20554,7 @@
     {
       "path": "E:\\Tools\\ROMs\\Z NO-INTRO\\Sega - Mega Drive - Genesis\\ROMs\\Zoop (USA).md",
       "label": "Zoop (USA)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
       "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "DETECT",
       "db_name": "Sega - Mega Drive - Genesis.lpl"

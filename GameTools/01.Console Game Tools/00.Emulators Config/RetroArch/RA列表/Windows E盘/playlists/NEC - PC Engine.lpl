@@ -11,7 +11,7 @@
     {
       "path": "E:\\Tools\\ROMs\\NEC - PC Engine\\Likes PCE ROMs\\Akumajou Dracula X - Chi no Rondo (Japan)\\Akumajou Dracula X - Chi no Rondo (Japan).cue",
       "label": "Akumajou Dracula X - Chi no Rondo (Japan)",
-      "core_path": "D:\\Tools\\Emulators\\RetroArch\\cores\\mednafen_supergrafx_libretro.dll",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\mednafen_supergrafx_libretro.dll",
       "core_name": "NEC - PC Engine SuperGrafx (Beetle SuperGrafx)",
       "crc32": "DETECT",
       "db_name": "NEC - PC Engine.lpl"
