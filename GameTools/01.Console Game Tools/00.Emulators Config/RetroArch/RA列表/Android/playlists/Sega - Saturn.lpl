@@ -19,8 +19,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Sega - Saturn/Likes SS ROMs/Radiant Silvergun (Japan)/Radiant Silvergun (Japan).cue",
       "label": "Radiant Silvergun (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/yabasanshiro_libretro_android.so",
+      "core_name": "Sega - Saturn (YabaSanshiro)",
       "crc32": "DETECT",
       "db_name": "Sega - Saturn.lpl"
     }

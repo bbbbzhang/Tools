@@ -1,5 +1,12 @@
 {
-  "version": "1.0",
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
   "items": [
     {
       "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/口袋妖怪 - 叶绿[口袋群星SP+洛水惊鸿](2024官译修正v20241109)(简)(US)(128Mb).gba",
@@ -66,16 +73,8 @@
       "db_name": "CN GBA ROMs.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/好狗狗星系(星际好狗)(v1.3)(官中)(简)(256Mb).gba",
-      "label": "好狗狗星系(星际好狗)(v1.3)(官中)(简)(256Mb)",
-      "core_path": "D:/Tools/Emulators/RetroArch/cores/vbam_libretro.dll",
-      "core_name": "VBA-M",
-      "crc32": "DETECT",
-      "db_name": "CN GBA ROMs.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/马里奥&路易基RPG[漫游](简)(JP)(128Mb).gba",
-      "label": "马里奥&路易基RPG[漫游](简)(JP)(128Mb)",
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/塞尔达传说 - 缩小帽[天使汉化组](日汉最终版v2005SP4)(简)(JP)(128Mb).gba",
+      "label": "塞尔达传说 - 缩小帽[天使汉化组](日汉最终版v2005SP4)(简)(JP)(128Mb)",
       "core_path": "D:/Tools/Emulators/RetroArch/cores/vbam_libretro.dll",
       "core_name": "VBA-M",
       "crc32": "DETECT",
@@ -90,8 +89,8 @@
       "db_name": "CN GBA ROMs.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/塞尔达传说 - 缩小帽[天使汉化组](日汉最终版v2005SP4)(简)(JP)(128Mb).gba",
-      "label": "塞尔达传说 - 缩小帽[天使汉化组](日汉最终版v2005SP4)(简)(JP)(128Mb)",
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/好狗狗星系(星际好狗)(v1.3)(官中)(简)(256Mb).gba",
+      "label": "好狗狗星系(星际好狗)(v1.3)(官中)(简)(256Mb)",
       "core_path": "D:/Tools/Emulators/RetroArch/cores/vbam_libretro.dll",
       "core_name": "VBA-M",
       "crc32": "DETECT",
@@ -118,6 +117,14 @@
       "label": "恶魔城 - 白夜协奏曲[施珂昱](简)(JP)(64Mb)",
       "core_path": "D:/Tools/Emulators/RetroArch/cores/vbam_libretro.dll",
       "core_name": "VBA-M",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/新约圣剑传说[勇者汉化组&狼组&天使汉化组](简)(JP)(128Mb).gba",
+      "label": "新约圣剑传说[勇者汉化组&狼组&天使汉化组](简)(JP)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
       "crc32": "DETECT",
       "db_name": "CN GBA ROMs.lpl"
     },
@@ -194,6 +201,46 @@
       "db_name": "CN GBA ROMs.lpl"
     },
     {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 圣魔之光石[狼组&火花天龙剑](简)(JP)(128Mb).gba",
+      "label": "火焰纹章 - 圣魔之光石[狼组&火花天龙剑](简)(JP)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 封印之剑(狼组+火花天龙剑)v1.1+2006090701版+64.00.gba",
+      "label": "火焰纹章 - 封印之剑(狼组+火花天龙剑)v1.1+2006090701版+64.00",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix)(简)(JP)(128Mb).gba",
+      "label": "火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix)(简)(JP)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/皇家骑士团 - 劳德思的骑士[银手大官人](v1.1)[简](JP)(128Mb).gba",
+      "label": "皇家骑士团 - 劳德思的骑士[银手大官人](v1.1)[简](JP)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/马里奥&路易基RPG[漫游](简)(JP)(128Mb).gba",
+      "label": "马里奥&路易基RPG[漫游](简)(JP)(128Mb)",
+      "core_path": "D:/Tools/Emulators/RetroArch/cores/vbam_libretro.dll",
+      "core_name": "VBA-M",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
       "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/黄金太阳 - 失落的时代[Mobile&Elffinal](简)(UE)(128Mb).gba",
       "label": "黄金太阳 - 失落的时代[Mobile&Elffinal](简)(UE)(128Mb)",
       "core_path": "D:/Tools/Emulators/RetroArch/cores/vbam_libretro.dll",
@@ -206,46 +253,6 @@
       "label": "黄金太阳 - 开启的封印[a_nderw+Hambaka](2024新汉化版公测版)(简)(JP)(88Mb)",
       "core_path": "D:/Tools/Emulators/RetroArch/cores/vbam_libretro.dll",
       "core_name": "VBA-M",
-      "crc32": "DETECT",
-      "db_name": "CN GBA ROMs.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/皇家骑士团 - 劳德思的骑士[银手大官人](v1.1)[简](JP)(128Mb).gba",
-      "label": "皇家骑士团 - 劳德思的骑士[银手大官人](v1.1)[简](JP)(128Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DETECT",
-      "db_name": "CN GBA ROMs.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 圣魔之光石[狼组&火花天龙剑](简)(JP)(128Mb).gba",
-      "label": "火焰纹章 - 圣魔之光石[狼组&火花天龙剑](简)(JP)(128Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DETECT",
-      "db_name": "CN GBA ROMs.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 封印之剑(狼组+火花天龙剑)v1.1+2006090701版+64.00.gba",
-      "label": "火焰纹章 - 封印之剑(狼组+火花天龙剑)v1.1+2006090701版+64.00",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DETECT",
-      "db_name": "CN GBA ROMs.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix)(简)(JP)(128Mb).gba",
-      "label": "火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix)(简)(JP)(128Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DETECT",
-      "db_name": "CN GBA ROMs.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/新约圣剑传说[勇者汉化组&狼组&天使汉化组](简)(JP)(128Mb).gba",
-      "label": "新约圣剑传说[勇者汉化组&狼组&天使汉化组](简)(JP)(128Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "CN GBA ROMs.lpl"
     }

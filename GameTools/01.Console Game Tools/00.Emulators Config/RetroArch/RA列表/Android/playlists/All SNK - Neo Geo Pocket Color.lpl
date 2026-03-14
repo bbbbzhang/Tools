@@ -1,7 +1,7 @@
 {
   "version": "1.5",
-  "default_core_path": "DETECT",
-  "default_core_name": "DETECT",
+  "default_core_path": "/data/user/0/com.retroarch.aarch64/cores/mednafen_ngp_libretro_android.so",
+  "default_core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,
@@ -11,8 +11,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc",
       "label": "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mednafen_ngp_libretro_android.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
@@ -41,16 +41,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Biomotor Unitron (Japan) (Demo).ngc",
-      "label": "Biomotor Unitron (Japan) (Demo)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Biomotor Unitron (Japan).ngc",
+      "label": "Biomotor Unitron (Japan)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Biomotor Unitron (Japan).ngc",
-      "label": "Biomotor Unitron (Japan)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Biomotor Unitron (Japan) (Demo).ngc",
+      "label": "Biomotor Unitron (Japan) (Demo)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -65,16 +65,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Bust-A-Move Pocket (USA) (Beta).ngc",
-      "label": "Bust-A-Move Pocket (USA) (Beta)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Bust-A-Move Pocket (USA).ngc",
+      "label": "Bust-A-Move Pocket (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Bust-A-Move Pocket (USA).ngc",
-      "label": "Bust-A-Move Pocket (USA)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Bust-A-Move Pocket (USA) (Beta).ngc",
+      "label": "Bust-A-Move Pocket (USA) (Beta)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -145,16 +145,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Densha de Go! 2 on Neo Geo Pocket (Japan) (Demo).ngc",
-      "label": "Densha de Go! 2 on Neo Geo Pocket (Japan) (Demo)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Densha de Go! 2 on Neo Geo Pocket (Japan).ngc",
+      "label": "Densha de Go! 2 on Neo Geo Pocket (Japan)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Densha de Go! 2 on Neo Geo Pocket (Japan).ngc",
-      "label": "Densha de Go! 2 on Neo Geo Pocket (Japan)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Densha de Go! 2 on Neo Geo Pocket (Japan) (Demo).ngc",
+      "label": "Densha de Go! 2 on Neo Geo Pocket (Japan) (Demo)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -169,16 +169,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Dive Alert - Burn Hen (Japan) (Beta).ngc",
-      "label": "Dive Alert - Burn Hen (Japan) (Beta)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Dive Alert - Burn Hen (Japan).ngc",
+      "label": "Dive Alert - Burn Hen (Japan)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Dive Alert - Burn Hen (Japan).ngc",
-      "label": "Dive Alert - Burn Hen (Japan)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Dive Alert - Burn Hen (Japan) (Beta).ngc",
+      "label": "Dive Alert - Burn Hen (Japan) (Beta)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -329,16 +329,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Koi Koi Mahjong (Japan) (v0B).ngc",
-      "label": "Koi Koi Mahjong (Japan) (v0B)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Koi Koi Mahjong (Japan) (v08).ngc",
+      "label": "Koi Koi Mahjong (Japan) (v08)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Koi Koi Mahjong (Japan) (v08).ngc",
-      "label": "Koi Koi Mahjong (Japan) (v08)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Koi Koi Mahjong (Japan) (v0B).ngc",
+      "label": "Koi Koi Mahjong (Japan) (v0B)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -353,16 +353,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Magical Drop Pocket (Japan) (Demo).ngc",
-      "label": "Magical Drop Pocket (Japan) (Demo)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Magical Drop Pocket (Japan).ngc",
+      "label": "Magical Drop Pocket (Japan)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Magical Drop Pocket (Japan).ngc",
-      "label": "Magical Drop Pocket (Japan)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Magical Drop Pocket (Japan) (Demo).ngc",
+      "label": "Magical Drop Pocket (Japan) (Demo)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -393,18 +393,18 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).ngc",
-      "label": "Metal Slug - 2nd Mission (World) (En,Ja) (Demo)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Metal Slug - 2nd Mission (World) (En,Ja).ngc",
+      "label": "Metal Slug - 2nd Mission (World) (En,Ja)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mednafen_ngp_libretro_android.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Metal Slug - 2nd Mission (World) (En,Ja).ngc",
-      "label": "Metal Slug - 2nd Mission (World) (En,Ja)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).ngc",
+      "label": "Metal Slug - 2nd Mission (World) (En,Ja) (Demo)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mednafen_ngp_libretro_android.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
@@ -457,16 +457,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).ngc",
-      "label": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).ngc",
+      "label": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).ngc",
-      "label": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).ngc",
+      "label": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -521,16 +521,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Neo Turf Masters (World) (En,Ja) (Demo).ngc",
-      "label": "Neo Turf Masters (World) (En,Ja) (Demo)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Neo Turf Masters (World) (En,Ja).ngc",
+      "label": "Neo Turf Masters (World) (En,Ja)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Neo Turf Masters (World) (En,Ja).ngc",
-      "label": "Neo Turf Masters (World) (En,Ja)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Neo Turf Masters (World) (En,Ja) (Demo).ngc",
+      "label": "Neo Turf Masters (World) (En,Ja) (Demo)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -561,16 +561,8 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta).ngc",
-      "label": "Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DETECT",
-      "db_name": "All Neo Geo Pocket Color.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Pachinko Hisshou Guide - Pocket Parlor (Japan).ngc",
-      "label": "Pachinko Hisshou Guide - Pocket Parlor (Japan)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Pac-Man (World) (En,Ja).ngc",
+      "label": "Pac-Man (World) (En,Ja)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -689,16 +681,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Pac-Man (World) (En,Ja).ngc",
-      "label": "Pac-Man (World) (En,Ja)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Pachinko Hisshou Guide - Pocket Parlor (Japan).ngc",
+      "label": "Pachinko Hisshou Guide - Pocket Parlor (Japan)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Party Mail (Japan) (Beta).ngc",
-      "label": "Party Mail (Japan) (Beta)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta).ngc",
+      "label": "Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -707,6 +699,14 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Party Mail (Japan).ngc",
       "label": "Party Mail (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Party Mail (Japan) (Beta).ngc",
+      "label": "Party Mail (Japan) (Beta)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -825,14 +825,6 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Rockman - Battle & Fighters (Japan) (Demo).ngc",
-      "label": "Rockman - Battle & Fighters (Japan) (Demo)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DETECT",
-      "db_name": "All Neo Geo Pocket Color.lpl"
-    },
-    {
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Rockman - Battle & Fighters (Japan).ngc",
       "label": "Rockman - Battle & Fighters (Japan)",
       "core_path": "DETECT",
@@ -841,8 +833,24 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Rockman - Battle & Fighters (Japan) (Demo).ngc",
+      "label": "Rockman - Battle & Fighters (Japan) (Demo)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket Color.lpl"
+    },
+    {
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc",
       "label": "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "All Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Shanghai Mini (World) (En,Ja).ngc",
+      "label": "Shanghai Mini (World) (En,Ja)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -859,14 +867,6 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Shanghai Mini (World) (En,Ja) (Beta 2).ngc",
       "label": "Shanghai Mini (World) (En,Ja) (Beta 2)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DETECT",
-      "db_name": "All Neo Geo Pocket Color.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/Shanghai Mini (World) (En,Ja).ngc",
-      "label": "Shanghai Mini (World) (En,Ja)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -929,16 +929,16 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).ngc",
-      "label": "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).ngc",
+      "label": "SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo).ngc",
-      "label": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).ngc",
+      "label": "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",
@@ -953,8 +953,8 @@
       "db_name": "All Neo Geo Pocket Color.lpl"
     },
     {
-      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).ngc",
-      "label": "SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)",
+      "path": "/storage/emulated/0/Tools/ROMs/Z NO-INTRO/SNK - Neo Geo Pocket Color/ROMs/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo).ngc",
+      "label": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DETECT",

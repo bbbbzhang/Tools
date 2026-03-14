@@ -1,0 +1,164 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo Entertainment System/Likes NES ROMs/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).nes",
+      "label": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mesen_libretro_android.so",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/黄金太阳 - 开启的封印[a_nderw+Hambaka](2024新汉化版公测版)(简)(JP)(88Mb).gba",
+      "label": "黄金太阳 - 开启的封印[a_nderw+Hambaka](2024新汉化版公测版)(简)(JP)(88Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/皇家骑士团 - 劳德思的骑士[银手大官人](v1.1)[简](JP)(128Mb).gba",
+      "label": "皇家骑士团 - 劳德思的骑士[银手大官人](v1.1)[简](JP)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/最终幻想战略版A2 封穴的魔法书 V3修正+20220304修正(JP)(巴士汉化组+yggdra)(1024Mb).nds",
+      "label": "最终幻想战略版A2 封穴的魔法书 V3修正+20220304修正(JP)(巴士汉化组+yggdra)(1024Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/最终幻想战略版Advance[熊组+啪嗒啪嗒](美版完全汉化v1.1)(简)(US)(128Mb).gba",
+      "label": "最终幻想战略版Advance[熊组+啪嗒啪嗒](美版完全汉化v1.1)(简)(US)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/洛克人Zero 1[零组](简)(UE)(64Mb).gba",
+      "label": "洛克人Zero 1[零组](简)(UE)(64Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/洛克人Zero 4[天使汉化组](简)(JP)(136Mb).gba",
+      "label": "洛克人Zero 4[天使汉化组](简)(JP)(136Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/洛克人Zero 3[零组](简)(JP)(128Mb).gba",
+      "label": "洛克人Zero 3[零组](简)(JP)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/洛克人Zero 2[Shuo_chen](简)(US)(64Mb).gba",
+      "label": "洛克人Zero 2[Shuo_chen](简)(US)(64Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/恶魔城 废墟的肖像 不死机版(简)(JP)(罪人之塔+YYJoy汉化组+Fciq)(512Mb).nds",
+      "label": "恶魔城 废墟的肖像 不死机版(简)(JP)(罪人之塔+YYJoy汉化组+Fciq)(512Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "",
+      "db_name": "Nintendo - Nintendo DS|Nintendo - Nintendo DS (Download Play)|Nintendo - Nintendo DSi|Nintendo - Nintendo DSi Decrypted|Nintendo - Nintendo DSi (Digital)"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 封印之剑(狼组+火花天龙剑)v1.1+2006090701版+64.00.gba",
+      "label": "火焰纹章 - 封印之剑(狼组+火花天龙剑)v1.1+2006090701版+64.00",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix)(简)(JP)(128Mb).gba",
+      "label": "火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix)(简)(JP)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/火焰纹章 - 纹章之谜(简)(v1.03乱码修复)(狼组+飞雨影)(24Mb).sfc",
+      "label": "火焰纹章 - 纹章之谜(简)(v1.03乱码修复)(狼组+飞雨影)(24Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mesen-s_libretro_android.so",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/火焰纹章 - 多拉基亚776(简)(v1.01+实机菜单修复+标点修复)(狼组+hiken+willzyj)(32Mb).smc",
+      "label": "火焰纹章 - 多拉基亚776(简)(v1.01+实机菜单修复+标点修复)(狼组+hiken+willzyj)(32Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mesen-s_libretro_android.so",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/火焰纹章 - 新暗黑龙与光之剑(JP)(ACG汉化组)(512Mb).nds",
+      "label": "火焰纹章 - 新暗黑龙与光之剑(JP)(ACG汉化组)(512Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "",
+      "db_name": "Nintendo - Nintendo DS|Nintendo - Nintendo DS (Download Play)|Nintendo - Nintendo DSi|Nintendo - Nintendo DSi Decrypted|Nintendo - Nintendo DSi (Digital)"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/火焰纹章 - 圣战系谱 (简) (v1.1)(火花天龙剑)(32Mb).sfc",
+      "label": "火焰纹章 - 圣战系谱 (简) (v1.1)(火花天龙剑)(32Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/snes9x2005_libretro_android.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2005)",
+      "crc32": "DETECT",
+      "db_name": "CN SNES ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/塞尔达传说 幻影沙漏 修正版(简)(JP)(巴士汉化组)(512Mb).nds",
+      "label": "塞尔达传说 幻影沙漏 修正版(简)(JP)(巴士汉化组)(512Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "",
+      "db_name": "Nintendo - Nintendo DS|Nintendo - Nintendo DS (Download Play)|Nintendo - Nintendo DSi|Nintendo - Nintendo DSi Decrypted|Nintendo - Nintendo DSi (Digital)"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/火焰纹章 - 新纹章之谜 光与影的英雄(JP)(ACG汉化组)(1024Mb).nds",
+      "label": "火焰纹章 - 新纹章之谜 光与影的英雄(JP)(ACG汉化组)(1024Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/火焰纹章 - 圣魔之光石[狼组&火花天龙剑](简)(JP)(128Mb).gba",
+      "label": "火焰纹章 - 圣魔之光石[狼组&火花天龙剑](简)(JP)(128Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "DETECT",
+      "db_name": "CN GBA ROMs.lpl"
+    }
+  ]
+}

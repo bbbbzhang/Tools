@@ -1,7 +1,7 @@
 {
   "version": "1.5",
-  "default_core_path": "DETECT",
-  "default_core_name": "DETECT",
+  "default_core_path": "/data/user/0/com.retroarch.aarch64/cores/mednafen_ngp_libretro_android.so",
+  "default_core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,

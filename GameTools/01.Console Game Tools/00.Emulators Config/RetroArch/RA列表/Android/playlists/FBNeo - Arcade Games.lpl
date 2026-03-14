@@ -11,8 +11,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/FBNeo - Arcade Games/Likes Arcade ROMs/avsp.zip",
       "label": "Alien vs Predator (940520 Euro)",
-      "core_path": "/data/user/0/com.retroarch.aarch64/cores/fbneo_libretro_android.so",
-      "core_name": "Arcade (FinalBurn Neo)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/fbalpha2012_libretro_android.so",
+      "core_name": "Arcade (FB Alpha 2012)",
       "crc32": "DETECT",
       "db_name": "FBNeo - Arcade Games.lpl"
     },
@@ -35,8 +35,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/FBNeo - Arcade Games/Likes Arcade ROMs/aof3.zip",
       "label": "Art of Fighting 3 - The Path of the Warrior ◦ Art of Fighting - 龍虎の拳外伝",
-      "core_path": "D:/Tools/Emulators/RetroArch/cores/fbalpha_libretro.dll",
-      "core_name": "Arcade (FinalBurn Alpha)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/fbalpha2012_libretro_android.so",
+      "core_name": "Arcade (FB Alpha 2012)",
       "crc32": "DETECT",
       "db_name": "FBNeo - Arcade Games.lpl"
     },

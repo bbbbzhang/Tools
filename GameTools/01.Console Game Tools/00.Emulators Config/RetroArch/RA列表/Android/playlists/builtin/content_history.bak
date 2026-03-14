@@ -1,0 +1,92 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/恶魔城 废墟的肖像 不死机版(简)(JP)(罪人之塔+YYJoy汉化组+Fciq)(512Mb).nds",
+      "label": "恶魔城 废墟的肖像 不死机版(简)(JP)(罪人之塔+YYJoy汉化组+Fciq)(512Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melonds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "",
+      "db_name": "Nintendo - Nintendo DS|Nintendo - Nintendo DS (Download Play)|Nintendo - Nintendo DSi|Nintendo - Nintendo DSi Decrypted|Nintendo - Nintendo DSi (Digital)"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/塞尔达传说 幻影沙漏 修正版(简)(JP)(巴士汉化组)(512Mb).nds",
+      "label": "塞尔达传说 幻影沙漏 修正版(简)(JP)(巴士汉化组)(512Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melonds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/塞尔达传说 幻影沙漏 修正版(简)(JP)(巴士汉化组)(512Mb).nds",
+      "label": "塞尔达传说 幻影沙漏 修正版(简)(JP)(巴士汉化组)(512Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/Likes NDS ROMs/Castlevania - Order of Ecclesia (USA) (En,Fr).nds",
+      "label": "Castlevania - Order of Ecclesia (USA) (En,Fr)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/恶魔城 被夺的刻印 V3(简)(JP)(ACG汉化组)(512Mb).nds",
+      "label": "恶魔城 被夺的刻印 V3(简)(JP)(ACG汉化组)(512Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo Entertainment System/Likes NES ROMs/Castlevania III - Dracula's Curse (USA).nes",
+      "label": "Castlevania III - Dracula's Curse (USA)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mesen_libretro_android.so",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/最终幻想3(简大)(JP)(NdsBBS汉化组&NDSMAN&LevelUp&天幻网)(1024Mb).nds",
+      "label": "最终幻想3(简大)(JP)(NdsBBS汉化组&NDSMAN&LevelUp&天幻网)(1024Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melonds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "",
+      "db_name": "Nintendo - Nintendo DS|Nintendo - Nintendo DS (Download Play)|Nintendo - Nintendo DSi|Nintendo - Nintendo DSi Decrypted|Nintendo - Nintendo DSi (Digital)"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/CN NDS ROMs/佐贺的超级阿嬷DS(JP)(ACG汉化组)(256Mb).nds",
+      "label": "佐贺的超级阿嬷DS(JP)(ACG汉化组)(256Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melonds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "DETECT",
+      "db_name": "CN NDS ROMs.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Game Boy Advance/CN GBA ROMs/恶魔城 - 月之轮回[施珂昱+ASH自由](2024汉化修正版)(简)(JP)(64Mb).gba",
+      "label": "恶魔城 - 月之轮回[施珂昱+ASH自由](2024汉化修正版)(简)(JP)(64Mb)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/vbam_libretro_android.so",
+      "core_name": "Nintendo - Game Boy Advance (VBA-M)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulated/0/Tools/ROMs/FBNeo - Arcade Games/Likes Arcade ROMs/avsp.zip",
+      "label": "Alien vs Predator (940520 Euro)",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/fbalpha2012_libretro_android.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}
