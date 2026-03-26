@@ -292,6 +292,12 @@ STEAM
 1850570
 CODEX
 
+死亡搁浅2
+v1.0.46.0
+STEAM
+RUNE
+
+
 侠盗猎车手3 重制版
 C:\Users\19654\Documents\Rockstar Games\GTA III Definitive Edition
 CODEX
@@ -515,6 +521,12 @@ Goldberg
 
 忍者龙剑传-西格玛2
 Goldberg
+
+鬼武者1 重制版
+RUNE
+
+鬼武者2 重制版
+Build.16840726
 
 师父
 C:\Users\Public\Documents\Steam\RUNE\2138710
