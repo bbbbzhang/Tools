@@ -77,6 +77,7 @@ Player 1 Input:
     Large Vibration Motor Multiplier: 100
     Small Vibration Motor Multiplier: 100
     Switch Vibration Motors: false
+    Vibration Threshold: 63
     Mouse Movement Mode: Relative
     Mouse Deadzone X Axis: 60
     Mouse Deadzone Y Axis: 60
@@ -169,6 +170,7 @@ Player 2 Input:
     Large Vibration Motor Multiplier: 100
     Small Vibration Motor Multiplier: 100
     Switch Vibration Motors: false
+    Vibration Threshold: 63
     Mouse Movement Mode: Relative
     Mouse Deadzone X Axis: 60
     Mouse Deadzone Y Axis: 60
@@ -261,6 +263,7 @@ Player 3 Input:
     Large Vibration Motor Multiplier: 100
     Small Vibration Motor Multiplier: 100
     Switch Vibration Motors: false
+    Vibration Threshold: 63
     Mouse Movement Mode: Relative
     Mouse Deadzone X Axis: 60
     Mouse Deadzone Y Axis: 60
@@ -353,6 +356,7 @@ Player 4 Input:
     Large Vibration Motor Multiplier: 100
     Small Vibration Motor Multiplier: 100
     Switch Vibration Motors: false
+    Vibration Threshold: 63
     Mouse Movement Mode: Relative
     Mouse Deadzone X Axis: 60
     Mouse Deadzone Y Axis: 60
@@ -445,6 +449,7 @@ Player 5 Input:
     Large Vibration Motor Multiplier: 100
     Small Vibration Motor Multiplier: 100
     Switch Vibration Motors: false
+    Vibration Threshold: 63
     Mouse Movement Mode: Relative
     Mouse Deadzone X Axis: 60
     Mouse Deadzone Y Axis: 60
@@ -537,6 +542,7 @@ Player 6 Input:
     Large Vibration Motor Multiplier: 100
     Small Vibration Motor Multiplier: 100
     Switch Vibration Motors: false
+    Vibration Threshold: 63
     Mouse Movement Mode: Relative
     Mouse Deadzone X Axis: 60
     Mouse Deadzone Y Axis: 60
@@ -629,6 +635,7 @@ Player 7 Input:
     Large Vibration Motor Multiplier: 100
     Small Vibration Motor Multiplier: 100
     Switch Vibration Motors: false
+    Vibration Threshold: 63
     Mouse Movement Mode: Relative
     Mouse Deadzone X Axis: 60
     Mouse Deadzone Y Axis: 60

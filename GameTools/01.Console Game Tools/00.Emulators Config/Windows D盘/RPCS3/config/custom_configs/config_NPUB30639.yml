@@ -84,6 +84,7 @@ Video:
   Handle RSX Memory Tiling: false
   Log shader programs: false
   VSync: true
+  VSync Mode: Full
   Debug output: false
   Debug overlay: false
   Renderdoc Compatibility Mode: false

@@ -73,7 +73,7 @@ Video:
   Renderer: Vulkan
   Resolution: 1280x720
   Aspect ratio: 16:9
-  Frame limit: 60
+  Frame limit: PS3 Native
   Second Frame Limit: 0
   MSAA: Auto
   Shader Mode: Async Shader Recompiler
@@ -85,6 +85,7 @@ Video:
   Handle RSX Memory Tiling: false
   Log shader programs: false
   VSync: true
+  VSync Mode: Full
   Debug output: false
   Debug overlay: false
   Renderdoc Compatibility Mode: false
