@@ -35,7 +35,8 @@ Core:
   HLE lwmutex: false
   Hook static functions: false
   LLVM Precompilation: true
-  Libraries Control: []
+  Libraries Control:
+    []
   MFC Commands Shuffling In Steps: false
   MFC Commands Shuffling Limit: 0
   MFC Commands Timeout: 0
@@ -115,7 +116,8 @@ Input/Output:
   SDL Camera ID: Default
   Show move cursor: false
   Turntable emulated controller: "Null"
-Log: {}
+Log:
+  {}
 Miscellaneous:
   Automatically start games after boot: true
   Enable GameMode: false
@@ -167,7 +169,8 @@ System:
   License Area: SCH
   PSID high: 0
   PSID low: 0
-  Process ARGV: {}
+  Process ARGV:
+    {}
   System Name: RPCS3-826
   Time Format: clock24
 VFS:
@@ -241,7 +244,7 @@ Video:
   Renderdoc Compatibility Mode: false
   Renderer: Vulkan
   Resolution: 1280x720
-  Resolution Scale: 100
+  Resolution Scale: 200
   Second Frame Limit: 0
   Shader Compiler Threads: 0
   Shader Loading Dialog:

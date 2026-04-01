@@ -19,7 +19,6 @@ Audio:
   Time Stretching Threshold: 75
 Core:
   Accurate Cache Line Stores: false
-  Accurate GETLLAR: false
   Accurate PPU 128-byte Reservation Op Max Length: 0
   Accurate RSX reservation access: false
   Accurate SPU DMA: false
@@ -30,8 +29,6 @@ Core:
   Debug Console Mode: false
   Disable SPU GETLLAR Spin Optimization: false
   Enable Performance Report: false
-  Enable TSX: Disabled
-  Full Width AVX-512: true
   HLE lwmutex: false
   Hook static functions: false
   LLVM Precompilation: true
@@ -43,7 +40,7 @@ Core:
   MFC Debug: false
   Max CPU Preempt Count: 0
   Max LLVM Compile Threads: 0
-  Max SPURS Threads: 3
+  Max SPURS Threads: 6
   PPU Accurate Non-Java Mode: false
   PPU Accurate Vector NaN Values: false
   PPU Calling History: false
@@ -59,7 +56,6 @@ Core:
   Performance Report Threshold: 500
   Precise SPU Verification: false
   Preferred SPU Threads: 0
-  RSX FIFO Accuracy: Fast
   RSX FIFO Fetch Accuracy: Atomic
   SPU Block Size: Safe
   SPU Cache: true
@@ -70,7 +66,6 @@ Core:
   SPU LLVM Upper Bound: 18446744073709551615
   SPU Profiler: false
   SPU Reservation Busy Waiting Enabled: false
-  SPU Reservation Busy Waiting Percentage: 0
   SPU Reservation Busy Waiting Percentage 1: 100
   SPU Verification: true
   SPU Wake-Up Delay: 0
@@ -82,13 +77,10 @@ Core:
   Set DAZ and FTZ: false
   Sleep Timers Accuracy: Usleep Only
   Stub PPU Traps: 0
-  TSX Transaction First Limit: 800
-  TSX Transaction Second Limit: 2000
   Thread Scheduler Mode: Operating System
   Use Accurate DFMA: true
   Use LLVM CPU: ""
   Usleep Time Addend: 0
-  XFloat Accuracy: Approximate
 Input/Output:
   Allow move hue set by game: false
   Background input enabled: true
@@ -101,7 +93,6 @@ Input/Output:
   Fake Move Rotation Cone: 10
   Fake Move Rotation Cone (Vertical): 10
   GHLtar emulated controller: "Null"
-  GameTablet emulated controller: Disabled
   IO Debug overlay: false
   Keep pads connected: false
   Keyboard: "Null"
@@ -125,18 +116,16 @@ Miscellaneous:
   GDB Server: 127.0.0.1:2345
   Pause Emulation During Home Menu: false
   Pause emulation on RPCS3 focus loss: false
-  Play music during boot sequence: true
   Prevent display sleep while running games: true
   Show PPU compilation hint: true
   Show RPCN popups: true
   Show analog limiter toggle hint: true
   Show autosave/autoload hint: false
   Show capture hints: true
-  Show fatal error hints: false
   Show mouse and keyboard toggle hint: true
   Show pressure intensity toggle hint: true
   Show shader compilation hint: true
-  Show trophy popups: true
+  Show trophy popups: false
   Silence All Logs: false
   Start games in fullscreen mode: false
   Use native user interface: true
@@ -166,14 +155,12 @@ System:
   Enter button assignment: Enter with cross
   HDD Model Name: ""
   HDD Serial Number: ""
-  Keyboard Type: English keyboard (US standard)
+  Keyboard Type: Chinese keyboard (Traditional)
   Language: Chinese (Traditional)
-  License Area: SCEA
-  PSID high: 0
-  PSID low: 0
+  License Area: SCH
   Process ARGV:
     {}
-  System Name: RPCS3-826
+  System Name: RPCS3-613
   Time Format: clock24
 VFS:
   Disk cache maximum size (MB): 5120
@@ -232,15 +219,12 @@ Video:
     Framerate graph detail level: All
     Frametime datapoints: 170
     Frametime graph detail level: All
-    Horizontal Margin (%): 4
     Horizontal Margin (px): 50
     Metrics update interval (ms): 350
     Opacity (%): 70
     Position: Top Left
     Title Background (hex): "#00000000"
     Title Color (hex): "#F26C24FF"
-    Use Window Space: false
-    Vertical Margin (%): 7
     Vertical Margin (px): 50
   Read Color Buffers: false
   Read Depth Buffer: false
@@ -264,7 +248,6 @@ Video:
   Texture LOD Bias Addend: 0
   Use GPU texture scaling: false
   Use full RGB output range: true
-  VSync: true
   VSync Mode: Full
   Vblank NTSC Fixup: false
   Vblank Rate: 60
@@ -272,10 +255,7 @@ Video:
     Adapter: NVIDIA GeForce RTX 3070 Laptop GPU
     Asynchronous Queue Scheduler: Safe
     Asynchronous Texture Streaming: false
-    Asynchronous Texture Streaming 2: false
     Exclusive Fullscreen Mode: Automatic
-    FidelityFX CAS Sharpening Intensity: 50
-    Force FIFO present mode: false
     Force primitive restart flag: false
     Use Re-BAR for GPU uploads: true
     VRAM allocation limit (MB): 65536
