@@ -172,10 +172,14 @@ Goldberg
 CODEX
 
 生化危机7
-CODEX
-
+COD
 生化危机8
 RUNE
+
+生化危机9
+Build.22277314
+voices38
+
 
 生化危机9
 voices38
@@ -279,6 +283,9 @@ v15.23.00
 C:\Users\Public\Documents\Steam\RUNE\582010\remote
 RUNE
 
+怪物猎人-荒野
+虚拟机破解
+
 尼尔-机械纪元
 C:\Users\19654\Documents\My Games\NieR_Automata
 CODEX
@@ -308,6 +315,10 @@ V1.27.6.703
 STEAM
 2138710
 RUNE
+
+黑神话-悟空
+虚拟机破解
+
 
 ```
 
@@ -754,6 +765,9 @@ SNK VS 卡普空-千年之战
 街头霸王5
 Goldberg
 
+街头霸王6
+虚拟机破解
+
 街头霸王30周年纪念合集
 
 拳皇13GM
@@ -929,7 +943,7 @@ STEAM
 时空勇士
 C:\Users\19654\Documents\My Games\LIVEALIVE
 
-怪物猎人物语 重制版
+怪物猎人-物语 重制版
 v1.1.0
 运行steamclient_loader.exe开始游戏
 Goldberg
@@ -937,9 +951,15 @@ Goldberg
 怪物猎人-物语2
 Goldberg
 
+怪物猎人-物语3
+虚拟机破解
+
 八方旅人0
 RUNE
 C:\Users\Public\Documents\Steam\RUNE\3014320
+
+怪物猎人-物语3
+虚拟机破解
 
 八方旅人
 C:\Users\19654\Documents\My Games\Octopath_Traveler
