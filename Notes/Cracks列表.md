@@ -180,10 +180,6 @@ RUNE
 Build.22277314
 voices38
 
-
-生化危机9
-voices38
-
 生化危机-启示录1
 
 生化危机-启示录2
@@ -722,7 +718,7 @@ STEAM
 毁灭战士
 CODEX
 
-毁灭战士 永恒
+毁灭战士-永恒
 RUNE
 
 毁灭战士-黑暗时代
@@ -958,10 +954,7 @@ Goldberg
 RUNE
 C:\Users\Public\Documents\Steam\RUNE\3014320
 
-怪物猎人-物语3
-虚拟机破解
-
-八方旅人
+八方旅人1
 C:\Users\19654\Documents\My Games\Octopath_Traveler
 
 八方旅人2
@@ -979,7 +972,6 @@ SKIDROW
 
 
 浪漫沙加-吟游诗人之歌 重制版
-
 
 沙加-翠之超越
 RUNE
