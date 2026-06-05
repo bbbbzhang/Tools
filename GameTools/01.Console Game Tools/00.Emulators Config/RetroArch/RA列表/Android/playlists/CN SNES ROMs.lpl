@@ -1,7 +1,7 @@
 {
   "version": "1.5",
-  "default_core_path": "",
-  "default_core_name": "",
+  "default_core_path": "/data/user/0/com.retroarch.aarch64/cores/mesen-s_libretro_android.so",
+  "default_core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,
@@ -11,24 +11,24 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/天地创造 MSU-1版(简)(v2.00花屏文字修正)(Necrosaro+hlken)(32Mb).sfc",
       "label": "天地创造 MSU-1版(简)(v2.00花屏文字修正)(Necrosaro+hlken)(32Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mesen-s_libretro_android.so",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
       "crc32": "DETECT",
       "db_name": "CN SNES ROMs.lpl"
     },
     {
       "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/天外魔境 (简) (v1.0)(ACG & 星组)(40Mb).sfc",
       "label": "天外魔境 (简) (v1.0)(ACG & 星组)(40Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/snes9x_libretro_android.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "DETECT",
       "db_name": "CN SNES ROMs.lpl"
     },
     {
       "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/旅梦人 盗不走的宝石 (简)(32Mb).smc",
       "label": "旅梦人 盗不走的宝石 (简)(32Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mesen-s_libretro_android.so",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
       "crc32": "DETECT",
       "db_name": "CN SNES ROMs.lpl"
     },
@@ -67,8 +67,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Super Nintendo Entertainment System/CN SNES ROMs/重装机兵Returns (简) (v0.96) (狼组+willzyj+hlken)(32Mb).smc",
       "label": "重装机兵Returns (简) (v0.96) (狼组+willzyj+hlken)(32Mb)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/mesen-s_libretro_android.so",
+      "core_name": "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)",
       "crc32": "DETECT",
       "db_name": "CN SNES ROMs.lpl"
     }
