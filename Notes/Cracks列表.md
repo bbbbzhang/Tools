@@ -154,6 +154,15 @@ CODEX
 
 生化危机1
 
+生化危机2 重制版
+
+生化危机3 重制版
+
+生化危机4 重制版
+C:\Users\Public\Documents\EMPRESS\2050650
+STEAM
+EMPRESS
+
 生化危机4
 
 生化危机5
@@ -168,14 +177,8 @@ CODEX
 生化危机8
 RUNE
 
-生化危机2 重制版
-
-生化危机3 重制版
-
-生化危机4 重制版
-C:\Users\Public\Documents\EMPRESS\2050650
-STEAM
-EMPRESS
+生化危机9
+voices38
 
 生化危机-启示录1
 
@@ -711,6 +714,10 @@ CODEX
 毁灭战士 永恒
 RUNE
 
+毁灭战士-黑暗时代
+voices38
+Build20760608
+
 死亡回归
 
 德军总部-新秩序
@@ -772,6 +779,10 @@ STEAM
 ###### 09.RPG
 
 ```
+勇气默示录 重置版
+虚拟机破解
+Build20659789
+
 勇气默示录2
 C:\Users\19654\AppData\Local\Bravely_Default_II
 BuildId.6204549
@@ -802,9 +813,17 @@ C:\Users\19654\AppData\LocalLow\nexon\DAVE THE DIVER
 饥荒
 GOG
 
+勇者斗恶龙1&2 重置版
+tenoke
+v1.0.2.0
+
 勇者斗恶龙3 重制版
 v1.2.0.0
  
+勇者斗恶龙7 重置版
+虚拟机破解
+Build22393810
+
 勇者斗恶龙11S
 C:\Users\19654\Documents\My Games\DRAGON QUEST XI S
 C:\Users\Public\Documents\Steam\CODEX\1295510
@@ -917,6 +936,10 @@ Goldberg
 
 怪物猎人-物语2
 Goldberg
+
+八方旅人0
+RUNE
+C:\Users\Public\Documents\Steam\RUNE\3014320
 
 八方旅人
 C:\Users\19654\Documents\My Games\Octopath_Traveler
