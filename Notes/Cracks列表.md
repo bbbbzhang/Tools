@@ -281,7 +281,8 @@ RUNE
 
 怪物猎人-荒野
 虚拟机破解
-
+Build.22195748
+1.041.03.00
 尼尔-机械纪元
 C:\Users\19654\Documents\My Games\NieR_Automata
 CODEX
@@ -313,7 +314,7 @@ STEAM
 RUNE
 
 黑神话-悟空
-虚拟机破解
+voices38
 
 
 ```
@@ -572,6 +573,8 @@ CODEX
 
 小小梦魇2
 
+小小梦魇3
+
 笼中窥梦
 
 纪念碑谷1
@@ -723,7 +726,7 @@ RUNE
 
 毁灭战士-黑暗时代
 voices38
-Build20760608
+Build.20760608
 
 死亡回归
 
@@ -791,11 +794,11 @@ STEAM
 ```
 勇气默示录 重置版
 虚拟机破解
-Build20659789
+Build.20659789
 
 勇气默示录2
 C:\Users\19654\AppData\Local\Bravely_Default_II
-BuildId.6204549
+Build.6204549
 STEAM
 1446650
 
@@ -832,7 +835,9 @@ v1.2.0.0
  
 勇者斗恶龙7 重置版
 虚拟机破解
-Build22393810
+Build.22393810
+
+勇者斗恶龙10 离线版
 
 勇者斗恶龙11S
 C:\Users\19654\Documents\My Games\DRAGON QUEST XI S
@@ -949,7 +954,8 @@ Goldberg
 
 怪物猎人-物语3
 虚拟机破解
-
+v1.0.03
+ 
 八方旅人0
 RUNE
 C:\Users\Public\Documents\Steam\RUNE\3014320
@@ -996,6 +1002,20 @@ GOG
 
 传说之下
 GOG
+
+女神异闻录3 重制版 
+Build.19891636
+虚拟机破解
+
+女神异闻录4 黄金版
+Build.10836033
+v1.05
+虚拟机破解
+
+女神异闻录5 皇家版
+Build.15515071
+steamid是76561198293599061，不是我的真实steamid，修改该游戏的steamid，会导致无法进入游戏
+
 
 ```
 
