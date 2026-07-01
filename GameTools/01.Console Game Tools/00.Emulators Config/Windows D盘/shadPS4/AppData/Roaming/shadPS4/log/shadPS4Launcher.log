@@ -1,0 +1,24 @@
+[IPC] <Info> ipc_client.cpp:190 onStderr: IPC detected
+[IPC] <Info> ipc_client.cpp:193 onStderr: Feature detected: 'memory_patch'
+[IPC] <Info> ipc_client.cpp:196 onStderr: Feature detected: 'emu_control'
+[IPC] <Info> ipc_client.cpp:205 onStderr: Start emu
+[Loader] <Error> memory_patcher.cpp:148 readPatches: No patch file found for the current serial in repository GoldHEN
+[Loader] <Info> memory_patcher.cpp:247 readPatches: Patches parsed successfully, repository: shadPS4
+[IPC] <Info> ipc_client.cpp:190 onStderr: IPC detected
+[IPC] <Info> ipc_client.cpp:193 onStderr: Feature detected: 'memory_patch'
+[IPC] <Info> ipc_client.cpp:196 onStderr: Feature detected: 'emu_control'
+[IPC] <Info> ipc_client.cpp:205 onStderr: Start emu
+[Loader] <Error> memory_patcher.cpp:148 readPatches: No patch file found for the current serial in repository GoldHEN
+[Loader] <Info> memory_patcher.cpp:247 readPatches: Patches parsed successfully, repository: shadPS4
+[IPC] <Info> ipc_client.cpp:190 onStderr: IPC detected
+[IPC] <Info> ipc_client.cpp:193 onStderr: Feature detected: 'memory_patch'
+[IPC] <Info> ipc_client.cpp:196 onStderr: Feature detected: 'emu_control'
+[IPC] <Info> ipc_client.cpp:205 onStderr: Start emu
+[Loader] <Error> memory_patcher.cpp:148 readPatches: No patch file found for the current serial in repository GoldHEN
+[Loader] <Info> memory_patcher.cpp:247 readPatches: Patches parsed successfully, repository: shadPS4
+[IPC] <Info> ipc_client.cpp:190 onStderr: IPC detected
+[IPC] <Info> ipc_client.cpp:193 onStderr: Feature detected: 'memory_patch'
+[IPC] <Info> ipc_client.cpp:196 onStderr: Feature detected: 'emu_control'
+[IPC] <Info> ipc_client.cpp:205 onStderr: Start emu
+[Loader] <Error> memory_patcher.cpp:148 readPatches: No patch file found for the current serial in repository GoldHEN
+[Loader] <Info> memory_patcher.cpp:247 readPatches: Patches parsed successfully, repository: shadPS4

@@ -5,18 +5,18 @@
     <mlc_path></mlc_path>
     <permanent_storage>true</permanent_storage>
     <language>129</language>
-    <use_discord_presence>true</use_discord_presence>
+    <use_discord_presence>false</use_discord_presence>
     <fullscreen_menubar>false</fullscreen_menubar>
     <feral_gamemode>false</feral_gamemode>
     <check_update>false</check_update>
-    <receive_untested_updates>true</receive_untested_updates>
+    <receive_untested_updates>false</receive_untested_updates>
     <save_screenshot>false</save_screenshot>
     <vk_warning>false</vk_warning>
     <gp_download>true</gp_download>
     <macos_disclaimer>false</macos_disclaimer>
     <fullscreen>false</fullscreen>
     <proxy_server></proxy_server>
-    <disable_screensaver>true</disable_screensaver>
+    <disable_screensaver>false</disable_screensaver>
     <play_boot_sound>false</play_boot_sound>
     <console_language>1</console_language>
     <window_position>
@@ -42,15 +42,17 @@
     <GameList>
         <style>0</style>
         <order>[0, 1, 2, 3, 4, 5, 6, 7, 8]</order>
-        <name_width>500</name_width>
+        <name_width>546</name_width>
         <version_width>60</version_width>
-        <dlc_width>50</dlc_width>
+        <dlc_width>100</dlc_width>
         <game_time_width>0</game_time_width>
         <game_started_width>0</game_started_width>
-        <region_width>602</region_width>
+        <region_width>506</region_width>
         <title_id>0</title_id>
     </GameList>
     <RecentLaunchFiles>
+        <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 风之杖 HD[日版][简体汉化v1.02][91WII汉化组]</Entry>
+        <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 黄昏公主 HD[日版][简体汉化][v82][ACG汉化组]</Entry>
         <Entry>E:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 黄昏公主 HD[日版][简体汉化][v82][ACG汉化组]</Entry>
         <Entry>E:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 风之杖 HD[日版][简体汉化v1.02][91WII汉化组]</Entry>
         <Entry>E:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/耀西的毛线世界[简体汉化][v48][四人][91WII汉化组]</Entry>
@@ -106,7 +108,7 @@
     </GraphicPack>
     <Graphic>
         <api>1</api>
-        <device>a091340541a11cf05d649c967f150a22</device>
+        <device>00000000090000000000000000000000</device>
         <VSync>2</VSync>
         <GX2DrawdoneSync>true</GX2DrawdoneSync>
         <UpscaleFilter>1</UpscaleFilter>

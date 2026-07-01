@@ -1,0 +1,532 @@
+{
+    "AlienIsolation-Orbis.xml": [
+        "CUSA00362",
+        "CUSA00363"
+    ],
+    "AmnesiaTheBunker-Orbis.xml": [
+        "CUSA40994"
+    ],
+    "ArmoredCoreVI-Orbis.xml": [
+        "CUSA25368",
+        "CUSA32598",
+        "CUSA32599",
+        "CUSA32600"
+    ],
+    "AssassinsCreedEzioCollection-Orbis.xml": [
+        "CUSA04893",
+        "CUSA05008",
+        "CUSA05943"
+    ],
+    "AssassinsCreedIII-LiberationRemastered-Orbis.xml": [
+        "CUSA11560"
+    ],
+    "AssassinsCreedIVBlackFlag.xml": [
+        "CUSA00009"
+    ],
+    "AssassinsCreedRougeRemastered-Orbis.xml": [
+        "CUSA10123"
+    ],
+    "AssassinsCreedUnity-Orbis.xml": [
+        "CUSA00663"
+    ],
+    "AssettoCorsaCompetizione-Orbis.xml": [
+        "CUSA17301"
+    ],
+    "BatmanArkhamKnight-Orbis.xml": [
+        "CUSA00133",
+        "CUSA00135",
+        "CUSA01009"
+    ],
+    "BloodborneNetworkTest-Orbis.xml": [
+        "CUSA01318",
+        "CUSA01322",
+        "CUSA01333",
+        "CUSA01335"
+    ],
+    "CallOfDuty-BlackOps4-Orbis.xml": [
+        "CUSA11100"
+    ],
+    "CallofDuty-BlackOps4-PublicBeta.xml": [
+        "CUSA13233"
+    ],
+    "ConcreteGenie-Orbis.xml": [
+        "CUSA11834",
+        "CUSA11875",
+        "CUSA11851"
+    ],
+    "Control-Orbis.xml": [
+        "CUSA11454"
+    ],
+    "CrashBandicootNSaneTrilogy-Orbis.xml": [
+        "CUSA07399",
+        "CUSA07402"
+    ],
+    "CrashTeamRacingEU-Orbis.xml": [
+        "CUSA14876"
+    ],
+    "CrashTeamRacingUS-Orbis.xml": [
+        "CUSA13795"
+    ],
+    "CrisisCoreFinalFantasyVIIReunion-Orbis.xml": [
+        "CUSA31348",
+        "CUSA31349",
+        "CUSA31350",
+        "CUSA31351"
+    ],
+    "DarkSoulsIII-Orbis.xml": [
+        "CUSA03365",
+        "CUSA03388"
+    ],
+    "DarkSoulsIIINetworkStressTest-Orbis.xml": [
+        "CUSA03500"
+    ],
+    "DarkSoulsIIITheFireFadesEdition-Orbis.xml": [
+        "CUSA08155",
+        "CUSA07439"
+    ],
+    "DarkSoulsRemastered-Orbis.xml": [
+        "CUSA08432",
+        "CUSA08495",
+        "CUSA08526",
+        "CUSA08692"
+    ],
+    "Daymare1998-Orbis.xml": [
+        "CUSA17157"
+    ],
+    "DaysGone-Orbis.xml": [
+        "CUSA08966",
+        "CUSA09115",
+        "CUSA09175",
+        "CUSA09176"
+    ],
+    "DeadIsland2-Orbis.xml": [
+        "CUSA01014",
+        "CUSA27043"
+    ],
+    "Deadpool-Orbis.xml": [
+        "CUSA03528",
+        "CUSA03245"
+    ],
+    "DevilMayCry5-Orbis.xml": [
+        "CUSA08161",
+        "CUSA08216",
+        "CUSA08222"
+    ],
+    "Dishonored-Orbis.xml": [
+        "CUSA02218",
+        "CUSA02230",
+        "CUSA02231",
+        "CUSA02441"
+    ],
+    "DoomEternal-Orbis.xml": [
+        "CUSA13338",
+        "CUSA13275"
+    ],
+    "DragonAgeInquisition-Orbis.xml": [
+        "CUSA00220",
+        "CUSA00503",
+        "CUSA00728",
+        "CUSA01425"
+    ],
+    "DragonsDogmaDarkArisen-Orbis.xml": [
+        "CUSA07316",
+        "CUSA09431"
+    ],
+    "Driveclub-Orbis.xml": [
+        "CUSA00003",
+        "CUSA00064",
+        "CUSA00066",
+        "CUSA00093",
+        "CUSA00879"
+    ],
+    "EldenRing-Orbis.xml": [
+        "CUSA28863",
+        "CUSA18723",
+        "CUSA28527"
+    ],
+    "EldenRingNetworkTest-Orbis.xml": [
+        "CUSA18880"
+    ],
+    "Fallout4-Orbis.xml": [
+        "CUSA02557",
+        "CUSA02962",
+        "CUSA03450"
+    ],
+    "FarCry6-Orbis.xml": [
+        "CUSA15778"
+    ],
+    "FatalFrame_MaidenofBlackWater-Orbis.xml": [
+        "CUSA28987"
+    ],
+    "FatalFrame_MaskoftheLunarEclipse-Orbis.xml": [
+        "CUSA36876"
+    ],
+    "FinalFantasyVIIRemake-Orbis.xml": [
+        "CUSA07211",
+        "CUSA07187",
+        "CUSA07052",
+        "CUSA16170"
+    ],
+    "FinalFantasyXV-orbis.xml": [
+        "CUSA01633",
+        "CUSA01615",
+        "CUSA01706",
+        "CUSA01570"
+    ],
+    "GTSport-Orbis.xml": [
+        "CUSA03220",
+        "CUSA03667",
+        "CUSA02168"
+    ],
+    "GhostOfTsushimaDC-Orbis.xml": [
+        "CUSA11456",
+        "CUSA13323"
+    ],
+    "GodOfWar-Orbis.xml": [
+        "CUSA07408",
+        "CUSA07410",
+        "CUSA07411",
+        "CUSA07412",
+        "CUSA07435"
+    ],
+    "GodofWarRagnarok-Orbis.xml": [
+        "CUSA25468",
+        "CUSA25469",
+        "CUSA25470",
+        "CUSA25471",
+        "CUSA31678",
+        "CUSA31679",
+        "CUSA31680",
+        "CUSA31681",
+        "CUSA34256",
+        "CUSA34257",
+        "CUSA34258",
+        "CUSA34259",
+        "CUSA34357",
+        "CUSA34384",
+        "CUSA34385",
+        "CUSA34386",
+        "CUSA34387",
+        "CUSA34388",
+        "CUSA34389",
+        "CUSA34390",
+        "CUSA34391",
+        "CUSA34392",
+        "CUSA34393",
+        "CUSA34394",
+        "CUSA34395"
+    ],
+    "GrandTheftAutoV-Orbis.xml": [
+        "CUSA00411",
+        "CUSA00419",
+        "CUSA00880"
+    ],
+    "GravityDaze2-Orbis.xml": [
+        "CUSA00547",
+        "CUSA03694",
+        "CUSA04934",
+        "CUSA04943"
+    ],
+    "GravityDaze2Demo-Orbis.xml": [
+        "CUSA06596",
+        "CUSA06760",
+        "CUSA07241"
+    ],
+    "HatsuneMiku_ProjectDIVAFutureTone-Orbis.xml": [
+        "CUSA08026",
+        "CUSA08053",
+        "CUSA06093",
+        "CUSA06211",
+        "CUSA05030",
+        "CUSA03828"
+    ],
+    "HellbladeGame-Orbis.xml": [
+        "CUSA07511"
+    ],
+    "HogwartsLegacy-Orbis.xml": [
+        "CUSA12771",
+        "CUSA12824"
+    ],
+    "HorizonForbiddenWest-Orbis.xml": [
+        "CUSA28561",
+        "CUSA24705",
+        "CUSA28563"
+    ],
+    "HorizonZeroDawn-Orbis.xml": [
+        "CUSA01021",
+        "CUSA01967",
+        "CUSA05661",
+        "CUSA05682",
+        "CUSA07319",
+        "CUSA07320",
+        "CUSA07326",
+        "CUSA07350",
+        "CUSA07762",
+        "CUSA07798",
+        "CUSA10211",
+        "CUSA10212",
+        "CUSA10213",
+        "CUSA10218",
+        "CUSA10234",
+        "CUSA10237"
+    ],
+    "JudgmentEU-orbis.xml": [
+        "CUSA13197"
+    ],
+    "JustCause3-Orbis.xml": [
+        "CUSA01493",
+        "CUSA02747",
+        "CUSA02748"
+    ],
+    "JustCause4-Orbis.xml": [
+        "CUSA09254",
+        "CUSA09264",
+        "CUSA12635",
+        "CUSA13217",
+        "CUSA13318"
+    ],
+    "KenaBridgeofSpirits-Orbis.xml": [
+        "CUSA24853"
+    ],
+    "LiesOfP-Orbis.xml": [
+        "CUSA36847",
+        "CUSA36848",
+        "CUSA36849",
+        "CUSA36850"
+    ],
+    "LifeIsStrange-BeforeTheStorm-Orbis.xml": [
+        "CUSA08479",
+        "CUSA08487"
+    ],
+    "LifeisStrange3-TrueColors-Orbis.xml": [
+        "CUSA17941",
+        "CUSA24801"
+    ],
+    "LostJudgmentJP-orbis.xml": [
+        "CUSA28183"
+    ],
+    "MadMax-Orbis.xml": [
+        "CUSA00103",
+        "CUSA00054"
+    ],
+    "Mafia1Remake-Orbis.xml": [
+        "CUSA18097",
+        "CUSA18100",
+        "CUSA19278"
+    ],
+    "Mafia2-Orbis.xml": [
+        "CUSA16990"
+    ],
+    "MarvelsSpider-Man-Orbis.xml": [
+        "CUSA02299",
+        "CUSA11993",
+        "CUSA11994",
+        "CUSA11995",
+        "CUSA09751",
+        "CUSA09893"
+    ],
+    "MarvelsSpider-ManMilesMorales-Orbis.xml": [
+        "CUSA17722",
+        "CUSA17776",
+        "CUSA20177",
+        "CUSA17839",
+        "CUSA18748"
+    ],
+    "MediEvil-Orbis.xml": [
+        "CUSA11227",
+        "CUSA12982"
+    ],
+    "MirrorsEdgeCatalyst-Orbis.xml": [
+        "CUSA01499",
+        "CUSA01542",
+        "CUSA01566"
+    ],
+    "NeedforSpeedHeat-Orbis.xml": [
+        "CUSA15081",
+        "CUSA15090"
+    ],
+    "NeedforSpeedPayback-Orbis.xml": [
+        "CUSA05986",
+        "CUSA05999"
+    ],
+    "NeedforSpeedRivals-Orbis.xml": [
+        "CUSA00113"
+    ],
+    "Persona3Dancing-Orbis.xml": [
+        "CUSA12636"
+    ],
+    "Persona4Dancing-Orbis.xml": [
+        "CUSA12811"
+    ],
+    "Persona5Dancing-Orbis.xml": [
+        "CUSA12380"
+    ],
+    "Persona5Royal-Orbis.xml": [
+        "CUSA17416",
+        "CUSA17419",
+        "CUSA08644"
+    ],
+    "Prototype2.xml": [
+        "CUSA01765"
+    ],
+    "PrototypeBiohazard.xml": [
+        "CUSA06545"
+    ],
+    "RatchetandClankRemakeOrbis.xml": [
+        "CUSA01073",
+        "CUSA01928"
+    ],
+    "RedDeadRedemption-Orbis.xml": [
+        "CUSA36842",
+        "CUSA36843",
+        "CUSA36844",
+        "CUSA36845"
+    ],
+    "RedDeadRedemption2-Orbis.xml": [
+        "CUSA03041",
+        "CUSA08519",
+        "CUSA08568"
+    ],
+    "ResidentEvil2-Orbis.xml": [
+        "CUSA09171",
+        "CUSA09193"
+    ],
+    "ResidentEvil3-Orbis.xml": [
+        "CUSA14168"
+    ],
+    "ResidentEvil4Remake-Orbis.xml": [
+        "CUSA33387",
+        "CUSA33388",
+        "CUSA35714"
+    ],
+    "ResidentEvilHD-Orbis.xml": [
+        "CUSA01067"
+    ],
+    "ResidentEvilOrigins-Orbis.xml": [
+        "CUSA02882"
+    ],
+    "RiseoftheTombRaider-Orbis.xml": [
+        "CUSA05794"
+    ],
+    "SekiroShadowsDieTwice-Orbis.xml": [
+        "CUSA12047",
+        "CUSA13801",
+        "CUSA13910"
+    ],
+    "ShadowoftheColossus-Orbis.xml": [
+        "CUSA08804",
+        "CUSA08809",
+        "CUSA08034"
+    ],
+    "Skyrim-Orbis.xml": [
+        "CUSA05333"
+    ],
+    "SleepingDogs-Orbis.xml": [
+        "CUSA01111"
+    ],
+    "SlientHillsPT.xml": [
+        "CUSA01127",
+        "CUSA01114",
+        "CUSA01098"
+    ],
+    "SonicFrontiers-Orbis.xml": [
+        "CUSA28193",
+        "CUSA28194",
+        "CUSA32054"
+    ],
+    "SoulHacker2-Orbis.xml": [
+        "CUSA27729",
+        "CUSA27730"
+    ],
+    "SpyroReignitedTrilogyEU-Orbis.xml": [
+        "CUSA12085"
+    ],
+    "Stray-Orbis.xml": [
+        "CUSA24899"
+    ],
+    "StreetFighter6-Orbis.xml": [
+        "CUSA31497",
+        "CUSA31498",
+        "CUSA31499",
+        "CUSA31500"
+    ],
+    "Tekken7-Orbis.xml": [
+        "CUSA05972"
+    ],
+    "TheEvilWithin-Orbis.xml": [
+        "CUSA00203"
+    ],
+    "TheLastGuardian-Orbis.xml": [
+        "CUSA03627",
+        "CUSA03745",
+        "CUSA04936"
+    ],
+    "TheLastOfUs1-Orbis.xml": [
+        "CUSA00552",
+        "CUSA00556",
+        "CUSA00557",
+        "CUSA00559"
+    ],
+    "TheLastOfUs2-Orbis.xml": [
+        "CUSA07820",
+        "CUSA10249",
+        "CUSA13986",
+        "CUSA14006"
+    ],
+    "TheOrder1886-Orbis.xml": [
+        "CUSA00035",
+        "CUSA00070",
+        "CUSA00076",
+        "CUSA00100",
+        "CUSA00670",
+        "CUSA00785"
+    ],
+    "TheOuterWorlds-Orbis.xml": [
+        "CUSA16285",
+        "CUSA13689"
+    ],
+    "TheSinkingCity-Orbis.xml": [
+        "CUSA13152"
+    ],
+    "TheTechnomancer-Orbis.xml": [
+        "CUSA03803",
+        "CUSA03824"
+    ],
+    "TheWitcher3-Orbis.xml": [
+        "CUSA05725",
+        "CUSA05574",
+        "CUSA05571",
+        "CUSA05644",
+        "CUSA05572",
+        "CUSA05573"
+    ],
+    "Uncharted4AThiefsEnd-Orbis.xml": [
+        "CUSA00341",
+        "CUSA00917",
+        "CUSA00918",
+        "CUSA04529"
+    ],
+    "UnchartedTheLostLegacy-Orbis.xml": [
+        "CUSA09564",
+        "CUSA07737",
+        "CUSA07875"
+    ],
+    "UnchartedTheNathanDrakeCollection-Orbis.xml": [
+        "CUSA02343",
+        "CUSA02344",
+        "CUSA02826",
+        "CUSA02320"
+    ],
+    "Vampyr-Orbis.xml": [
+        "CUSA03293"
+    ],
+    "WoLong-Orbis.xml": [
+        "CUSA36986",
+        "CUSA36846"
+    ],
+    "Wreckfest-Orbis.xml": [
+        "CUSA08548",
+        "CUSA08652",
+        "CUSA17033"
+    ]
+}
