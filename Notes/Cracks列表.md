@@ -172,7 +172,8 @@ Goldberg
 CODEX
 
 生化危机7
-COD
+CODEX
+
 生化危机8
 RUNE
 
