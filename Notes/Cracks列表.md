@@ -54,7 +54,7 @@ v1.16
 C:\Users\19654\AppData\Roaming\EldenRing
 RUNE
 
-死亡搁浅-导演剪辑版
+死亡搁浅 导演剪辑版
 C:\Users\19654\AppData\Local\KojimaProductions
 Profile/VALVE
 v1.03
@@ -80,7 +80,7 @@ CODEX
 C:\Users\19654\Documents\Rockstar Games\GTA San Andreas Definitive Edition
 CODEX
 
-对马岛之魂-导演剪辑版
+对马岛之魂 导演剪辑版
 Build.14380324 
 STEAM
 2215430
@@ -149,10 +149,10 @@ C:\Users\19654\Documents\Max Payne 2 Savegames
 马克思佩恩3
 进不去
 
-生化危机0
+生化危机0 HD
 CODEX
 
-生化危机1
+生化危机1 HD
 
 生化危机2 重制版
 
@@ -288,7 +288,7 @@ Build.22195748
 C:\Users\19654\Documents\My Games\NieR_Automata
 CODEX
 
-尼尔-人工生命
+尼尔-人工生命 重制版
 Goldberg
 
 忍者龙剑传3-刀锋边缘
@@ -528,12 +528,6 @@ Goldberg
 
 忍者龙剑传-怒之羁绊
 C:\Users\19654\AppData\LocalLow\The Game Kitchen\NINJA GAIDEN Ragebound
-
-哈迪斯1
-
-哈迪斯2
-
-
 
 
 
@@ -793,7 +787,7 @@ STEAM
 ###### 09.RPG
 
 ```
-勇气默示录 重制版
+勇气默示录1 重制版
 虚拟机破解
 Build.20659789
 
@@ -909,13 +903,13 @@ Build.20200806
 STEAM
 377840
 
-最终幻想10
+最终幻想10 重制版
 C:\Users\19654\Documents\SQUARE ENIX\FINAL FANTASY X&X-2 HD Remaster
 Build.20190307
 STEAM
 359870
 
-最终幻想12
+最终幻想12 重制版
 C:\Users\19654\Documents\My Games\FINAL FANTASY XII THE ZODIAC AGE
 C:\Users\Public\Documents\Steam\CODEX\595520
 v1.0.4
@@ -924,7 +918,7 @@ STEAM
 
 最终幻想7-重生
 
-最终幻想7-重制版
+最终幻想7 重制版
 
 最终幻想7-核心危机 重聚
 
