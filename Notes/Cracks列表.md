@@ -113,7 +113,7 @@ FLT
 C:\Users\19654\Documents\Horizon Zero Dawn Remastered
 RUNE
 
-合金装备3 重置版
+合金装备3 重制版
 v1.1.4
 RUNE
 
@@ -589,7 +589,7 @@ tenoke
 
 山
 
-大神 绝景版
+大神 HD
 
 奥博拉丁的回归
 
@@ -793,7 +793,7 @@ STEAM
 ###### 09.RPG
 
 ```
-勇气默示录 重置版
+勇气默示录 重制版
 虚拟机破解
 Build.20659789
 
@@ -827,14 +827,14 @@ C:\Users\19654\AppData\LocalLow\nexon\DAVE THE DIVER
 饥荒
 GOG
 
-勇者斗恶龙1&2 重置版
+勇者斗恶龙1&2 重制版
 tenoke
 v1.0.2.0
 
 勇者斗恶龙3 重制版
 v1.2.0.0
  
-勇者斗恶龙7 重置版
+勇者斗恶龙7 重制版
 虚拟机破解
 Build.22393810
 
