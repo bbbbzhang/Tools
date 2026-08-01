@@ -14,16 +14,16 @@ C:\Users\Public\Documents\Epic\CODEX\AlanWakeRemastered
 更新时间：2021-10-6 10:55
 EPIC
 
-恶霸鲁尼
+恶霸鲁尼 奖学金版
 C:\Users\19654\Documents\Bully Scholarship Edition
 
 古惑狼4
 C:\Users\19654\AppData\Local\CrashBandicoot4
 
-古惑狼合集
+古惑狼合集 重制版
 C:\Users\19654\AppData\Roaming\Game
 
-黑暗之魂1 重制版
+黑暗之魂1 HD
 C:\Users\19654\Documents\NBGI
 Goldberg
 
@@ -54,7 +54,7 @@ v1.16
 C:\Users\19654\AppData\Roaming\EldenRing
 RUNE
 
-死亡搁浅 导演剪辑版
+死亡搁浅1 导演剪辑版
 C:\Users\19654\AppData\Local\KojimaProductions
 Profile/VALVE
 v1.03
@@ -66,7 +66,6 @@ CODEX
 v1.0.46.0
 STEAM
 RUNE
-
 
 侠盗猎车手3 重制版
 C:\Users\19654\Documents\Rockstar Games\GTA III Definitive Edition
@@ -129,7 +128,7 @@ v1.922.0.0
 STEAM
 1895880
 
-荒野大镖客-救赎
+荒野大镖客-救赎1
 C:\Users\19654\AppData\Roaming\.1911\Red Dead Redemption
 C:\Users\19654\Documents\Rockstar Games\Red Dead Redemption
 
@@ -163,7 +162,7 @@ C:\Users\Public\Documents\EMPRESS\2050650
 STEAM
 EMPRESS
 
-生化危机4
+生化危机4 HD
 
 生化危机5
 Goldberg
@@ -214,7 +213,7 @@ C:\Users\19654\AppData\Local\SHf
 闪退解决办法：
 创建“SHf.exe”的快捷方式—属性—目标—末尾添加游戏运行参数（“-”前有空格）： -savetouserdir
 
-最后生还者 重制版
+最后生还者1 重制版
 C:\Users\19654\Saved Games\The Last of Us Part I
 C:\Users\Public\Documents\Steam\RUNE\1888930
 v1.10
@@ -300,10 +299,10 @@ Goldberg
 忍者龙剑传-西格玛2
 Goldberg
 
-鬼武者1 重制版
+鬼武者1 HD
 RUNE
 
-鬼武者2 重制版
+鬼武者2 HD
 Build.16840726
 
 师父
@@ -356,7 +355,7 @@ Goldberg
 
 恶魔城Dominus合集
 
-恶魔城经典合集
+恶魔城纪念合集
 
 洞窟物语+
 GOG
@@ -366,7 +365,7 @@ GOG
 蔚蓝
 ./save
 
-魂斗罗经典合集
+魂斗罗纪念合集
 
 魂斗罗-加鲁加行动
 FLT
@@ -432,7 +431,7 @@ C:\Users\19654\Documents\My Games\HotlineMiami2
 
 光明旅者
 
-赤影战士 重制版
+绝影战士 重制版
 C:\Users\19654\AppData\LocalLow\NatsumeAtari\KAGE Shadow of the Ninja
 
 武士零
@@ -494,7 +493,7 @@ C:\Users\19654\AppData\LocalLow\Yacht Club Games\Shovel Knight Dig
 铲子骑士-无主财宝
 C:\Users\19654\AppData\Roaming\Yacht Club Games\Shovel Knight
 
-雪人兄弟 重制版
+雪人兄弟1 重制版
 Goldberg
 C:\Users\19654\AppData\LocalLow\CRT Games\Snow Bros. Special
 
@@ -639,7 +638,7 @@ GOG
 弗罗伦斯
 Goldberg
 
-幽灵诡计
+幽灵诡计 重制版
 在红米笔记本上，快捷方式无效
  
 画中世界
@@ -694,10 +693,10 @@ Goldberg
 ###### 06.FPS
 
 ```
-生化奇兵1 重制版
+生化奇兵1 HD
 GOG
 
-生化奇兵2 重制版
+生化奇兵2 HD
 GOG
 
 生化奇兵3
@@ -742,7 +741,7 @@ CODEX
 ###### 07.FTG
 
 ```
-卡普空格斗合集
+卡普空格斗合集1
 Goldberg
 
 卡普空格斗合集2
@@ -764,7 +763,7 @@ Goldberg
 
 街头霸王30周年纪念合集
 
-拳皇13GM
+拳皇13
 
 ```
 
@@ -787,7 +786,7 @@ STEAM
 ###### 09.RPG
 
 ```
-勇气默示录1 重制版
+勇气默示录1 HD
 虚拟机破解
 Build.20659789
 
@@ -797,16 +796,16 @@ Build.6204549
 STEAM
 1446650
 
-超时空之轮
+超时空之轮1 HD
 Goldberg
 
-超时空之轮2
+超时空之轮2 HD
 C:\Users\19654\Documents\My Games\CHRONO CROSS  THE RADICAL DREAMERS EDITION
 v1.0.1.0
 STEAM
 1133760
 
-崩溃大陆
+崩溃大陆1
 Goldberg
 
 崩溃大陆2
@@ -846,79 +845,79 @@ STEAM
 勇者斗恶龙-怪兽篇3
 Goldberg
 
-最终幻想1
+最终幻想1 重制版
 C:\Users\19654\Documents\My Games\FINAL FANTASY PR
 C:\Users\19654\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY
 v1.1.0
 STEAM
 1173770
 
-最终幻想2
+最终幻想2 重制版
 C:\Users\19654\Documents\My Games\FINAL FANTASY II PR
 C:\Users\19654\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY II
 v1.1.0
 STEAM
 1173780
 
-最终幻想3
+最终幻想3 重制版
 C:\Users\19654\Documents\My Games\FINAL FANTASY III PR
 C:\Users\19654\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY III
 v1.1.0
 STEAM
 1173790
 
-最终幻想4
+最终幻想4 重制版
 C:\Users\19654\Documents\My Games\FINAL FANTASY IV PR
 C:\Users\19654\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY IV
 v1.1.0
 STEAM
 1173800
 
-最终幻想5
+最终幻想5 重制版
 C:\Users\19654\Documents\My Games\FINAL FANTASY V PR
 C:\Users\19654\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY V
 v1.1.0
 STEAM
 1173810
 
-最终幻想6
+最终幻想6 重制版
 C:\Users\19654\Documents\My Games\FINAL FANTASY VI PR
 C:\Users\19654\AppData\LocalLow\SQUARE ENIX, Inc_\FINAL FANTASY VI
 v1.1.0
 STEAM
 1173820
 
-最终幻想7
+最终幻想7 HD
 https://pan.baidu.com/s/1hGVXy6-QKuQmtOXyJLe1Bw?pwd=7777
 最终幻想7 Remastered 高清计划 传成君哔哩哔哩
 
-最终幻想8
+最终幻想8 HD
 https://pan.baidu.com/s/1fhsxPv15LUFZDHTc_fPqww?pwd=7246
 C:\Users\19654\Documents\My Games\FINAL FANTASY VIII Remastered
 最终幻想8 Remastered 高清计划 传成君哔哩哔哩
 
-最终幻想9
+最终幻想9 HD
 C:\Users\19654\AppData\LocalLow\SquareEnix\FINAL FANTASY IX
 Build.20200806
 STEAM
 377840
 
-最终幻想10 重制版
+最终幻想10&10-2 HD
 C:\Users\19654\Documents\SQUARE ENIX\FINAL FANTASY X&X-2 HD Remaster
 Build.20190307
 STEAM
 359870
 
-最终幻想12 重制版
+最终幻想12 HD
 C:\Users\19654\Documents\My Games\FINAL FANTASY XII THE ZODIAC AGE
 C:\Users\Public\Documents\Steam\CODEX\595520
 v1.0.4
 STEAM
 595520
 
-最终幻想7-重生
-
 最终幻想7 重制版
+
+最终幻想7-重生
 
 最终幻想7-核心危机 重聚
 
@@ -939,7 +938,7 @@ STEAM
 时空勇士
 C:\Users\19654\Documents\My Games\LIVEALIVE
 
-怪物猎人-物语 重制版
+怪物猎人-物语1 HD
 v1.1.0
 运行steamclient_loader.exe开始游戏
 Goldberg
@@ -963,16 +962,16 @@ C:\Users\19654\Documents\My Games\Octopath_Traveler2
 C:\Users\19654\AppData\Local\Octopath_Traveler2
 C:\Users\Public\Documents\Steam\RUNE\1971650
 
-浪漫沙加2-七英雄的复仇
+浪漫沙加2 重制版
 RUNE
 
-浪漫沙加2 重制版
+浪漫沙加2 HD
 SKIDROW
 
-浪漫沙加3 重制版
+浪漫沙加3 HD
 
 
-浪漫沙加-吟游诗人之歌 重制版
+浪漫沙加-吟游诗人之歌 HD
 
 沙加-翠之超越
 RUNE
@@ -980,10 +979,10 @@ RUNE
 沙加-绯色天恩绯色野望
 
 
-沙加-开拓者 重制版
+沙加-开拓者1 HD
 Goldberg
 
-沙加-开拓者2 重制版
+沙加-开拓者2 HD
 SKIDROW
 C:\Users\19654\Documents\bbbbzhang\2452080
 
@@ -998,16 +997,16 @@ GOG
 传说之下
 GOG
 
-女神异闻录3 重制版 
+女神异闻录3R
 Build.19891636
 虚拟机破解
 
-女神异闻录4 黄金版
+女神异闻录4G
 Build.10836033
 v1.05
 虚拟机破解
 
-女神异闻录5 皇家版
+女神异闻录5R
 Build.15515071
 steamid是76561198293599061，不是我的真实steamid，修改该游戏的steamid，会导致无法进入游戏
 
