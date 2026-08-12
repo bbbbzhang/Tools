@@ -3,15 +3,15 @@
 ###### 01.ADV_3D
 
 ```
-心灵杀手2
-C:\Users\19654\AppData\Local\Remedy\AlanWake2
-v1.2.7
-EPIC
-
-心灵杀手1 重制版
+心灵杀手1 HD
 C:\Users\19654\Documents\Remedy\AlanWakeRemastered
 C:\Users\Public\Documents\Epic\CODEX\AlanWakeRemastered
 更新时间：2021-10-6 10:55
+EPIC
+
+心灵杀手2
+C:\Users\19654\AppData\Local\Remedy\AlanWake2
+v1.2.7
 EPIC
 
 恶霸鲁尼 奖学金版
@@ -506,7 +506,7 @@ C:\Users\19654\Documents\Streets of Rage 4 Save and Config
 STEAM
 Goldberg
 
-出击飞龙
+出击飞龙 重制版
 CODEX
 
 忍者神龟-施莱德的复仇
