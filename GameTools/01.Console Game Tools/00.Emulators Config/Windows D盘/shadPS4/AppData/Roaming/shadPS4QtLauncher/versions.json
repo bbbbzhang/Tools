@@ -1,8 +1,22 @@
 [
     {
         "codename": "本地",
-        "date": "2026-06-25",
-        "name": "v0.16.0",
+        "date": "2026-05-27",
+        "name": "v 0.15.0",
+        "path": "D:/Tools/Emulators/shadPS4/versions/v0.15.0/shadPS4.exe",
+        "type": 2
+    },
+    {
+        "codename": "本地",
+        "date": "2026-05-27",
+        "name": "v0.7.0",
+        "path": "D:/Tools/Emulators/shadPS4/versions/v0.7.0 - frobbo - 2025-03-22/shadPS4.exe",
+        "type": 2
+    },
+    {
+        "codename": "本地",
+        "date": "2026-07-30",
+        "name": "0.16",
         "path": "D:/Tools/Emulators/shadPS4/versions/v0.16.0/shadPS4.exe",
         "type": 2
     }

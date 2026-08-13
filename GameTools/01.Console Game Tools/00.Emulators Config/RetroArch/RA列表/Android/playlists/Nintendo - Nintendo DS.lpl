@@ -35,8 +35,8 @@
     {
       "path": "/storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/Likes NDS ROMs/Castlevania - Order of Ecclesia (USA) (En,Fr).nds",
       "label": "Castlevania - Order of Ecclesia (USA) (En,Fr)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },
@@ -627,8 +627,8 @@
     {
       "path": "///storage/emulated/0/Tools/ROMs/Nintendo - Nintendo DS/Likes NDS ROMs/Viewtiful Joe - Double Trouble! (USA).nds",
       "label": "Viewtiful Joe - Double Trouble! (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/data/user/0/com.retroarch.aarch64/cores/melondsds_libretro_android.so",
+      "core_name": "Nintendo - DS (melonDS DS)",
       "crc32": "DETECT",
       "db_name": "Nintendo - Nintendo DS.lpl"
     },

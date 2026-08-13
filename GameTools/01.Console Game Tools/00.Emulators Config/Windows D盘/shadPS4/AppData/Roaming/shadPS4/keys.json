@@ -1,4 +1,34 @@
 {
+    "DebugRifKeyset": {
+        "Coefficient": "",
+        "Exponent1": "",
+        "Exponent2": "",
+        "Modulus": "",
+        "Prime1": "",
+        "Prime2": "",
+        "PrivateExponent": "",
+        "PublicExponent": ""
+    },
+    "FakeKeyset": {
+        "Coefficient": "",
+        "Exponent1": "",
+        "Exponent2": "",
+        "Modulus": "",
+        "Prime1": "",
+        "Prime2": "",
+        "PrivateExponent": "",
+        "PublicExponent": ""
+    },
+    "PkgDerivedKey3Keyset": {
+        "Coefficient": "",
+        "Exponent1": "",
+        "Exponent2": "",
+        "Modulus": "",
+        "Prime1": "",
+        "Prime2": "",
+        "PrivateExponent": "",
+        "PublicExponent": ""
+    },
     "TrophyKeySet": {
         "ReleaseTrophyKey": ""
     }

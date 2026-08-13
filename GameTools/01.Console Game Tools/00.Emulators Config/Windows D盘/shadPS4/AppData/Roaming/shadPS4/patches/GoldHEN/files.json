@@ -37,6 +37,15 @@
         "CUSA00135",
         "CUSA01009"
     ],
+    "Bloodborne-Orbis.xml": [
+        "CUSA00900",
+        "CUSA00207",
+        "CUSA03173",
+        "CUSA00208",
+        "CUSA01363",
+        "CUSA03014",
+        "CUSA03023"
+    ],
     "BloodborneNetworkTest-Orbis.xml": [
         "CUSA01318",
         "CUSA01322",
@@ -351,6 +360,9 @@
     ],
     "NeedforSpeedRivals-Orbis.xml": [
         "CUSA00113"
+    ],
+    "NierAutomata-Orbis.xml": [
+        "CUSA04480"
     ],
     "Persona3Dancing-Orbis.xml": [
         "CUSA12636"
