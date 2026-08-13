@@ -438,6 +438,9 @@ Cemu/settings.xml
 默认配置路径
 C:\Users\19654\AppData\Local\Cemu
 
+存档路径
+Cemu/mlc01/usr/save
+
 塞尔达传说-黄昏公主HD 汉化版 
 更新包安装失败
 
@@ -455,6 +458,9 @@ C:\Users\19654\AppData\Roaming\Citra
 
 Citra/nightly/user/load/mods
 类似于实机的luma/title
+
+存档路径
+Citra/nightly/user/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/00040000
 
 Citra无加速快捷键
 
@@ -501,7 +507,10 @@ Dolphin/Config
 
 洛克人9、10 已安装DLC
 
-
+存档路径
+Dolphin/User/GC
+Dolphin/User/StateSaves
+Dolphin/User/Wii
 
 ------------------------
 安卓海豚模拟器MMJ
@@ -555,6 +564,10 @@ Dolphin/Config
 配置路径
 DuckStation/settings.ini
 
+存档路径
+DuckStation/memcards
+DuckStation/savestates
+
 记忆卡设置为:全部游戏共用记忆卡
 记忆卡名字:duckstation_shared_card_1.mcd
 所有游戏的存档都会在一个mcd文件里面
@@ -571,6 +584,10 @@ DuckStation/settings.ini
 PCSX2/gamesettings
 PCSX2/inis
 
+存档路径
+PCSX2/memcards
+PCSX2/sstates
+
 高分辨率部分游戏显示有问题
 由于模拟器更新，即时存档经常失效
 
@@ -583,6 +600,10 @@ PCSX2/inis
 配置路径
 PPSSPP/memstick/PSP/SYSTEM
 
+存档路径
+PPSSPP/memstick/PSP/SAVEDATA
+PPSSPP/memstick/PSP/PPSSPP_STATE
+
 合金弹头XX、合金装备-和平行者 已安装DLC
 
 极魔界村关闭"跳过缓冲效果"，可解决闪烁
@@ -594,6 +615,10 @@ PPSSPP/memstick/PSP/SYSTEM
 ##### RetroArch
 
 ```
+存档路径
+RetroArch/saves
+RetroArch/states
+
 设置/列表/管理列表/选择列表/指定默认核心
 修改的是playlists里面的default_core_path和default_core_name
 启动游戏后，playlists具体游戏里的core_path和core_name会自动变为default_core_path和default_core_name
@@ -677,7 +702,7 @@ RPCS3/GuiConfigs
 PKG安装数据、更新、DLC
 RPCS3/dev_hdd0/game
 
-存档
+存档路径
 RPCS3/dev_hdd0/home/00000001/savedata
 
 RPCS3模拟器官网
@@ -745,7 +770,7 @@ Eden/user/nand/system/Contents/registered
 NS模拟器、游戏ROM、固件、密钥
 未安装固件虽然可以进入游戏，但游戏可能不显示文字
 
-存档
+存档路径
 Eden/user/nand/user/save
 (user/nand/user/save/0000000000000000/63C3B824B82A9B98B6818BFD192D43D2
 63C3B824B82A9B98B6818BFD192D43D2目录名字和switch用户信息有关系)

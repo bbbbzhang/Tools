@@ -51,9 +51,9 @@
         <title_id>0</title_id>
     </GameList>
     <RecentLaunchFiles>
+        <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 风之杖 HD[日版][简体汉化v1.02][91WII汉化组]</Entry>
         <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 黄昏公主 HD[日版][简体汉化][v82][ACG汉化组]</Entry>
         <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/纸片马里奥 彩色喷涂[日版][简体汉化][v16][漫游汉化组+91Wii汉化组]</Entry>
-        <Entry>D:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 风之杖 HD[日版][简体汉化v1.02][91WII汉化组]</Entry>
         <Entry>E:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 黄昏公主 HD[日版][简体汉化][v82][ACG汉化组]</Entry>
         <Entry>E:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/塞尔达传说 风之杖 HD[日版][简体汉化v1.02][91WII汉化组]</Entry>
         <Entry>E:/Tools/ROMs/Nintendo - Nintendo Wii U/CN WII U ROMs/耀西的毛线世界[简体汉化][v48][四人][91WII汉化组]</Entry>
@@ -66,17 +66,17 @@
     <GameCache/>
     <GraphicPack>
         <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_GreenCharactersTint/rules.txt"/>
-        <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_ImprovePerformance/rules.txt"/>
         <Entry filename="graphicPacks/downloadedGraphicPacks/SkylandersSwapForce/Workarounds/PortalStabilityFix/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_ImprovePerformance/rules.txt"/>
         <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_InvisibleCharactersCutoutMode/rules.txt"/>
-        <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_Resolution/rules.txt">
-            <Preset>
-                <preset>2560x1440</preset>
-            </Preset>
-        </Entry>
         <Entry filename="graphicPacks/downloadedGraphicPacks/YoshisWoollyWorld_Shadows/rules.txt">
             <Preset>
                 <preset>Medium (100%, Default)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/ColorSplash_Resolution/rules.txt">
+            <Preset>
+                <preset>2560x1440</preset>
             </Preset>
         </Entry>
         <Entry filename="graphicPacks/downloadedGraphicPacks/KirbyRainbow_InvisibleLineFix/rules.txt"/>
@@ -90,12 +90,12 @@
                 <preset>2560x1440</preset>
             </Preset>
         </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/YoshisWoollyWorld_60fpsMap/rules.txt"/>
         <Entry filename="graphicPacks/downloadedGraphicPacks/WindWakerHD_Resolution/rules.txt">
             <Preset>
                 <preset>2560x1440</preset>
             </Preset>
         </Entry>
-        <Entry filename="graphicPacks/downloadedGraphicPacks/YoshisWoollyWorld_60fpsMap/rules.txt"/>
         <Entry filename="graphicPacks/downloadedGraphicPacks/WindWakerHD_Shadows/rules.txt">
             <Preset>
                 <preset>Medium (100%, Default)</preset>
