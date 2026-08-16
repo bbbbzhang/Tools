@@ -1,18 +1,8 @@
-PPU-83681f6110d33442329073b72b8dc88a2f677172:
-  Unlock FPS:
-    Demon's Souls:
-      BLUS30443:
-        01.00:
-          Enabled: true
-  Skip Intro Videos:
-    Demon's Souls:
-      BLUS30443:
-        01.00:
-          Enabled: true
-  Disable Motion Blur:
-    Demon's Souls:
-      BLUS30443:
-        01.00:
+PPU-79c9f5ae14fe84851dca7bfe33f58bee3367730b:
+  Aspect Ratio:
+    "Metal Gear Solid 2: Sons of Liberty - HD Edition":
+      NPEB00685:
+        All:
           Enabled: true
 PPU-9403fe1678487def5d7f3c380b4c4fb275035378:
   Unlock FPS:
@@ -30,6 +20,22 @@ PPU-9403fe1678487def5d7f3c380b4c4fb275035378:
       BCAS20071:
         01.04:
           Enabled: true
+PPU-83681f6110d33442329073b72b8dc88a2f677172:
+  Unlock FPS:
+    Demon's Souls:
+      BLUS30443:
+        01.00:
+          Enabled: true
+  Skip Intro Videos:
+    Demon's Souls:
+      BLUS30443:
+        01.00:
+          Enabled: true
+  Disable Motion Blur:
+    Demon's Souls:
+      BLUS30443:
+        01.00:
+          Enabled: true
 PPU-33546066628b10ec09f08a3c29c15611f9e65493:
   60 FPS:
     Grand Theft Auto V (Grand Theft Auto 5):
@@ -41,6 +47,12 @@ PPU-33546066628b10ec09f08a3c29c15611f9e65493:
       NPUB31154:
         01.27:
           Enabled: true
+PPU-90a087f8c40920044c59fa402edf9e416cdd9187:
+  Skip Intro:
+    Red Dead Redemption:
+      BLUS30418:
+        01.00:
+          Enabled: true
 PPU-645f0573d7438e37ddd231377adf9c1205e8a040:
   True widescreen:
     "God of War: HD":
@@ -48,6 +60,11 @@ PPU-645f0573d7438e37ddd231377adf9c1205e8a040:
         01.01:
           Enabled: true
   Skip any videos with X button:
+    "God of War: HD":
+      NPUA80490:
+        01.01:
+          Enabled: true
+  Native PS3 Timing:
     "God of War: HD":
       NPUA80490:
         01.01:
@@ -63,23 +80,16 @@ PPU-9cd8d28963ebc29b59c79819cb56f3d92e857a37:
       NPUA80491:
         01.01:
           Enabled: true
+  Native PS3 Timing:
+    "God of War: II HD":
+      NPUA80491:
+        01.01:
+          Enabled: true
 PPU-a2c90aafce24744d5ac6da8ad009ce301458c8a7:
   Unlock FPS:
     Grand Theft Auto IV (Grand Theft Auto 4):
       NPEB00882:
         01.09:
-          Enabled: true
-PPU-d5041972c3464b734ed27f0b94b505a2a14471c8:
-  Unlock FPS:
-    Grand Theft Auto IV (Grand Theft Auto 4):
-      NPUB30702:
-        01.08:
-          Enabled: true
-PPU-90a087f8c40920044c59fa402edf9e416cdd9187:
-  Skip Intro:
-    Red Dead Redemption:
-      BLUS30418:
-        01.00:
           Enabled: true
 PPU-b4b1ebe7a069782537a13d5bdbc15d6e900ceb25:
   Remove Door Animations:
@@ -105,6 +115,11 @@ PPU-19724fde16a5b111b7b4d2a065f5dccaf8e01962:
         01.03:
           Enabled: true
   Disable MLAA:
+    God of War 3 (God of War III):
+      BCAS25003:
+        01.03:
+          Enabled: true
+  Disable Depth of Field:
     God of War 3 (God of War III):
       BCAS25003:
         01.03:
@@ -187,6 +202,11 @@ PPU-d3a99698275b4203d42c7aeccc053299a5811804:
           Enabled: true
 PPU-3a0b43e4a5f4bfea64f53612ee7c5d990f88129c:
   Disable MLAA:
+    "God of War: Ascension":
+      NPUA80918:
+        01.12:
+          Enabled: true
+  Disable Depth of Field:
     "God of War: Ascension":
       NPUA80918:
         01.12:
@@ -383,14 +403,13 @@ PPU-07b749cb166a9d6a924bb59428880e3836ab67c9:
       NPUA80677:
         01.01:
           Enabled: true
-PPU-79c9f5ae14fe84851dca7bfe33f58bee3367730b:
-  Aspect Ratio:
-    "Metal Gear Solid 2: Sons of Liberty - HD Edition":
-      NPEB00685:
-        All:
-          Enabled: true
 PPU-4a5f4c5ae98f1b8b01294a267790adfa5e8b4501:
   Disable Motion Blur:
+    "Uncharted: Drake's Fortune":
+      BCAS20024:
+        01.01:
+          Enabled: true
+  Disable Depth of Field:
     "Uncharted: Drake's Fortune":
       BCAS20024:
         01.01:
@@ -401,6 +420,11 @@ PPU-4a5f4c5ae98f1b8b01294a267790adfa5e8b4501:
         01.01:
           Enabled: true
   Unlock FPS:
+    "Uncharted: Drake's Fortune":
+      BCAS20024:
+        01.01:
+          Enabled: true
+  Skip Intro:
     "Uncharted: Drake's Fortune":
       BCAS20024:
         01.01:

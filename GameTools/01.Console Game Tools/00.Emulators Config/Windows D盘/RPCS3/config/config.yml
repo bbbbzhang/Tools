@@ -52,9 +52,11 @@ Core:
   PPU LLVM Greedy Mode: false
   PPU LLVM Java Mode Handling: true
   PPU Profiler: false
+  PPU Reservation Priority Over SPUs: false
   PPU Set FPCC Bits: false
   PPU Set Saturation Bit: false
   PPU Threads: 2
+  PPU Vector NaN Handling: true
   Performance Report Threshold: 500
   Precise SPU Verification: false
   Preferred SPU Threads: 0
@@ -108,6 +110,7 @@ Input/Output:
   Lock overlay input to player one: false
   Mouse: Basic
   Mouse Debug overlay: false
+  Mouse-based gyro enabled: false
   Move: "Null"
   Pad handler mode: Single-threaded
   Pad handler sleep (microseconds): 1000
@@ -124,12 +127,14 @@ Miscellaneous:
   GDB Server: 127.0.0.1:2345
   Pause Emulation During Home Menu: false
   Pause emulation on RPCS3 focus loss: false
+  Play music during boot sequence: true
   Prevent display sleep while running games: true
   Show PPU compilation hint: true
   Show RPCN popups: true
   Show analog limiter toggle hint: true
   Show autosave/autoload hint: false
   Show capture hints: true
+  Show fatal error hints: false
   Show mouse and keyboard toggle hint: true
   Show pressure intensity toggle hint: true
   Show shader compilation hint: true
@@ -137,11 +142,13 @@ Miscellaneous:
   Silence All Logs: false
   Start games in fullscreen mode: false
   Use native user interface: true
+  Use recursive scan: false
   Window Title Format: "FPS: %F | %R | %V | %T [%t]"
 Net:
   Bind address: 0.0.0.0
   Clans Enabled: false
   DNS address: 8.8.8.8
+  Derive MAC from PSID: false
   IP address: 0.0.0.0
   IP swap list: ""
   Internet enabled: Disconnected
@@ -187,6 +194,11 @@ Video:
   Aspect ratio: 16:9
   Consecutive Frames To Draw: 1
   Consecutive Frames To Skip: 1
+  Custom Anaglyph Matrices:
+    Matrix Left:
+      {}
+    Matrix Right:
+      {}
   DECR memory layout: false
   Debug Program Analyser: false
   Debug output: false
@@ -202,12 +214,14 @@ Video:
   Disable ZCull Occlusion Queries: false
   Driver Recovery Timeout: 1000000
   Driver Wake-Up Delay: 1
+  Emulate Special Depth Comparison: false
   Enable Frame Skip: false
   FidelityFX CAS Sharpening Intensity: 50
   Force CPU Blit: false
   Force Hardware MSAA Resolve: false
   Force High Precision Z buffer: false
   Frame limit: PS3 Native
+  Framebuffer Aliasing Heuristic Bias: Auto
   Handle RSX Memory Tiling: false
   Log shader programs: false
   MSAA: Auto
@@ -229,12 +243,15 @@ Video:
     Framerate graph detail level: All
     Frametime datapoints: 170
     Frametime graph detail level: All
+    Horizontal Margin (%): 4
     Horizontal Margin (px): 50
     Metrics update interval (ms): 350
     Opacity (%): 70
     Position: Top Left
     Title Background (hex): "#00000000"
     Title Color (hex): "#F26C24FF"
+    Use Window Space: false
+    Vertical Margin (%): 7
     Vertical Margin (px): 50
   Read Color Buffers: false
   Read Depth Buffer: false
@@ -244,10 +261,11 @@ Video:
   Renderer: Vulkan
   Resolution: 1280x720
   Resolution Scale: 100
+  Screen size in inches: 24
   Second Frame Limit: 0
   Shader Compiler Threads: 0
   Shader Loading Dialog:
-    Allow custom background: true
+    Allow custom background: false
     Blur effect strength: 0
     Darkening effect strength: 30
   Shader Mode: Async Recompiler (multi-threaded)
