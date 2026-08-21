@@ -179,6 +179,7 @@ RUNE
 生化危机9
 Build.22277314
 voices38
+C:\Users\19654\AppData\Roaming\GSE Saves
 
 生化危机-启示录1
 
@@ -239,6 +240,9 @@ Profile/VALVE
 v1.4
 STEAM
 1659420
+
+合金装备合集1
+elamigos
 
 ```
 
@@ -530,6 +534,17 @@ Goldberg
 忍者龙剑传-怒之羁绊
 C:\Users\19654\AppData\LocalLow\The Game Kitchen\NINJA GAIDEN Ragebound
 
+雷曼-传奇
+RELOADED
+v1.3.140380
+需要安装根目录下的Support/UplayInstaller.exe，才可以启动游戏
+
+雷曼-起源
+v1.0.32504
+
+超级忍
+虚拟机破解
+Build.22016198
 
 
 ```
@@ -687,6 +702,14 @@ C:\ProgramData\PopCap Games\PlantsVsZombies
 Goldberg
 
 去月球-海滩特别篇
+
+勇敢的心
+RELOADED
+v1.0.140373
+3DM轩辕汉化组
+
+勇敢的心-归乡
+虚拟机破解
 
 
 
@@ -1015,6 +1038,11 @@ v1.05
 Build.15515071
 steamid是76561198293599061，不是我的真实steamid，修改该游戏的steamid，会导致无法进入游戏
 
+光之子
+Revolt Team
+v1.0.31711
+
+
 
 ```
 
@@ -1030,5 +1058,9 @@ C:\Users\19654\Documents\My Games\TRIANGLE_STRATEGY
 
 女神异闻录5T
 虚拟机破解
+
+最终幻想-战略版 重制版
+虚拟机破解
+v1.5.0
 
 ```
