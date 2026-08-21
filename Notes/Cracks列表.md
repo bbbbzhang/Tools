@@ -316,6 +316,8 @@ RUNE
 黑神话-悟空
 voices38
 
+女神异闻录5S
+
 
 ```
 
@@ -765,6 +767,9 @@ Goldberg
 
 拳皇13
 
+女神异闻录4U2
+虚拟机破解
+
 ```
 
 ###### 08.STG
@@ -1023,5 +1028,7 @@ C:\Users\19654\Documents\My Games\Tactics Ogre Reborn
 三角战略
 C:\Users\19654\Documents\My Games\TRIANGLE_STRATEGY
 
+女神异闻录5T
+虚拟机破解
 
 ```
