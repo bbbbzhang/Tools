@@ -247,6 +247,7 @@ elamigos
 1 HD，版本v1.5.0，通过“steam_client.exe”运行游戏
 2 HD，版本v2.0.0，打完手柄补丁后，通过“开始游戏.exe”运行游戏
 3 HD，版本v2.0.0，打完手柄补丁后，通过“开始游戏.exe”运行游戏
+1&2 MSX版，版本v2.0.0，通过“steam_client.exe”运行游戏
 奖励内容，版本v1.5.0，通过“steam_client.exe”运行游戏，奖励内容中没有视频
 
 
