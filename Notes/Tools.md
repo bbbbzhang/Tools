@@ -18,9 +18,6 @@ https://pan.baidu.com/s/1CtEw9SPGRrIZE1FFv5xd8w?pwd=0000
 
 
 
-往百度网盘上传25、26年照片
-
-
 
 
 
