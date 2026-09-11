@@ -244,11 +244,16 @@ STEAM
 合金装备合集1
 elamigos
 更新到v2.0.0后，由于使用了steam的手柄api，故无法连接到手柄，需使用手柄补丁，v1.5.0无此问题，1&2 MSX版没有补丁，所以不能正常使用手柄
-1 HD，版本v1.5.0，通过“steam_client.exe”运行游戏
+1 HD，版本v1.5.0，通过“steamclient_loader.exe”运行游戏
 2 HD，版本v2.0.0，打完手柄补丁后，通过“开始游戏.exe”运行游戏
 3 HD，版本v2.0.0，打完手柄补丁后，通过“开始游戏.exe”运行游戏
-1&2 MSX版，版本v2.0.0，通过“steam_client.exe”运行游戏
-奖励内容，版本v1.5.0，通过“steam_client.exe”运行游戏，奖励内容中没有视频
+1&2 MSX版，版本v2.0.0，通过“steamclient_loader.exe”运行游戏
+奖励内容，版本v1.5.0，通过“steamclient_loader.exe”运行游戏，奖励内容中没有视频
+
+合金装备合集2
+RUNE
+4 HD，版本v1.4.0，通过“launcher.exe”运行游戏
+和平行者 HD，版本v1.3.0，通过“launcher.exe”运行游戏
 
 
 
