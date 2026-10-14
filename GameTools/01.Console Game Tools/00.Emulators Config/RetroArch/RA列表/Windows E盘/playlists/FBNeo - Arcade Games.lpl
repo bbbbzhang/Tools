@@ -432,6 +432,14 @@
       "crc32": "DETECT",
       "db_name": "FBNeo - Arcade Games.lpl"
     },
+        {
+      "path": "E:\\Tools\\ROMs\\FBNeo - Arcade Games\\Likes Arcade ROMs\\nbbatman.zip",
+      "label": "Ninja Baseball Bat Man (World)",
+      "core_path": "E:\\Tools\\Emulators\\RetroArch\\cores\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
     {
       "path": "E:\\Tools\\ROMs\\FBNeo - Arcade Games\\Likes Arcade ROMs\\oldsplus.zip",
       "label": "Oriental Legend 2 (Korea) (World, China, Japan, Hong Kong, Taiwan) (V205)",

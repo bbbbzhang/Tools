@@ -16,6 +16,7 @@ EPIC
 
 恶霸鲁尼 奖学金版
 C:\Users\19654\Documents\Bully Scholarship Edition
+v1.200
 
 古惑狼4
 C:\Users\19654\AppData\Local\CrashBandicoot4
@@ -146,7 +147,7 @@ C:\Users\19654\Documents\Max Payne Savegames
 C:\Users\19654\Documents\Max Payne 2 Savegames
 
 马克思佩恩3
-进不去
+需安装指定旧版的socialclub
 
 生化危机0 HD
 CODEX
