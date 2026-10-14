@@ -147,7 +147,7 @@ C:\Users\19654\Documents\Max Payne Savegames
 C:\Users\19654\Documents\Max Payne 2 Savegames
 
 马克思佩恩3
-需安装指定旧版的socialclub
+打不开
 
 生化危机0 HD
 CODEX
