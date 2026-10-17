@@ -340,8 +340,15 @@ RUNE
 voices38
 
 女神异闻录5S
+v1.0.0
+Goldberg
+设置中文的方法，只有繁体中文
+C:\Users\19654\AppData\Roaming\Goldberg SteamEmu Saves\settings
+打开language.txt
+改成tchinese
 
 剑星
+voices38
 v1.4.1
 
 
