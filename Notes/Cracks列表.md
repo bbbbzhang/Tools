@@ -680,8 +680,6 @@ GOG
 
 不要喂食猴子2099
 
-寻找天堂
-
 弗罗伦斯
 Goldberg
 
@@ -732,6 +730,14 @@ C:\ProgramData\PopCap Games\PlantsVsZombies
 Goldberg
 
 去月球-海滩特别篇
+
+鸟的故事
+3DM
+
+寻找天堂
+
+影子工厂
+Goldberg
 
 勇敢的心
 RELOADED
@@ -980,10 +986,13 @@ STEAM
 最终幻想7-核心危机 重聚
 
 最终幻想13-1
+3DM
 
 最终幻想13-2
+3DM
 
 最终幻想13-3
+3DM
 
 最终幻想15
 
