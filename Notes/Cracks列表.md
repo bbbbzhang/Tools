@@ -748,6 +748,21 @@ v1.0.140373
 虚拟机破解
 
 
+逆转裁判合集1
+CODEX
+
+逆转裁判合集2
+GoldBerg
+双击steamclient_loader_64.exe运行游戏
+
+逆转检事合集
+RUNE
+
+大逆转裁判合集
+CODEX
+设置中文的方法：进Option-Language-Text选日语
+
+
 
 ```
 
@@ -1062,7 +1077,11 @@ GOG
 GOG
 
 传说之下
-GOG
+v1.001 GOG
+v1.08 GOG
+
+三角符文
+v1.002
 
 女神异闻录3R
 Build.19891636
@@ -1081,7 +1100,9 @@ steamid是76561198293599061，不是我的真实steamid，修改该游戏的stea
 Revolt Team
 v1.0.31711
 
-
+冒险家艾略特的千年奇谭
+Build.24232671
+voices38
 
 ```
 
