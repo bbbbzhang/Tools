@@ -755,7 +755,7 @@ CODEX
 GoldBerg
 双击steamclient_loader_64.exe运行游戏
 
-逆转检事合集
+逆转检察官合集
 RUNE
 
 大逆转裁判合集
