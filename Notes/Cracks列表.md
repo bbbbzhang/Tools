@@ -1104,6 +1104,16 @@ v1.0.31711
 Build.24232671
 voices38
 
+洛克人EXE合集1
+Tenoke
+
+洛克人EXE合集2
+RUNE
+
+流星洛克人合集
+Tenoke
+
+
 ```
 
 ###### 10.SLG
