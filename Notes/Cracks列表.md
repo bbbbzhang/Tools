@@ -215,6 +215,10 @@ C:\Users\19654\AppData\Local\SHf
 闪退解决办法：
 创建“SHf.exe”的快捷方式—属性—目标—末尾添加游戏运行参数（“-”前有空格）： -savetouserdir
 
+寂静岭-小镇陷落
+v1.6.155963
+RUNE
+
 最后生还者1 重制版
 C:\Users\19654\Saved Games\The Last of Us Part I
 C:\Users\Public\Documents\Steam\RUNE\1888930
@@ -799,8 +803,7 @@ CODEX
 RUNE
 
 毁灭战士-黑暗时代
-voices38
-Build.20760608
+RUNE
 
 死亡回归
 
@@ -1120,6 +1123,8 @@ RUNE
 流星洛克人合集
 Tenoke
 
+永恒传说 重制版
+Goldberg
 
 ```
 
